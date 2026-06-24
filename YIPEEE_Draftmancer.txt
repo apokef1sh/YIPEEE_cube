@@ -322,7 +322,7 @@
         "name": "Hunt Glavenus",
         "mana_cost": "{4}{R}{G}",
         "type": "Legendary Battle - Hunt ",
-        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenous.png",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenus.png",
         "colors": [
             "R",
             "G"
@@ -332,7 +332,7 @@
             "name": "Glavenus, Hellblade",
             "mana_cost": "",
             "type": "Legendary Creature - Dinosaur Warrior ",
-            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenous%20Hellblade.png",
+            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenus%20Hellblade.png",
             "colors": [
                 "R",
                 "G"
@@ -1036,7 +1036,7 @@
             "name": "Jin Dahaad, Iceshard Emperor",
             "mana_cost": "",
             "type": "Legendary Snow Creature - Leviathan ",
-            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard.png",
+            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard%20Emperor.png",
             "colors": [
                 "U"
             ],
@@ -1158,7 +1158,7 @@
         "name": "Chocola & Vanilla",
         "mana_cost": "{2}{W}{B}",
         "type": "Legendary Creature - Cat ",
-        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%26%20Vanilla.png",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%20Vanilla.png",
         "colors": [
             "W",
             "B"
@@ -1247,6 +1247,18 @@
         "oracle_text": "Partner with Rider. (When this permanent enters, target player may put Rider. into their hand from their library, then shuffle.)\nCommander Ninjutsu 1WUBRG.  (1WUBRG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)\nWhen Ratha attacks, it deals 4 damage to any target.\nMeld with Rider",
         "power": "4",
         "toughness": "4"
+    },
+    {
+        "id": "07885abb-52f9-4ea2-b50a-484f5e71aff3",
+        "name": "Annie, The Crooked One",
+        "mana_cost": "{1}{U}{B}{R}",
+        "type": "Legendary Creature - Human Advisor ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nIf a +1/+1 counter would be put on enchanted creature, put a +1/+1 counter on all creatures you control instead."
     },
     {
         "id": "23a66e48-e78c-47d8-b7d4-413268ac92d5",

@@ -590,7 +590,7 @@ Carve 3</text>
         <coloridentity>RG</coloridentity>
       <loyalty>7</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenous.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenus.png">NYA</set>
       <related attach="transform">Glavenus, Hellblade</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -611,7 +611,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>RG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenous%20Hellblade.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenus%20Hellblade.png">NYA</set>
       <related attach="transform">Hunt Glavenus</related>
       <tablerow>2</tablerow>
       <text>Trample</text>
@@ -1681,7 +1681,7 @@ Carve 5</text>
         <side>back</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard%20Emperor.png">NYA</set>
       <related attach="transform">Hunt Jin Dahaad</related>
       <tablerow>2</tablerow>
       <text>{Q}, Discard 2 or pay {S}: Draw a card. </text>
@@ -1861,7 +1861,7 @@ When a creature is put into a graveyard from play, put X +1/+1 counters on Night
         <side>front</side>
         <coloridentity>WB</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%26%20Vanilla.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%20Vanilla.png">NYA</set>
       <tablerow>2</tablerow>
       <text>Affinity for Humans (This spell costs {1} less to cast for each Human you control.)
 When Chocola &amp; Vanilla enter the battlefield, create a Food token.
@@ -1963,6 +1963,23 @@ Meld with Ratha.</text>
 Commander Ninjutsu 1WUBRG.  (1WUBRG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)
 When Ratha attacks, it deals 4 damage to any target.
 Meld with Rider</text>
+    </card>
+    <card>
+      <name>Annie, The Crooked One</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <side>front</side>
+        <coloridentity>UBR</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png">NYA</set>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, each opponent faces a villainous choice - That player puts a -1/-1 counter on each creature they control, or you gain control of target non-creature permanent that player controls.</text>
     </card>
 
     <!-->Tokens</-->
