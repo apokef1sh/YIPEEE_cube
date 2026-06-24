@@ -2058,7 +2058,7 @@ This Creature is all colours.</text>
       
     </card>
     <card>
-      <name>Food</name>
+      <name>Food Token</name>
       
       <prop>
         <colors></colors>
@@ -2071,7 +2071,7 @@ This Creature is all colours.</text>
       
     </card>
     <card>
-      <name>Treasure</name>
+      <name>Treasure Token</name>
       
       <prop>
         <colors></colors>
