@@ -1,0 +1,1425 @@
+[Settings]
+{
+    "name": "Yipeee Cube 1: The Beginning",
+    "colorBalance": false,
+    "cardBack": "https://lh3.googleusercontent.com/d/1p6BQ9NAWpVMY8vPDJjhU2kvC98-P9joA"
+}
+[CustomCards]
+[
+    {
+        "id": "c600bfcd-1c98-497e-95e2-54e6e26b758e",
+        "name": "Hunt Rathalos",
+        "mana_cost": "{2}{R}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Rathalos.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Rathalos deals 3 damage to that player.\nCarve 3 (When this battle is defeated, each player that had a source they control deal damage to it creates 3 treasure tokens.)",
+		"back": {
+			"name": "Rathalos, King of the Skies",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Rathalos%2C%20King%20of%20the%20Skies.png",
+            "oracle_text": "Flying",
+            "power": "4",
+            "toughness": "4"
+		}
+    },
+    {
+        "id": "9673e408-179a-46b6-ad7b-8bce8c5115f9",
+        "name": "Hunt Rathian",
+        "mana_cost": "{1}{R}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Rathian.png",
+        "colors": [
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Rathian deals 2 damage to that player.\nCarve 3",
+        "back": {
+            "name": "Rathian, Queen of the Land",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dragon",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Rathian%2C%20Queen%20of%20the%20Land.png",
+            "oracle_text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+            "power": "2",
+            "toughness": "4"
+		}
+    },
+    {
+        "id": "d6daae05-527f-43cc-8f85-ca4ec5b2fd53",
+        "name": "Hunt Deviljho",
+        "mana_cost": "{3}{B}{R}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Deviljho.png",
+        "colors": [
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Ward\u2014 Sacrifice a creature (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player  Sacrifice a creature.)\nAt the beginning of each players upkeep, that player faces a villainous choice \u2014 Hunt: Deviljho deals 5 damage to that player or that player sacrifices a creature and puts 2 defense counters on Hunt: Deviljho.\nCarve 3",
+        "back": {
+            "name": "Picklejho, Endless Hunger",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dinosaur ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Picklejho%2C%20Endless%20Hunger.png",
+            "oracle_text": "When a Creature Dies, if \u2018twas dealt damage by Picklejho this turn, put two +1/+1 counters on Picklejho.",
+            "power": "5",
+            "toughness": "6"
+		}
+    },
+    {
+        "id": "9e983a1d-879b-495d-88b2-7216dcd49be7",
+        "name": "Hunt Rey Dau",
+        "mana_cost": "{3}{U}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Rey%20Dau.png",
+        "colors": [
+            "U",
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Rey Dau, Electric Spear",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Rey%20Dau%2C%20Electric%20Spear.png",
+            "oracle_text": "Flying\nWhen Rey Dau attacks, it deals 3 damage to any target.",
+            "power": "4",
+            "toughness": "4"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Rey Dau deals 3 damage to that player. Tap the creature with the highest toughness among creatures that player controls, then put a stun counter on it.\nCarve 3."
+    },
+    {
+        "id": "d821ef23-1bb6-4588-9644-52f20f0474d0",
+        "name": "Hunt Espinas",
+        "mana_cost": "{1}{B}{G}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Espinas.png",
+        "colors": [
+            "U",
+            "B",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Espinas, Forbidden Venom",
+            "mana_cost": "",
+            "type": "Legendary Creature - Drake Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Espinas%2C%20Forbidden%20Venom.png",
+            "oracle_text": "Flying, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
+            "power": "3",
+            "toughness": "3"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Espinas deals 1 damage to that player, then that player gets a poison counter. Tap the creature with the highest mana value amongst creatures that player controls without stun counters, then put a stun counter on it.\nCarve 3"
+    },
+    {
+        "id": "12c40335-1924-4b42-9cd6-e04649bffbc7",
+        "name": "Hunt Kushala Daora",
+        "mana_cost": "{4}{W}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Kushala%20Daora.png",
+        "colors": [
+            "W",
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Kushala Daora, Shadow Upon the Tempest",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Kushala%20Daora%2C%20Shadow%20Upon%20the%20Tempest.png",
+            "oracle_text": "Flying\nWhen Kushala Daora attacks, return up to 2 nonland permanents defending player controls to their owners' hands.",
+            "power": "5",
+            "toughness": "5"
+		},
+        "oracle_text": "At the beginning of each player\u2019s upkeep, Hunt: Kushala Daora deals 3 damage to that player, then they return a nonland, nontoken permanent they control to its owner\u2019s hand.\nCarve 3"
+    },
+    {
+        "id": "f8087e30-eef9-4b17-93ed-309d6f99c201",
+        "name": "Hunt Daimyo Hermitaur",
+        "mana_cost": "{1}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Daimyo%20Hermitaur.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Daimyo Hermitaur, Shelled Sovereign",
+            "mana_cost": "",
+            "type": "Legendary Creature - Crab ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Daimyo%20Hermitaur%2C%20Shelled%20Sovereign.png",
+            "oracle_text": "Hexproof",
+            "power": "1",
+            "toughness": "4"
+		},
+        "oracle_text": "At the beginning of each player\u2019s upkeep, Hunt: Daimyo Hermitaur deals 1 damage to that player.\nCarve 2"
+    },
+    {
+        "id": "29e486e0-46da-4456-90c1-ef9b82d1b3ab",
+        "name": "Hunt Tigrex",
+        "mana_cost": "{2}{R}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Tigrex.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Tigrex, Absolute Power",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dinosaur Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Tigrex%2C%20Absolute%20Power.png",
+            "oracle_text": "Tigrex can\u2019t be blocked.",
+            "power": "4",
+            "toughness": "4"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Tigrex deals 2 damage to that player and they discard a card.\nCarve 3"
+    },
+    {
+        "id": "da306b7c-84db-4328-9dfb-f55650b6de78",
+        "name": "Hunt Nargacuga",
+        "mana_cost": "{2}{B}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Nargacuga.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Nargacuga, Pouncing Shadow",
+            "mana_cost": "",
+            "type": "Legendary Creature - Cat Beast Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Nargacuga%2C%20Pouncing%20Shadow.png",
+            "oracle_text": "Haste, double strike, vigilance",
+            "power": "3",
+            "toughness": "4"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Nargacuga deals 2 damage to that player.\nAt the beginning of each players endstep, Hunt: Nargacuga deals 2 damage to that player.\nCarve 3"
+    },
+    {
+        "id": "c9f2df35-7dc2-4565-a468-954c35c91c56",
+        "name": "Hunt Lagiacrus",
+        "mana_cost": "{4}{U}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Lagiacrus.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Lagiacrus, Lord of the Seas",
+            "mana_cost": "",
+            "type": "Legendary Creature - Leviathan Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Lagiacrus%2C%20Lord%20of%20the%20Seas.png",
+            "oracle_text": "Islandwalk (This creature can\u2019t be blocked as long as defending player controls an Island.)",
+            "power": "5",
+            "toughness": "5"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Lagiacrus deals 1+X damage to that player, where X is the number of islands on the battlefield.\nCarve 3"
+    },
+    {
+        "id": "53ec3a74-8a28-4202-8bfa-f641c7181786",
+        "name": "Hunt Zinogre",
+        "mana_cost": "{2}{W}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Zinogre.png",
+        "colors": [
+            "W",
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Zinogre, Lord of Lightning",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dog Beast ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Zinogre%2C%20Lord%20of%20Lightning.png",
+            "oracle_text": "When Zinogre attacks, draw a card for each tapped creature defending player controls.\nWhen this creature becomes blocked, tap the blocking creature and put a stun counter on it.",
+            "power": "4",
+            "toughness": "4"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Zinogre deals 2 damage to that player and taps an untapped creature with the highest mana value among creatures they control, then puts a stun counter on it.\nCarve 3"
+    },
+    {
+        "id": "b7cf1363-cc38-4400-8dcb-833b0309f8b1",
+        "name": "Hunt Brachydios",
+        "mana_cost": "{3}{G}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Brachydios.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Brachydios, the Crushing Wyvern",
+            "mana_cost": "",
+            "type": "Legendary Creature - Ooze Dinosaur ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Brachydios%2C%20the%20Crushing%20Wyvern.png",
+            "oracle_text": "When Brachydios attacks, defending player creates a green artifact token named Slime with cumulative upkeep {1} and \u201cWhen this artifact leaves the battlefield, it deals 3 damage to its controller.\u201d (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+            "power": "3",
+            "toughness": "5"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Brachydios deals 1 damage to that player, then that player creates a green artifact token named Slime with cumulative upkeep 1 and  \u201cWhen this artifact leaves the battlefield, it deals 3 damage its controller.\u201d (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nCarve 3",
+        "related_cards": [
+            "Slime"
+        ]
+    },
+    {
+        "id": "20b6cb9b-5b09-4a22-8798-805ae30bb94e",
+        "name": "Hunt Gore Magala",
+        "mana_cost": "{5}{B}{B}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Gore%20Magala.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "back": {
+            "id": "457c0a8d-eb16-4602-9549-c153910fc18d",
+            "name": "Gore Magala, Dark Eclipse",
+            "mana_cost": "",
+            "type": "Legendary Creature - Nightmare Dragon  // Legendary Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Gore%20Magala%2C%20Dark%20Eclipse.png",
+            "oracle_text": "When Gore Magala transforms, for each of up to three target creatures, create a colourless Frenzied Role token attached to that creature. (Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.)\n{T}: Target player gets a frenzy counter. If that player has 5 or more frenzy counters, flip Gore Magala.\n--- \nFlying, Indestructible\nIf a source would deal damage to a player with 5 or more frenzy counters, it deals double that damage instead.",
+            "power": "5 // 10",
+            "toughness": "7 // 10"
+		},
+        "oracle_text": "Shroud\nAt the beginning of each player\u2019s upkeep, Hunt: Gore Magala deals 1 damage to that player, then if that player has less than 5 frenzy counters, they gain a frenzy counter unless that player pays 3 or U. (If a player deals 10 combat damage in a turn, remove all frenzy counters from that player and draw a card. If a player has 5 or more frenzy counters, combat damage dealt to them is doubled.) \nCarve 3",
+        "related_cards": [
+            "Frenzied"
+        ]
+    },
+    {
+        "id": "96d64429-6b68-4be5-a22c-d505703d1e87",
+        "name": "Hunt Seregios",
+        "mana_cost": "{3}{W}{B}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Seregios.png",
+        "colors": [
+            "W",
+            "B"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Seregios, Slicing Scales",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Seregios%2C%20Slicing%20Scales.png",
+            "oracle_text": "Flying, double strike, wither (This deals damage to creatures in the form of -1/-1 counters.)",
+            "power": "4",
+            "toughness": "4"
+		},
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Seregios deals 3 damage to that player, and puts three -1/-1 counters divided randomly on creatures they control.\nCarve 3"
+    },
+    {
+        "id": "93d7e578-384f-4c06-978b-5539732d0dd4",
+        "name": "Hunt Glavenus",
+        "mana_cost": "{4}{R}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Glavenous.png",
+        "colors": [
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Glavenus, Hellblade",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dinosaur Warrior ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Glavenous%2C%20Hellblade.png",
+            "colors": [
+                "R",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "Trample",
+            "power": "6",
+            "toughness": "6"
+		},
+        "oracle_text": "At the beginning of each player\u2019s end step, if that player did not attack Hunt: Glavenus this turn, Hunt: Glavenus deals 6 damage to that player.\nCarve 3"
+    },
+    {
+        "id": "004d7225-b589-412c-a894-144ecb5850ee",
+        "name": "Hunt Mizutsune",
+        "mana_cost": "{1}{U}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Mizutsune.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Mizutsune, Bewitching Dancer",
+            "mana_cost": "",
+            "type": "Legendary Creature - Fox Leviathan ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Mizutsune%2C%20Bewitching%20Dancer.png",
+            "colors": [
+                "U"
+            ],
+            "set": "YPE",
+            "oracle_text": "Vigilance\nWhen Mizutsune transforms, draw a card.",
+            "power": "3",
+            "toughness": "5"
+		},
+        "oracle_text": "At the beginning of each player\u2019s upkeep that player flips a coin. If they lose the flip that player takes 1 damage.\nAt the beginning of each players upkeep, they return a non-land permanent they control to its owner\u2019s hand.\nCarve 3"
+    },
+    {
+        "id": "0d4d8145-609b-4949-bac1-bd469af34030",
+        "name": "Hunt Astalos",
+        "mana_cost": "{3}{B}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Astalos.png",
+        "colors": [
+            "B",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Astalos, Thunderous Rage",
+            "mana_cost": "",
+            "type": "Legendary Creature - Insect  Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Astalos%2C%20Thunderous%20Rage.png",
+            "colors": [
+                "B",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "Flying",
+            "power": "5",
+            "toughness": "3"
+		},
+        "oracle_text": "At the beginning of each player\u2019s upkeep, Hunt: Astalos deals X damage to that player, where X is the number of defense counters on Hunt: Astalos.\nCarve 3"
+    },
+    {
+        "id": "92e5d680-d78a-4a7f-8da4-063011b855a4",
+        "name": "Hunt Gammoth",
+        "mana_cost": "{1}{G}{G}{G}",
+        "type": "Legendary Snow Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Gammoth.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Gammoth, Elderfrost",
+            "mana_cost": "",
+            "type": "Legendary Snow Creature - Elephant ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Gammoth%2C%20Elderfrost.png",
+            "colors": [
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "Trample",
+            "power": "8",
+            "toughness": "8"
+        },
+        "oracle_text": "At the beginning of each player\u2019s upkeep, Hunt: Gammoth deals 3 damage to that player.\nWhen a creature becomes tapped, put a stun counter on it.\nCarve 3"
+    },
+    {
+        "id": "a657d92a-99d6-46d8-b4dd-ff56ee84f6e7",
+        "name": "Hunt Valstrax",
+        "mana_cost": "{3}{R}{R}{W}{W}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Valstrax.png",
+        "colors": [
+            "W",
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Valstrax, Star of Despair",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Valstrax%2C%20Star%20of%20Despair.png",
+            "colors": [
+                "W",
+                "R"
+            ],
+            "set": "YPE",
+            "oracle_text": "Flying, vigilance\nWhen Valstrax attacks, put a charge counter on it.\nRemove 10 charge counters from Valstrax: Destroy all other creatures.",
+            "power": "6",
+            "toughness": "6"
+        },
+        "oracle_text": "Indestructible\nAt the beginning of each players upkeep, put a charge counter on Hunt: Valstrax. Then, Hunt: Valstrax deals X damage to that player, where X is the amount of charge counters on Hunt: Valstrax.\nCarve 3"
+    },
+    {
+        "id": "c4637286-44e6-4e3d-afa7-6e2a80da9740",
+        "name": "Hunt Vaal Hazak",
+        "mana_cost": "{3}{B}{B}{B}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Vaal%20Hazak.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Vaal Hazak, Rotten Veil",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Dragon Zombie ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Vaal%20Hazak%2C%20Rotten%20Veil.png",
+            "colors": [
+                "B"
+            ],
+            "set": "YPE",
+            "oracle_text": "Deathtouch\n2UB: Exile target creature from a graveyard, create a token copy of it, except its a 4/4 black zombie.",
+            "power": "5",
+            "toughness": "7"
+        },
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Vaal Hazak deals 4 damage to that player, and puts a random creature from that players graveyard on the battlefield under another player\u2019s control chosen at random.\nCarve 3"
+    },
+    {
+        "id": "d3c0928a-0cdc-45a8-99ed-7297ef200373",
+        "name": "Hunt Velkhana",
+        "mana_cost": "{3}{U}{U}{U}",
+        "type": "Legendary Snow Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Velkhana.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Velkhana, Lord of Ice",
+            "mana_cost": "",
+            "type": "Legendary Snow Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Velkhana%2C%20Lord%20of%20Ice.png",
+            "colors": [
+                "U"
+            ],
+            "set": "YPE",
+            "oracle_text": "Flying\n2{S}: Tap target creature and put an ice counter on it.\nCreatures with ice counters on them don\u2019t untap during their controllers untap steps.",
+            "power": "5",
+            "toughness": "5"
+        },
+        "oracle_text": "Hexproof\nAt the beginning of each players upkeep, Hunt: Velkhana deals 4 damage to that player. Put a stun counter on the creature with the highest toughness among creatures that player controls.\nCarve 3"
+    },
+    {
+        "id": "f866a9b3-4a7b-4dda-8985-9ebe1a03c9c0",
+        "name": "Hunt Magnamalo",
+        "mana_cost": "{3}{B}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Magnamalo.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Magnamalo, Ultimate Malice",
+            "mana_cost": "",
+            "type": "Legendary Creature - Beast ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Magnamalo%2C%20Ultimate%20Malice.png",
+            "colors": [
+                "B",
+                "R"
+            ],
+            "set": "YPE",
+            "oracle_text": "Menace",
+            "power": "5",
+            "toughness": "5"
+        },
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Magnamalo deals 3 damage to that player. Put a finality counter on target creature.\nCarve 3"
+    },
+    {
+        "id": "2f65a7e5-7728-4d1c-9f06-bd15ef154829",
+        "name": "Hunt Malzeno",
+        "mana_cost": "{3}{W}{W}{B}{B}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Malzeno.png",
+        "colors": [
+            "W",
+            "B"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Malzeno, Scarlet Feast",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Vampire Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Malzeno%2C%20Scarlet%20Feast.png",
+            "colors": [
+                "B",
+                "R"
+            ],
+            "set": "YPE",
+            "oracle_text": "Lifelink\nWhen Malzeno enters the battlefield or transforms, Melzeno deals 4 damage to any target.\n{2}, {T}: Exile Malzeno and then return it to the battlefield tapped and transformed under your control.",
+            "power": "7",
+            "toughness": "5"
+        },
+        "oracle_text": "Indestructible\nAt the beginning of each players upkeep, Hunt: Malzeno deals 4 damage to that player. Put a defense counter on Hunt: Malzeno.\nCarve 3"
+    },
+    {
+        "id": "1bccb20b-277c-4b09-b0e7-a2abb1a28299",
+        "name": "Hunt Guardian Arkveld",
+        "mana_cost": "{7}",
+        "type": "Legendary Artifact Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Guardian%20Arkveld.png",
+        "colors": [],
+        "set": "YPE",
+        "back": {
+            "name": "Guardian Arkveld, Chained Construct",
+            "mana_cost": "",
+            "type": "Legendary Artifact Creature - Construct Beast Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Guardian%20Arkveld%2C%20Chained%20Construct.png",
+            "colors": [],
+            "set": "YPE",
+            "oracle_text": "Whenever a battle enters the battlefield under your control, you may pay {2}. If you do, create a token that\u2019s a copy of it, except its not legendary and it\u2019s an artifact.",
+            "power": "4",
+            "toughness": "4"
+        },
+        "oracle_text": "Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)\nAt the beginning of each players upkeep, Hunt: Guardian Arkveld deals 3 damage to that player. At the beginning of each player\u2019s endstep, if that player didn\u2019t attack Hunt: Guardian Arkveld this turn, put a defense counter on it.\nCarve 3."
+    },
+    {
+        "id": "bf1e6395-c893-4883-8677-1a5a572b83b6",
+        "name": "Hunt Bazelgeuse",
+        "mana_cost": "{4}{R}{R}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Bazelgeuse.png",
+        "colors": [
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Bazelgeuse, Party Crasher",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dragon Berserker ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Bazelgeuse%2C%20Party%20Crasher.png",
+            "colors": [
+                "R",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "Flying\nWhen Bazelgeuse attacks, it deals 4 damage divided among any number of target creatures.",
+            "power": "5",
+            "toughness": "4"
+        },
+        "oracle_text": "Flash\nIf Hunt: Bazelgeuse was cast on another players turn, it deals 4 damage to each player.\nAt the beginning of each players upkeep, deal 3 damage to each player.\nCarve 3"
+    },
+    {
+        "id": "f2d11ae6-374f-4226-9145-6c472f32199c",
+        "name": "Hunt Alpha Doshaguma",
+        "mana_cost": "{2}{G}{W}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Alpha%20Doshaguma.png",
+        "colors": [
+            "W",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Alpha Doshaguma, Pack Leader",
+            "mana_cost": "",
+            "type": "Legendary Creature - Beast Bear ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Alpha%20Doshaguma%2C%20Pack%20Leader.png",
+            "colors": [
+                "W",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "When this creature transforms, put X +1/+1 counters on it where X is the number of creatures on the battlefield named Doshaguma.",
+            "power": "1",
+            "toughness": "1"
+        },
+        "oracle_text": "Cleave GW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nAt the beginning of each players upkeep, [Hunt: Doshaguma deals 1 damage to that player, then] that player creates a 2/2 white beast creature token named Doshaguma with banding and \u201cThis creature attacks each combat if able.\u201d\nCarve 3",
+        "related_cards": [
+            "Doshaguma"
+        ]
+    },
+    {
+        "id": "59959171-3bd7-44f8-bffa-853800665198",
+        "name": "Hunt Bloodbath Diablos",
+        "mana_cost": "{2}{R}{R}{R}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Bloodbath%20Diablos.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Bloodbath Diablos, Tempered Anger",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dinosaur Dragon Juggernaut ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Bloodbath%20Diablos%2C%20Tempered%20Anger.png",
+            "colors": [
+                "R"
+            ],
+            "set": "YPE",
+            "oracle_text": "Trample, haste",
+            "power": "8",
+            "toughness": "8"
+        },
+        "oracle_text": "At the beginning of each player\u2019s upkeep, Hunt: Bloodbath Diablos deals 10-X damage to that player, where X is the number of defense counters on Hunt: Bloodbath Diablos. If Hunt: Bloodbath Diablos has 10 or more defense counters, it deals 1 damage instead.\nCarve 3"
+    },
+    {
+        "id": "4e03cf63-c807-42ca-a740-f63f99fa599e",
+        "name": "Felyne Moxie",
+        "mana_cost": "{W}",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Felyne%20Moxie.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Split Second (As long as this spell is on the stack, players can\u2019t cast spells or activate abilities that aren\u2019t mana abilities.)\nYou can\u2019t lose the game this turn and your opponents can\u2019t win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead."
+    },
+    {
+        "id": "a48aadff-db1b-490f-b038-f428c1a475aa",
+        "name": "Invasion of Lao-Shan Lung",
+        "mana_cost": "{6}{R}{G}",
+        "type": "Legendary Battle - Seige ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Invasion%20of%20Lao-Shan%20Lung.png",
+        "colors": [
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Lao-Shan Lung",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Lao-Shan%20Lung.png",
+            "colors": [
+                "R",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "Trample",
+            "power": "13",
+            "toughness": "13"
+        },
+        "oracle_text": "At the beginning of each players upkeep, Invasion of Lao-Shan Lung deals 15 damage divided as they choose among creatures that player controls. Excess damage is dealt to that player instead.\nCarve 5"
+    },
+    {
+        "id": "0d50741f-7fe2-43d2-b48c-368f91ec5c68",
+        "name": "Quest Board",
+        "mana_cost": "{R}{W}",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Quest%20Board.png",
+        "colors": [
+            "W",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Cleave 1RW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nSearch your library for a battle card [reveal it] and put it in your hand and shuffle your library."
+    },
+    {
+        "id": "a1ce03ee-893e-4b89-8886-891808e41aca",
+        "name": "SOS Flare",
+        "mana_cost": "{2}{R}{R}",
+        "type": "Interrupt",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/SOS%20Flare.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "This spell can only be cast during combat before the declare attackers step. Gain control of each creature target opponent controls until end of combat. Untap those creatures. Until end of turn, those creatures attack each combat if able and creatures you control cannot attack that player."
+    },
+    {
+        "id": "4f4c4ee2-866f-4883-b2c8-b0250dfc9d58",
+        "name": "Rocksteady Mantle",
+        "mana_cost": "{6}",
+        "type": "Artifact",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Rocksteady%20Mantle.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "If a source would deal non combat damage to you, it instead deals half that damage rounded up."
+    },
+    {
+        "id": "638391ae-a192-4bb6-996d-595e7df3f91e",
+        "name": "Pick-A-Meal Voucher",
+        "mana_cost": "{4}",
+        "type": "Artifact",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Pick-A-Meal%20Voucher.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your upkeep, create two food tokens."
+    },
+    {
+        "id": "a2743d91-7e70-40cd-bdb1-1143fc17267c",
+        "name": "Paintball",
+        "mana_cost": "{G}{W}{U}",
+        "type": "Enchantment - Aura ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Paintball.png",
+        "colors": [
+            "W",
+            "U",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature or battle\nFlash\nWhen Paintball enters the battlefield, put 3 defense counters on enchanted permanent.\nEnchanted permanent is a hunt battle with \u201cAt the beginning of each player\u2019s upkeep, deal 3 damage to that player. Carve 1.\u201d and loses all other card types and abilities. If enchanted permanent would transform, put it in its controller\u2019s graveyard instead."
+    },
+    {
+        "id": "06bc65db-0877-439c-9193-1eea8cc54bf1",
+        "name": "Schrade's Demise",
+        "mana_cost": "{3}{B}{B}{R}{R}",
+        "type": "Legendary Enchantment - Saga ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Schrade's%20Demise.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": ""
+    },
+    {
+        "id": "e7cfce1a-3bd7-42a1-b13f-f3e54325bdee",
+        "name": "Felyne Insurance",
+        "mana_cost": "{W}",
+        "type": "Enchantment - Aura ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Felyne%20Insurance.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nFlash\nTotem armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)"
+    },
+    {
+        "id": "36159f4b-fa07-4dc9-bb06-0857255ca48c",
+        "name": "Gemma's Mastery",
+        "mana_cost": "{2}{U}",
+        "type": "Enchantment",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Gemmas%20Mastery.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Artifact spells you cast cost {2} less to cast."
+    },
+    {
+        "id": "2b639bbc-8790-4b3d-af13-afd41507a49f",
+        "name": "Palico",
+        "mana_cost": "{3}{W}{U}{B}{R}{G}",
+        "type": "Legendary Creature - Cat Ally ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Palico.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "The Hunter\u2019s Companion - Your deck contains up to 1 creature card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)\nAt the beginning of your end step, if you control a commander and it is tapped, gain 2 health. If it is untapped, put a +1/+1 counter on up to two target creatures.\nIf you would lose the game for the first time, instead your life total becomes 5 and you lose all poison counters. Until end of turn, you have hexproof, you can\u2019t lose the game and your opponents can\u2019t win the game, and all damage that would reduce your life total below 1 is prevented.",
+        "power": "2",
+        "toughness": "3"
+    },
+    {
+        "id": "5d496158-6d14-44fa-90a4-fa082b547260",
+        "name": "Hunter (YPE)",
+        "mana_cost": "{W}{U}{B}{R}{G}",
+        "type": "Legendary Creature - Human Warrior ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunter.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When a battle is defeated, draw a card.\n{2}, Sacrifice a creature: Put X +1/+1 counters on this creature, where X is the sacrificed creature\u2019s power. ",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "4685b6ba-3d39-4cfc-88fa-31b80587a2d7",
+        "name": "Hunt Alatreon",
+        "mana_cost": "{4}{W}{U}{B}{R}{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Alatreon.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Alatreon, The Blazing Black Dragon",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Alatreon%2C%20The%20Blazing%20Black%20Dragon.png",
+            "colors": [
+                "W",
+                "U",
+                "B",
+                "R",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "If you would gain life, gain that much life plus your devotion to white instead.\nIf you would draw a card, draw that many cards plus your devotion to blue instead.\nWhenever you lose life, each opponent loses life equal to your devotion to black.\nWhenever you take damage, Alatreon deals damage to any target equal to your devotion to red.\nAlatreon has +X/+X where X is your devotion to green.",
+            "power": "4",
+            "toughness": "4"
+        },
+        "oracle_text": "Indestructible\nAt the beginning of each players upkeep that player pays mana equal to that players devotion to white, otherwise destroy each land they control. that player also,\n\u2022 Mills cards equal to their devotion to blue.\n\u2022 Loses life equal to their devotion to black.\n\u2022 Sacrifices non-creature permanents equal to their devotion to red.\n\u2022 Sacrifices creatures equal to their devotion to green.\nCarve 3, This card can be your commander."
+    },
+    {
+        "id": "18425cf6-5a26-45aa-95e2-e4ccfdcac4f3",
+        "name": "Slay (YPE)",
+        "mana_cost": "{U}{B} // {1}{G}{U}{R}",
+        "type": "Instant // Instant",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Slay.png",
+        "colors": [
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Choose one:\n\u2022 Remove all defense counters from target battle.\n\u2022 Destroy target creature.\n\u2022 Counter target spell.\n--- \nChoose one:\n\u2022 Gain control of target creature.\n\u2022 Copy target spell. You may choose new targets for the copied spell."
+    },
+    {
+        "id": "13d749cc-8b99-40c3-af55-67d8dd7dce07",
+        "name": "Hunt Fatalis",
+        "mana_cost": "{4}{B}{B}{B}{B}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Fatalis.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Fatalis, The Dark Demise",
+            "mana_cost": "",
+            "type": "Legendary Creature - Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Fatalis%2C%20The%20Dark%20Demise.png",
+            "colors": [
+                "B"
+            ],
+            "set": "YPE",
+            "oracle_text": "\nDeathtouch, trample, flying, shroud, protection from deathtouch. (This creature can\u2019t be blocked, targeted, dealt damage, enchanted, or equipped by anything deathtouch..)",
+            "power": "10",
+            "toughness": "10"
+        },
+        "oracle_text": "This spell cant be countered.\nAt the beginning of each players endstep, that player makes Omen of the Dark Demise, a legendary enchantment token that has \u201cAt the beginning of enchanted player\u2019s upkeep, if Hunt: Fatalis is on the battlefield, that player loses the game.\u201d\nWhen Hunt: Fatalis is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.\nCarve 3",
+        "related_cards": [
+            "Omen of the Dark Demise"
+        ]
+    },
+    {
+        "id": "b28ff7fe-ae0a-4c59-9be5-9e94684facdf",
+        "name": "Hunt Dalamadur",
+        "mana_cost": "{10}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Dalamadur.png",
+        "colors": [],
+        "set": "YPE",
+        "back": {
+            "name": "Dalamadur, World Serpent",
+            "mana_cost": "",
+            "type": "Legendary Creature - Serpent Elder Dragon ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Dalamadur%2C%20World%20Serpent.png",
+            "colors": [],
+            "set": "YPE",
+            "oracle_text": "Trample, ward {4}\nWhenever Dalamadur deals combat damage to a player, create four 3/3 red serpent creature tokens, named Dalamadur\u2019s Coil.",
+            "power": "8",
+            "toughness": "12"
+        },
+        "oracle_text": "This spell can't be countered\nWard 4\nOn each players upkeep, that player sacrifices four non-battle permanents they control. If they can\u2019t, that player loses the game.\nCarve 5",
+        "related_cards": [
+            "Dalamadurs Coil"
+        ]
+    },
+    {
+        "id": "938a4985-995d-4540-90c5-98db11233671",
+        "name": "Ahtal-Neset",
+        "mana_cost": "{4}{B}{R}{G}",
+        "type": "Legendary Artifact - Vehicle ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Ahtal-Neset.png",
+        "colors": [
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Indestructible, reach, trample\nWhen Ahtal-Neset attacks, put an egg counter on another creature without an egg counter on it. When a creature with an egg counter dies, draw a card and put an egg counter on another creature without an egg counter.\nEscape\u2014-5BRG, Exile 2 other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)\nCrew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "power": "6",
+        "toughness": "7"
+    },
+    {
+        "id": "2924230d-04d8-4499-9932-094a7fe3444f",
+        "name": "Hunt Ahtal-Ka",
+        "mana_cost": "{2}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Ahtal-Ka.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Ahtal-Ka, Palace Mantis",
+            "mana_cost": "",
+            "type": "Legendary Creature - Pilot Insect ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Ahtala-Ka%20Palace%20Mantis.png",
+            "colors": [],
+            "set": "YPE",
+            "oracle_text": "Reach\nWhen Ahtal-Ka transforms, put target artifact card from a graveyard onto the battlefield under your control.\nThis creature crews Vehicles as if its power were 2 greater. ",
+            "power": "3",
+            "toughness": "2"
+        },
+        "oracle_text": "At the beginning of each players upkeep, exile a random artifact that player controls until Hunt: Ahtal-ka transforms. If that player has no artifacts, Ahtal-ka deals 2 damage to that player instead.\nCarve 3"
+    },
+    {
+        "id": "07037c56-be1e-49e0-9d6f-f6ddccd0f0ec",
+        "name": "Hunt Zorah Magdaros",
+        "mana_cost": "{3}{R}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Zorah%20Magdaros.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Zorah Magdaros, Scorching Mountain Dragon",
+            "mana_cost": "",
+            "type": "Legendary Land - Mountain ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Zorah%20Magdaros%2C%20Scorching%20Mountain%20Dragon.png",
+            "colors": [],
+            "set": "YPE",
+            "oracle_text": "{T}: Add RR\n2RR: Until end of turn, Zorah Magdaros becomes a 2/8 red dragon creature with indestructible."
+        },
+        "oracle_text": "Permanents enter the battlefield tapped.\nCarve 5"
+    },
+    {
+        "id": "07a3b443-95c9-434d-92b3-22a12279c8aa",
+        "name": "Felyne Weakener",
+        "mana_cost": "{2}{W}",
+        "type": "Enchantment",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Felyne%20Weakener.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "You may cast battle spells for {2} less. If you cast a battle spell this way, it has enters with 1 less defense counter."
+    },
+    {
+        "id": "c3171c2b-145e-4262-9346-b87a419f5d07",
+        "name": "Alma's Curiosity",
+        "mana_cost": "{2}{U}",
+        "type": "Enchantment",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Alma's%20Curiosity.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Alma\u2019s Curiosity enters the battlefield, draw a card for each battle you control.\nWhen a battle you control enters, draw a card."
+    },
+    {
+        "id": "b5c596c7-0b8e-4c03-9c39-51e7dbf11f1c",
+        "name": "Divine Blessing",
+        "mana_cost": "{1}{W}",
+        "type": "Enchantment - Aura ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Divine%20Blessing.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant Creature\nIf enchanted creature would be dealt damage, flip a coin. If you win the flip, prevent that damage."
+    },
+    {
+        "id": "9a8a7674-c5ed-40ac-8a50-51cd9e1eb07d",
+        "name": "Hunt Jin Dahaad",
+        "mana_cost": "{3}{U}{U}",
+        "type": "Legendary Snow Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Jin%20Dahaad.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Jin Dahaad, Iceshard Emperor",
+            "mana_cost": "",
+            "type": "Legendary Snow Creature - Leviathan ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Jin%20Dahaad%2C%20Iceshard.png",
+            "colors": [
+                "U"
+            ],
+            "set": "YPE",
+            "oracle_text": "{Q}, Discard 2 or pay {S}: Draw a card. ",
+            "power": "6",
+            "toughness": "6"
+        },
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Jin Dahaad deals 3 damage to that player. Put a stun counter on each nonland permanent that player controls.\nCarve 5"
+    },
+    {
+        "id": "bf60e7aa-b3f2-4651-8585-4919a378b44a",
+        "name": "Wide Range",
+        "mana_cost": "{3}{G}{G}",
+        "type": "Enchantment - Aura ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Wide%20Range.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nIf a +1/+1 counter would be put on enchanted creature, put a +1/+1 counter on all creatures you control instead."
+    },
+    {
+        "id": "39b60097-2c93-4db2-a5ed-92c3defc558d",
+        "name": "Hunt Poborubarumu",
+        "mana_cost": "{3}{G}{W}{U}{U}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Poborubarumu.png",
+        "colors": [
+            "W",
+            "U",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Poborubarumu",
+            "mana_cost": "",
+            "type": "Legendary Creature - Whale ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Poborubarumu.png",
+            "colors": [],
+            "set": "YPE",
+            "oracle_text": "When Poborubarumu attacks, choose one that hasn\u2019t already been chosen:\n\u2022 All players gain 5 life.\n\u2022 Until end of turn, each creature gets +X/+X, where X is that creature\u2019s power.\n\u2022 Remove all creatures from combat.\n\u2022 Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+            "power": "7",
+            "toughness": "5"
+        },
+        "oracle_text": "At the beginning of each players precombat main phase, that player adds one mana of any colour to their mana pool then draws a card. Then Hunt: Poborubarumu deals 6 damage to that player.\nCarve 4"
+    },
+    {
+        "id": "d28dfa84-5431-4ab5-ad1c-39428bed7767",
+        "name": "Hunt Velocidrome",
+        "mana_cost": "{G}{W}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Velocidrome.png",
+        "colors": [
+            "W",
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "Velocidrome",
+            "mana_cost": "",
+            "type": "Legendary Creature - Dinosaur ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Velcidrome.png",
+            "colors": [
+                "W",
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "First strike",
+            "power": "2",
+            "toughness": "2"
+        },
+        "oracle_text": "At the beginning of each players upkeep, that player creates a 1/1 green Dinosaur creature token named Velociprey.\nCarve 2",
+        "related_cards": [
+            "Velociprey"
+        ]
+    },
+    {
+        "id": "95256e73-69a3-4851-9d7a-9aea5629b3e3",
+        "name": "Hunt Great Jagras",
+        "mana_cost": "{G}",
+        "type": "Legendary Battle - Hunt ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Hunt%20Great%20Jagras.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "back": {
+            "name": "The Greatest Jagras",
+            "mana_cost": "",
+            "type": "Legendary Creature - Lizard Beast ",
+            "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/The%20Greatest%20Jagras.png",
+            "colors": [
+                "G"
+            ],
+            "set": "YPE",
+            "oracle_text": "{T}: Target creature",
+            "power": "1",
+            "toughness": "2"
+        },
+        "oracle_text": "At the beginning of each players upkeep, Hunt: Great Jagras deals 1 damage to that player unless that player pays 2.\nCarve 1"
+    },
+    {
+        "id": "e52e3a4e-d2a8-4062-b5a3-bd3b7ead07a7",
+        "name": "Nightmare (YPE)",
+        "mana_cost": "{5}{B}{B}{B}{B}",
+        "type": "Legendary Creature - Nightmare ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Nightmare.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Menace, lifelink\n{T}: Choose a creature. Put that creature in its owners graveyard.\nWhen a creature is put into a graveyard from play, put X +1/+1 counters on Nightmare, where X is that creatures Power.",
+        "power": "9",
+        "toughness": "9"
+    },
+    {
+        "id": "7f655bfe-3350-4434-9382-aad464e8e7ca",
+        "name": "Chocola & Vanilla",
+        "mana_cost": "{2}{W}{B}",
+        "type": "Legendary Creature - Cat ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Chocola%20%26%20Vanilla.png",
+        "colors": [
+            "W",
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Affinity for Humans (This spell costs {1} less to cast for each Human you control.)\nWhen Chocola & Vanilla enter the battlefield, create a Food token.\nOther Cats you control get +2/+2.\n{T}, Sacrifice a Food: Draw 2 cards.",
+        "power": "0",
+        "toughness": "2"
+    },
+    {
+        "id": "0e794b12-aca8-48c3-bb21-8893faa833a6",
+        "name": "Kazuya Mishima",
+        "mana_cost": "{2}{R}{W}{B}",
+        "type": "Legendary Creature - Human ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Kazuya%20Mishima.png",
+        "colors": [
+            "W",
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Kazuya Mishima fights another target creature. If that creature dies this turn and you controlled that creature, transform Kazuya. Otherwise return that creature to the battlefield under your control.\n\u201cI... Control everything!\u201d",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "f6f602e1-c7e5-4979-afb9-a468e02ef15d",
+        "name": "Devil Kazuya",
+        "mana_cost": "",
+        "type": "Legendary Creature - Demon Human ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Devil%20Kazuya.png",
+        "colors": [
+            "W",
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying, Deathtouch\n{T}: Devil Kazuya fights another target creature.\nWhen Devil Kazuya dies, return him to the battlefield tapped.",
+        "power": "7",
+        "toughness": "7"
+    },
+    {
+        "id": "b1d67d9d-7313-4141-8af9-2ed030b5c15b",
+        "name": "Rider and Ratha",
+        "mana_cost": "",
+        "type": "Legendary Creature - Human Dragon Ally ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Rider%20and%20Ratha.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "Flying, Hexproof, Vigilance\nWhen a battle enters the battlefield draw a card.\nWhen Rider & Ratha attacks, destroy target creature.\nCreatures you control get +4/+4.",
+        "power": "8",
+        "toughness": "8"
+    },
+    {
+        "id": "5a5bd2e5-9ff2-4ccc-9797-fc29a857833c",
+        "name": "Rider",
+        "mana_cost": "{W}{U}{B}{R}{G}",
+        "type": "Legendary Creature - Human ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Rider.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Partner with Ratha.  (When this permanent enters, target player may put Ratha. into their hand from their library, then shuffle.)\nWhen a battle enters the battlefield, draw a card.\nMeld with Ratha.",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "aed87f74-4314-46ea-b1d8-d1aa5360a600",
+        "name": "Ratha",
+        "mana_cost": "{W}{U}{B}{R}{G}",
+        "type": "Legendary Creature - Dragon ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Ratha.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Partner with Rider. (When this permanent enters, target player may put Rider. into their hand from their library, then shuffle.)\nCommander Ninjutsu 1WUBRG.  (1WUBRG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)\nWhen Ratha attacks, it deals 4 damage to any target.\nMeld with Rider",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "23a66e48-e78c-47d8-b7d4-413268ac92d5",
+        "name": "Slime",
+        "mana_cost": "",
+        "type": "Token Creature - Ooze ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Slime.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen this creature dies, it deals 3 damage its controller.",
+        "power": "0",
+        "toughness": "1"
+    },
+    {
+        "id": "f59182d7-3201-4856-a395-667abf386edc",
+        "name": "Frenzied",
+        "mana_cost": "",
+        "type": "Token Enchantment - Aura ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/frenzied.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "Enchant Creature\nEnchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter."
+    },
+    {
+        "id": "b88eb6f8-f018-43c1-93f4-a04c9be1f779",
+        "name": "Doshaguma",
+        "mana_cost": "",
+        "type": "Token Creature - Beast  ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Doshaguma.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature\u2019s combat damage, not its controller, among any of the creatures it\u2019s being blocked by or is blocking.)\nThis creature must attack if able",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "07a9efae-28ac-417b-9e47-fe0218484735",
+        "name": "Castle Schrade",
+        "mana_cost": "",
+        "type": "Legendary Token Land",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Castle%20Schrade.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "{T}: Add one mana of any colour."
+    },
+    {
+        "id": "528620f3-6e0d-4cc6-9512-56986f01ebc7",
+        "name": "Kinsect",
+        "mana_cost": "",
+        "type": "Token Creature - Insect ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Kinsect.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying.\nThis Creature is all colours.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "f86ee0ac-4ee9-4840-9596-8811320c6968",
+        "name": "Food",
+        "mana_cost": "",
+        "type": "Token Artifact - Food ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Food.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "{2}, {T}, Sacrifice this artifact: You gain 2 life."
+    },
+    {
+        "id": "5a8662f5-dc4c-4599-9692-593022b0c7da",
+        "name": "Treasure",
+        "mana_cost": "",
+        "type": "Token Artifact - Treasure ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Treasure.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "{T}, Sacrifice this artifact: Add one mana of any colour."
+    },
+    {
+        "id": "dec3a178-4830-40ce-9794-336934b3bfd1",
+        "name": "Omen of the Dark Demise",
+        "mana_cost": "",
+        "type": "Legendary Token Enchantment",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Omen%20of%20the%20dark%20Demise.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "at the beginning of enchanted player\u2019s Upkeep, if \u2018Hunt: Fatalis\u2019 is on the battlefield, that player loses the game."
+    },
+    {
+        "id": "a185a48f-24ff-40e0-8fa0-2868a3f33310",
+        "name": "Dalamadurs Coil",
+        "mana_cost": "",
+        "type": "Token Creature - Serpent ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Dalamadurs%20Coil.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "337f4f32-fc9d-4a37-b873-55cb6b535c7f",
+        "name": "Velociprey",
+        "mana_cost": "",
+        "type": "Creature Token - Dinosaur ",
+        "image": "https://raw.githubusercontent.com/Oblitorate/MHDocs/main/Velociprey.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1"
+    }
+]
+[MainSlot]
+1 Hunt Rathalos
+1 Hunt Rathian
+1 Hunt Deviljho
+1 Hunt Rey Dau
+1 Hunt Espinas
+1 Hunt Kushala Daora
+1 Hunt Daimyo Hermitaur
+1 Hunt Tigrex
+1 Hunt Nargacuga
+1 Hunt Lagiacrus
+1 Hunt Zinogre
+1 Hunt Brachydios
+1 Hunt Gore Magala
+1 Hunt Seregios
+1 Hunt Glavenus
+1 Hunt Gammoth
+1 Hunt Valstrax
+1 Hunt Fatalis
+1 Hunt Dalamadur
+1 Hunt Ahtal-Ka
+1 Hunt Zorah Magdaros
+1 Hunt Guardian Arkveld
+1 Hunt Bazelgeuse
+1 Hunt Alpha Doshaguma
+1 Hunt Velocidrome
+100 Hunt Great Jagras
+1 Hunt Jin Dahaad
+1 Hunt Alatreon
+1 Hunt Poborubarumu
+1 Hunt Astalos
+1 Invasion of Lao-Shan Lung
+1 Slay (YPE)
+1 Felyne Moxie
+1 Felyne Weakener
+1 Alma's Curiosity
+1 Divine Blessing
+1 Quest Board
+1 SOS Flare
+1 Rocksteady Mantle
+1 Pick-A-Meal Voucher
+1 Paintball
+1 Palico
+1 Hunter (YPE)
+1 Chocola & Vanilla
+1 Kazuya Mishima
+1 Ahtal-Neset
+1 Akroan Horse
