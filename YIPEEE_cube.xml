@@ -21,7 +21,7 @@
         <coloridentity>R</coloridentity>
       <loyalty>4</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathalos.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathalos.png">YPE</set>
       <related attach="transform">Rathalos, King of the Skies</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -43,7 +43,7 @@ Carve 3 (When this battle is defeated, each player that had a source they contro
         <side>back</side>
         <coloridentity>R</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathalos%20King%20of%20the%20Skies.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathalos%20King%20of%20the%20Skies.png">YPE</set>
       <related attach="transform">Hunt Rathalos</related>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -62,7 +62,7 @@ Carve 3 (When this battle is defeated, each player that had a source they contro
         <coloridentity>RG</coloridentity>
       <loyalty>3</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathian.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathian.png">YPE</set>
       <related attach="transform">Rathian, Queen of the Land</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -82,7 +82,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>RG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathian%20Queen%20of%20the%20Land.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathian%20Queen%20of%20the%20Land.png">YPE</set>
       <related attach="transform">Hunt Rathian</related>
       <tablerow>2</tablerow>
       <text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)</text>
@@ -101,7 +101,7 @@ Carve 3</text>
         <coloridentity>BRG</coloridentity>
       <loyalty>7</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Devijho.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Devijho.png">YPE</set>
       <related attach="transform">Picklejho, Endless Hunger</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -123,7 +123,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>BRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Picklejho%20Endless%20Hunger.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Picklejho%20Endless%20Hunger.png">YPE</set>
       <related attach="transform">Hunt Deviljho</related>
       <tablerow>2</tablerow>
       <text>When a Creature Dies, if ‘twas dealt damage by Picklejho this turn, put two +1/+1 counters on Picklejho.</text>
@@ -142,7 +142,7 @@ Carve 3</text>
         <coloridentity>UR</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rey%20Dau.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rey%20Dau.png">YPE</set>
       <related attach="transform">Rey Dau, Electric Spear</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -163,7 +163,7 @@ Carve 3.</text>
         <side>back</side>
         <coloridentity>UR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rey%20Dau%20Electric%20Spear.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rey%20Dau%20Electric%20Spear.png">YPE</set>
       <related attach="transform">Hunt Rey Dau</related>
       <tablerow>2</tablerow>
       <text>Flying
@@ -183,7 +183,7 @@ When Rey Dau attacks, it deals 3 damage to any target.</text>
         <coloridentity>UBG</coloridentity>
       <loyalty>4</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Espinas.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Espinas.png">YPE</set>
       <related attach="transform">Espinas, Forbidden Venom</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -204,7 +204,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>UBG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Espinas%20Forbidden%20Venom.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Espinas%20Forbidden%20Venom.png">YPE</set>
       <related attach="transform">Hunt Espinas</related>
       <tablerow>2</tablerow>
       <text>Flying, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)</text>
@@ -223,7 +223,7 @@ Carve 3</text>
         <coloridentity>WU</coloridentity>
       <loyalty>6</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Kushala%20Daora.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Kushala%20Daora.png">YPE</set>
       <related attach="transform">Kushala Daora, Shadow Upon the Tempest</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -243,7 +243,7 @@ Carve 3</text>
         <pt>5/5</pt>
         <side>back</side>
         <coloridentity></coloridentity>
-      </prop><set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kushala%20Daora%20Shadow%20Upon%20the%20Tempest.png">NYA</set>
+      </prop><set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kushala%20Daora%20Shadow%20Upon%20the%20Tempest.png">YPE</set>
       <related attach="transform">Kushala Daora</related>
       <tablerow>2</tablerow>
       <text>Flying
@@ -263,7 +263,7 @@ When Kushala Daora attacks, return up to 2 nonland permanents defending player c
         <coloridentity>U</coloridentity>
       <loyalty>3</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Daimyo%20Hermitaur.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Daimyo%20Hermitaur.png">YPE</set>
       <related attach="transform">Daimyo Hermitaur, Shelled Sovereign</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -284,7 +284,7 @@ Carve 2</text>
         <side>back</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Daimyo%20Hermitaur%20Shelled%20Sovereign.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Daimyo%20Hermitaur%20Shelled%20Sovereign.png">YPE</set>
       <related attach="transform">Hunt Daimyo Hermitaur</related>
       <tablerow>2</tablerow>
       <text>Hexproof</text>
@@ -303,7 +303,7 @@ Carve 2</text>
         <coloridentity>R</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Tigrex.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Tigrex.png">YPE</set>
       <related attach="transform">Tigrex, Absolute Power</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -324,7 +324,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>R</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tigrex%20Absolute%20Power.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tigrex%20Absolute%20Power.png">YPE</set>
       <related attach="transform">Hunt Tigrex</related>
       <tablerow>2</tablerow>
       <text>Tigrex can’t be blocked.</text>
@@ -343,7 +343,7 @@ Carve 3</text>
         <coloridentity>BR</coloridentity>
       <loyalty>4</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Nargacuga.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Nargacuga.png">YPE</set>
       <related attach="transform">Nargacuga, Pouncing Shadow</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -365,7 +365,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>BR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nargacuga%20Pouncing%20Shadow.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nargacuga%20Pouncing%20Shadow.png">YPE</set>
       <related attach="transform">Hunt Nargacuga</related>
       <tablerow>2</tablerow>
       <text>Haste, double strike, vigilance</text>
@@ -384,7 +384,7 @@ Carve 3</text>
         <coloridentity>U</coloridentity>
       <loyalty>6</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Lagiacrus.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Lagiacrus.png">YPE</set>
       <related attach="transform">Lagiacrus, Lord of the Seas</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -405,7 +405,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lagiacrus%20Lord%20of%20the%20Seas.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lagiacrus%20Lord%20of%20the%20Seas.png">YPE</set>
       <related attach="transform">Hunt Lagiacrus</related>
       <tablerow>2</tablerow>
       <text>Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)</text>
@@ -424,7 +424,7 @@ Carve 3</text>
         <coloridentity>WU</coloridentity>
       <loyalty>4</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zinogre.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zinogre.png">YPE</set>
       <related attach="transform">Zinogre, Lord of Lightning</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -445,7 +445,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>WU</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zinogre%20Lord%20of%20Lightning.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zinogre%20Lord%20of%20Lightning.png">YPE</set>
       <related attach="transform">Hunt Zinogre</related>
       <tablerow>2</tablerow>
       <text>When Zinogre attacks, draw a card for each tapped creature defending player controls.
@@ -465,7 +465,7 @@ When this creature becomes blocked, tap the blocking creature and put a stun cou
         <coloridentity>G</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Brachydios.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Brachydios.png">YPE</set>
       <related attach="transform">Brachydios, the Crushing Wyvern</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -486,7 +486,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>G</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Brachydios%20the%20Crushing%20Wyvern.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Brachydios%20the%20Crushing%20Wyvern.png">YPE</set>
       <related attach="transform">Hunt Brachydios</related>
       <tablerow>2</tablerow>
       <text>When Brachydios attacks, defending player creates a green artifact token named Slime with cumulative upkeep {1} and “When this artifact leaves the battlefield, it deals 3 damage to its controller.” (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
@@ -505,7 +505,7 @@ Carve 3</text>
         <coloridentity>B</coloridentity>
       <loyalty>7</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gore%20Magala.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gore%20Magala.png">YPE</set>
       <related attach="transform">Gore Magala, Dark Eclipse</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -527,7 +527,7 @@ Carve 3</text>
         <coloridentity>B</coloridentity>
     <pt>5/7 // 10/10</pt>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gore%20Magala%20Dark%20Eclipse.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gore%20Magala%20Dark%20Eclipse.png">YPE</set>
       <related attach="transform">Hunt Gore Magala</related>
       <tablerow>2</tablerow>
       <text>When Gore Magala transforms, for each of up to three target creatures, create a colourless Frenzied Role token attached to that creature. (Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.)
@@ -550,7 +550,7 @@ If a source would deal damage to a player with 5 or more frenzy counters, it dea
         <coloridentity>WB</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Seregios.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Seregios.png">YPE</set>
       <related attach="transform">Seregios, Slicing Scales</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -571,7 +571,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>WB</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Seregios%20Slicing%20Scales.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Seregios%20Slicing%20Scales.png">YPE</set>
       <related attach="transform">Hunt Seregios</related>
       <tablerow>2</tablerow>
       <text>Flying, double strike, wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
@@ -590,7 +590,7 @@ Carve 3</text>
         <coloridentity>RG</coloridentity>
       <loyalty>7</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenus.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenus.png">YPE</set>
       <related attach="transform">Glavenus, Hellblade</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -611,7 +611,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>RG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenus%20Hellblade.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenus%20Hellblade.png">YPE</set>
       <related attach="transform">Hunt Glavenus</related>
       <tablerow>2</tablerow>
       <text>Trample</text>
@@ -630,7 +630,7 @@ Carve 3</text>
         <coloridentity>U</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Mizutsune.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Mizutsune.png">YPE</set>
       <related attach="transform">Mizutsune, Bewitching Dancer</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -652,7 +652,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Mizutsune%20Bewitching%20Dancer.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Mizutsune%20Bewitching%20Dancer.png">YPE</set>
       <related attach="transform">Hunt Mizutsune</related>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -672,7 +672,7 @@ When Mizutsune transforms, draw a card.</text>
         <coloridentity>BG</coloridentity>
       <loyalty>6</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Astalos.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Astalos.png">YPE</set>
       <related attach="transform">Astalos, Thunderous Rage</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -693,7 +693,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>BG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Astalos%20Thunderous%20Rage.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Astalos%20Thunderous%20Rage.png">YPE</set>
       <related attach="transform">Hunt Astalos</related>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -712,7 +712,7 @@ Carve 3</text>
         <coloridentity>G</coloridentity>
       <loyalty>8</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gammoth.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gammoth.png">YPE</set>
       <related attach="transform">Gammoth, Elderfrost</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -734,7 +734,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>G</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gammoth%20Elderfrost.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gammoth%20Elderfrost.png">YPE</set>
       <related attach="transform">Hunt Gammoth</related>
       <tablerow>2</tablerow>
       <text>Trample</text>
@@ -753,7 +753,7 @@ Carve 3</text>
         <coloridentity>WR</coloridentity>
       <loyalty>7</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Valstrax.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Valstrax.png">YPE</set>
       <related attach="transform">Valstrax, Star of Despair</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -775,7 +775,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>WR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Valstrax%20Star%20of%20Despair.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Valstrax%20Star%20of%20Despair.png">YPE</set>
       <related attach="transform">Hunt Valstrax</related>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
@@ -796,7 +796,7 @@ Remove 10 charge counters from Valstrax: Destroy all other creatures.</text>
         <coloridentity>B</coloridentity>
       <loyalty>6</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Vaal%20Hazak.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Vaal%20Hazak.png">YPE</set>
       <related attach="transform">Vaal Hazak, Rotten Veil</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -817,7 +817,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>B</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Vaal%20Hazak%20Rotten%20Veil.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Vaal%20Hazak%20Rotten%20Veil.png">YPE</set>
       <related attach="transform">Hunt Vaal Hazak</related>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -837,7 +837,7 @@ Carve 3</text>
         <coloridentity>U</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velkhana.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velkhana.png">YPE</set>
       <related attach="transform">Velkhana, Lord of Ice</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -859,7 +859,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velkhana%20Lord%20of%20Ice.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velkhana%20Lord%20of%20Ice.png">YPE</set>
       <related attach="transform">Hunt Velkhana</related>
       <tablerow>2</tablerow>
       <text>Flying
@@ -880,7 +880,7 @@ Creatures with ice counters on them don’t untap during their controllers untap
         <coloridentity>BR</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Magnamalo.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Magnamalo.png">YPE</set>
       <related attach="transform">Magnamalo, Ultimate Malice</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -901,7 +901,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>BR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Magnamalo%20Ultimate%20Malice.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Magnamalo%20Ultimate%20Malice.png">YPE</set>
       <related attach="transform">Hunt Magnamalo</related>
       <tablerow>2</tablerow>
       <text>Menace</text>
@@ -920,7 +920,7 @@ Carve 3</text>
         <coloridentity>WB</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Malzeno.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Malzeno.png">YPE</set>
       <related attach="transform">Malzeno, Scarlet Feast</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -942,7 +942,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>BR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Malzeno%20Scarlet%20Feast.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Malzeno%20Scarlet%20Feast.png">YPE</set>
       <related attach="transform">Hunt Malzeno</related>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -963,7 +963,7 @@ When Malzeno enters the battlefield or transforms, Melzeno deals 4 damage to any
         <coloridentity></coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Guardian%20Arkveld.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Guardian%20Arkveld.png">YPE</set>
       <related attach="transform">Guardian Arkveld, Chained Construct</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -985,7 +985,7 @@ Carve 3.</text>
         <side>back</side>
         <coloridentity></coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Guardian%20Arkveld%20Chained%20Construct.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Guardian%20Arkveld%20Chained%20Construct.png">YPE</set>
       <related attach="transform">Hunt Guardian Arkveld</related>
       <tablerow>2</tablerow>
       <text>Whenever a battle enters the battlefield under your control, you may pay {2}. If you do, create a token that’s a copy of it, except its not legendary and it’s an artifact.</text>
@@ -1004,7 +1004,7 @@ Carve 3.</text>
         <coloridentity>RG</coloridentity>
       <loyalty>5</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bazelgeuse.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bazelgeuse.png">YPE</set>
       <related attach="transform">Bazelgeuse, Party Crasher</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1027,7 +1027,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>RG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bazelgeuse%20Party%20Crasher.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bazelgeuse%20Party%20Crasher.png">YPE</set>
       <related attach="transform">Hunt Bazelgeuse</related>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1047,7 +1047,7 @@ When Bazelgeuse attacks, it deals 4 damage divided among any number of target cr
         <coloridentity>WG</coloridentity>
       <loyalty>4</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alpha%20Doshaguma.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alpha%20Doshaguma.png">YPE</set>
       <related attach="transform">Alpha Doshaguma, Pack Leader</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1069,7 +1069,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>WG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alpha%20Doshaguma%20Pack%20Leader.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alpha%20Doshaguma%20Pack%20Leader.png">YPE</set>
       <related attach="transform">Hunt Alpha Doshaguma</related>
       <tablerow>2</tablerow>
       <text>When this creature transforms, put X +1/+1 counters on it where X is the number of creatures on the battlefield named Doshaguma.</text>
@@ -1088,7 +1088,7 @@ Carve 3</text>
         <coloridentity>R</coloridentity>
       <loyalty>8</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bloodbath%20Diablos.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bloodbath%20Diablos.png">YPE</set>
       <related attach="transform">Bloodbath Diablos, Tempered Anger</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1108,7 +1108,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>R</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bloodbath%20Diablos%20Tempered%20Anger.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bloodbath%20Diablos%20Tempered%20Anger.png">YPE</set>
       <related attach="transform">Hunt Bloodbath Diablos</related>
       <tablerow>2</tablerow>
       <text>Trample, haste</text>
@@ -1127,7 +1127,7 @@ Carve 3</text>
         <coloridentity>RG</coloridentity>
       <loyalty>10</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Invasion%20of%20Lao-Shan%20Lung.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Invasion%20of%20Lao-Shan%20Lung.png">YPE</set>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
       <text>At the beginning of each players upkeep, Invasion of Lao-Shan Lung deals 15 damage divided as they choose among creatures that player controls. Excess damage is dealt to that player instead.
@@ -1147,7 +1147,7 @@ Carve 5</text>
         <side>back</side>
         <coloridentity>RG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lao-Shan%20Lung.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lao-Shan%20Lung.png">YPE</set>
       <tablerow>2</tablerow>
       <text>Trample</text>
     </card>
@@ -1164,7 +1164,7 @@ Carve 5</text>
         <side>front</side>
         <coloridentity>WR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Quest%20Board.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Quest%20Board.png">YPE</set>
       <tablerow>3</tablerow>
       <text>Cleave 1RW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
 Search your library for a battle card [reveal it] and put it in your hand and shuffle your library.</text>
@@ -1182,7 +1182,7 @@ Search your library for a battle card [reveal it] and put it in your hand and sh
         <side>front</side>
         <coloridentity>R</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/SOS%20Flare.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/SOS%20Flare.png">YPE</set>
       <tablerow>1</tablerow>
       <text>This spell can only be cast during combat before the declare attackers step. Gain control of each creature target opponent controls until end of combat. Untap those creatures. Until end of turn, those creatures attack each combat if able and creatures you control cannot attack that player.</text>
     </card>
@@ -1199,7 +1199,7 @@ Search your library for a battle card [reveal it] and put it in your hand and sh
         <side>front</side>
         <coloridentity></coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rocksteady%20Mantle.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rocksteady%20Mantle.png">YPE</set>
       <tablerow>1</tablerow>
       <text>If a source would deal non combat damage to you, it instead deals half that damage rounded up.</text>
     </card>
@@ -1216,7 +1216,7 @@ Search your library for a battle card [reveal it] and put it in your hand and sh
         <side>front</side>
         <coloridentity></coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Pick-A-Meal%20Voucher.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Pick-A-Meal%20Voucher.png">YPE</set>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, create two food tokens.</text>
     </card>
@@ -1233,7 +1233,7 @@ Search your library for a battle card [reveal it] and put it in your hand and sh
         <side>front</side>
         <coloridentity>WUG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Paintball.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Paintball.png">YPE</set>
       <tablerow>1</tablerow>
       <text>Enchant creature or battle
 Flash
@@ -1253,7 +1253,7 @@ Enchanted permanent is a hunt battle with “At the beginning of each player’s
         <side>front</side>
         <coloridentity>BR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Schrade's%20Demise.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Schrade's%20Demise.png">YPE</set>
       <tablerow>1</tablerow>
       <text></text>
     </card>
@@ -1270,7 +1270,7 @@ Enchanted permanent is a hunt battle with “At the beginning of each player’s
         <side>front</side>
         <coloridentity>W</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Insurance.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Insurance.png">YPE</set>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Flash
@@ -1289,7 +1289,7 @@ Totem armor (If enchanted permanent would be destroyed, instead remove all damag
         <side>front</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gemmas%20Mastery.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gemmas%20Mastery.png">YPE</set>
       <tablerow>1</tablerow>
       <text>Artifact spells you cast cost {2} less to cast.</text>
     </card>
@@ -1307,7 +1307,7 @@ Totem armor (If enchanted permanent would be destroyed, instead remove all damag
         <side>front</side>
         <coloridentity>WUBRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Palico.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Palico.png">YPE</set>
       <tablerow>2</tablerow>
       <text>The Hunter’s Companion - Your deck contains up to 1 creature card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
 At the beginning of your end step, if you control a commander and it is tapped, gain 2 health. If it is untapped, put a +1/+1 counter on up to two target creatures.
@@ -1327,7 +1327,7 @@ If you would lose the game for the first time, instead your life total becomes 5
         <side>front</side>
         <coloridentity>WUBRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunter.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunter.png">YPE</set>
       <tablerow>2</tablerow>
       <text>When a battle is defeated, draw a card.
 {2}, Sacrifice a creature: Put X +1/+1 counters on this creature, where X is the sacrificed creature’s power. </text>
@@ -1345,7 +1345,7 @@ If you would lose the game for the first time, instead your life total becomes 5
         <side>front</side>
         <coloridentity>WUBRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alatreon.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alatreon.png">YPE</set>
       <related attach="transform">Alatreon, The Blazing Black Dragon</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1371,7 +1371,7 @@ Carve 3, This card can be your commander.</text>
         <side>back</side>
         <coloridentity>WUBRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alatreon%20The%20Blazing%20Black%20Dragon.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alatreon%20The%20Blazing%20Black%20Dragon.png">YPE</set>
       <related attach="transform">Hunt Alatreon</related>
       <tablerow>2</tablerow>
       <text>If you would gain life, gain that much life plus your devotion to white instead.
@@ -1393,7 +1393,7 @@ Alatreon has +X/+X where X is your devotion to green.</text>
         <side>front</side>
         <coloridentity>UBRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slay%20.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slay%20.png">YPE</set>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>3</tablerow>
       <text>Choose one:
@@ -1419,7 +1419,7 @@ Choose one:
         <coloridentity>B</coloridentity>
       <loyalty>10</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Fatalis.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Fatalis.png">YPE</set>
       <related attach="transform">Fatalis, The Dark Demise</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1442,7 +1442,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity>B</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fatalis%20The%20Dark%20Demise.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fatalis%20The%20Dark%20Demise.png">YPE</set>
       <related attach="transform">Hunt Fatalis</related>
       <tablerow>2</tablerow>
       <text>
@@ -1462,7 +1462,7 @@ Deathtouch, trample, flying, shroud, protection from deathtouch. (This creature 
         <coloridentity></coloridentity>
       <loyalty>10</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Dalamadur.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Dalamadur.png">YPE</set>
       <related attach="transform">Dalamadur, World Serpent</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1485,7 +1485,7 @@ Carve 5</text>
         <side>back</side>
         <coloridentity></coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dalamadur%20World%20Serpent.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dalamadur%20World%20Serpent.png">YPE</set>
       <related attach="transform">Hunt Dalamadur</related>
       <tablerow>2</tablerow>
       <text>Trample, ward {4}
@@ -1505,7 +1505,7 @@ Whenever Dalamadur deals combat damage to a player, create four 3/3 red serpent 
         <side>front</side>
         <coloridentity>BRG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtal-Neset.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtal-Neset.png">YPE</set>
       <tablerow>1</tablerow>
       <text>Indestructible, reach, trample
 When Ahtal-Neset attacks, put an egg counter on another creature without an egg counter on it. When a creature with an egg counter dies, draw a card and put an egg counter on another creature without an egg counter.
@@ -1526,7 +1526,7 @@ Crew 5 (Tap any number of creatures you control with total power 5 or more: This
         <coloridentity>R</coloridentity>
       <loyalty>4</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Ahtal-Ka.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Ahtal-Ka.png">YPE</set>
       <related attach="transform">Ahtal-Ka, Palace Mantis</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1547,7 +1547,7 @@ Carve 3</text>
         <side>back</side>
         <coloridentity></coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtala-Ka%20Palace%20Mantis.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtala-Ka%20Palace%20Mantis.png">YPE</set>
       <related attach="transform">Hunt Ahtal-Ka</related>
       <tablerow>2</tablerow>
       <text>Reach
@@ -1568,7 +1568,7 @@ This creature crews Vehicles as if its power were 2 greater. </text>
         <coloridentity>R</coloridentity>
       <loyalty>20</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zorah%20Magdaros.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zorah%20Magdaros.png">YPE</set>
       <related attach="transform">Zorah Magdaros, Scorching Mountain Dragon</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1588,7 +1588,7 @@ Carve 5</text>
         <side>back</side>
         <coloridentity></coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zorah%20Magdaros%20Scorching%20Mountain%20Dragon.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zorah%20Magdaros%20Scorching%20Mountain%20Dragon.png">YPE</set>
       <related attach="transform">Hunt Zorah Magdaros</related>
       <tablerow>0</tablerow>
       <text>{T}: Add RR
@@ -1606,7 +1606,7 @@ Carve 5</text>
         <side>front</side>
         <coloridentity>W</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Weakener.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Weakener.png">YPE</set>
       <tablerow>1</tablerow>
       <text>You may cast battle spells for {2} less. If you cast a battle spell this way, it has enters with 1 less defense counter.</text>
     </card>
@@ -1623,7 +1623,7 @@ Carve 5</text>
         <side>front</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Almas%20Curiosity.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Almas%20Curiosity.png">YPE</set>
       <tablerow>1</tablerow>
       <text>When Alma’s Curiosity enters the battlefield, draw a card for each battle you control.
 When a battle you control enters, draw a card.</text>
@@ -1641,7 +1641,7 @@ When a battle you control enters, draw a card.</text>
         <side>front</side>
         <coloridentity>W</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Divine%20Blessing.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Divine%20Blessing.png">YPE</set>
       <tablerow>1</tablerow>
       <text>Enchant Creature
 If enchanted creature would be dealt damage, flip a coin. If you win the flip, prevent that damage.</text>
@@ -1660,7 +1660,7 @@ If enchanted creature would be dealt damage, flip a coin. If you win the flip, p
         <coloridentity>U</coloridentity>
       <loyalty>7</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Jin%20Dahaad.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Jin%20Dahaad.png">YPE</set>
       <related attach="transform">Jin Dahaad, Iceshard Emperor</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1681,7 +1681,7 @@ Carve 5</text>
         <side>back</side>
         <coloridentity>U</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard%20Emperor.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard%20Emperor.png">YPE</set>
       <related attach="transform">Hunt Jin Dahaad</related>
       <tablerow>2</tablerow>
       <text>{Q}, Discard 2 or pay {S}: Draw a card. </text>
@@ -1699,7 +1699,7 @@ Carve 5</text>
         <side>front</side>
         <coloridentity>G</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wide%20Range.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wide%20Range.png">YPE</set>
       <tablerow>1</tablerow>
       <text>Enchant creature
 If a +1/+1 counter would be put on enchanted creature, put a +1/+1 counter on all creatures you control instead.</text>
@@ -1717,7 +1717,7 @@ If a +1/+1 counter would be put on enchanted creature, put a +1/+1 counter on al
         <coloridentity>WUG</coloridentity>
       <loyalty>6</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Poborubarumu.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Poborubarumu.png">YPE</set>
       <related attach="transform">Poborubarumu</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1738,7 +1738,7 @@ Carve 4</text>
         <side>back</side>
         <coloridentity>WUG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Poborubarumu.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Poborubarumu.png">YPE</set>
       <related attach="transform">Hunt Poborubarumu</related>
       <tablerow>2</tablerow>
       <text>When Poborubarumu attacks, choose one that hasn’t already been chosen:
@@ -1761,7 +1761,7 @@ Carve 4</text>
         <coloridentity>WG</coloridentity>
       <loyalty>3</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velocidrome.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velocidrome.png">YPE</set>
       <related attach="transform">Velocidrome</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1782,7 +1782,7 @@ Carve 2</text>
         <coloridentity>G</coloridentity>
       <loyalty>3</loyalty>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Great%20Jagras.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Great%20Jagras.png">YPE</set>
       <related attach="transform">The Greatest Jagras</related>
       <landscapeOrientation>1</landscapeOrientation>
       <tablerow>1</tablerow>
@@ -1803,7 +1803,7 @@ Carve 1</text>
         <side>back</side>
         <coloridentity>WG</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velcidrome.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velcidrome.png">YPE</set>
       <related attach="transform">Hunt Velocidrome</related>
       <tablerow>2</tablerow>
       <text>First strike</text>
@@ -1822,7 +1822,7 @@ Carve 1</text>
         <side>back</side>
         <coloridentity>G</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Greatest%20Jagras.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Greatest%20Jagras.png">YPE</set>
       <related attach="transform">Hunt Great Jagras</related>
       <tablerow>2</tablerow>
       <text>{T}: Target creature</text>
@@ -1841,7 +1841,7 @@ Carve 1</text>
         <side>front</side>
         <coloridentity>B</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nightmare.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nightmare.png">YPE</set>
       <tablerow>2</tablerow>
       <text>Menace, lifelink
 {T}: Choose a creature. Put that creature in its owners graveyard.
@@ -1861,7 +1861,7 @@ When a creature is put into a graveyard from play, put X +1/+1 counters on Night
         <side>front</side>
         <coloridentity>WB</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%20Vanilla.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%20Vanilla.png">YPE</set>
       <tablerow>2</tablerow>
       <text>Affinity for Humans (This spell costs {1} less to cast for each Human you control.)
 When Chocola &amp; Vanilla enter the battlefield, create a Food token.
@@ -1881,7 +1881,7 @@ Other Cats you control get +2/+2.
         <side>front</side>
         <coloridentity>WBR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kazuya%20Mishima.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kazuya%20Mishima.png">YPE</set>
       <related attach="transform">Devil Kazuya</related>
       <tablerow>2</tablerow>
       <text>{T}: Kazuya Mishima fights another target creature. If that creature dies this turn and you controlled that creature, transform Kazuya. Otherwise return that creature to the battlefield under your control.
@@ -1901,7 +1901,7 @@ Other Cats you control get +2/+2.
         <side>back</side>
         <coloridentity>WBR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Devil%20Kazuya.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Devil%20Kazuya.png">YPE</set>
       <related attach="transform">Kazuya Mishima</related>
       <tablerow>2</tablerow>
       <text>Flying, Deathtouch
@@ -1920,7 +1920,7 @@ When Devil Kazuya dies, return him to the battlefield tapped.</text>
         <maintype>Creature</maintype>
         <pt>8/8</pt>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider%20and%20Ratha.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider%20and%20Ratha.png">YPE</set>
       <related attach="transform">Rider</related>
       <tablerow>2</tablerow>
       <text>Flying, Hexproof, Vigilance
@@ -1939,7 +1939,7 @@ Creatures you control get +4/+4.</text>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider.png">YPE</set>
       <related attach="transform">Rider and Ratha</related>
       <tablerow>2</tablerow>
       <text>Partner with Ratha.  (When this permanent enters, target player may put Ratha. into their hand from their library, then shuffle.)
@@ -1957,7 +1957,7 @@ Meld with Ratha.</text>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ratha.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ratha.png">YPE</set>
       <tablerow>2</tablerow>
       <text>Partner with Rider. (When this permanent enters, target player may put Rider. into their hand from their library, then shuffle.)
 Commander Ninjutsu 1WUBRG.  (1WUBRG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)
@@ -1977,9 +1977,114 @@ Meld with Rider</text>
         <side>front</side>
         <coloridentity>UBR</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png">NYA</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png">YPE</set>
       <tablerow>2</tablerow>
       <text>At the beginning of your end step, each opponent faces a villainous choice - That player puts a -1/-1 counter on each creature they control, or you gain control of target non-creature permanent that player controls.</text>
+    </card>
+    <card>
+      <name>Aspiring Fireman</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <side>front</side>
+        <coloridentity>RG</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Aspiring%20Fireman.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Protection from red
+At the beginning of your upkeep, put a flame counter on target creature.
+Creatures with flame counters on them are red.
+Creatures you control get +X/+X, where X is the number of flame counters on them.</text>
+    </card>
+    <card>
+      <name>Elijah the Majestic</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WWWW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <side>front</side>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Elijah%20the%20Majestic.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Humans you control get +2/+2.\nAt the beginning of your upkeep, reveal cards from the top of your library until you reveal a God card. You may cast that spell without paying its mana cost. Shuffle the rest of the revealed cards into your library.</text>
+    </card>
+    <card>
+      <name>Erica, Caster of Crap</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WWUUBBRRGG</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <side>front</side>
+        <coloridentity>WUBRG</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Eminence - Bad creatures you control have +2/+2. (Bad cards have less than 0.1% inclusion in decks on EDHrec)\nWhenever you cast a Bad spell, choose one that hasn't been chosen this turn -\n\u2022 Draw a card for each Bad permanent you control.\n\u2022 Destroy up to two target lands.\n\u2022 Proliferate, Proliferate, Proliferate, Proliferate.</text>
+    </card>
+    <card>
+      <name>Natascha</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <side>front</side>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature with power 4 or greater enters the battlefield under your control, you may put a land card from your hand onto the battlefield. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Suspicious Schemer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUBBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <side>front</side>
+        <coloridentity>UB</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Suspicious%20Schemer.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Whenever you commit a crime, Suspicious Schemer connives.\nWhenever another creature you control connives, each instant and sorcery in your hand has plot until end of turn. Its plot cost is equal to its mana cost reduced by {3}.</text>
+    </card>
+    <card>
+      <name>name</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <side>front</side>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text></text>
     </card>
 
     <!-->Tokens</-->

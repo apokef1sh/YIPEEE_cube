@@ -1255,10 +1255,90 @@
         "type": "Legendary Creature - Human Advisor ",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png",
         "colors": [
+            "U",
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your end step, each opponent faces a villainous choice - That player puts a -1/-1 counter on each creature they control, or you gain control of target non-creature permanent that player controls.",
+        "power": "2",
+        "toughness": "1"
+    },
+    {
+        "id": "7a2509bc-fff0-4450-9598-dd3e2dfad130",
+        "name": "Aspiring Fireman",
+        "mana_cost": "{1}{R}{G}",
+        "type": "Legendary Creature - Human Beast ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Aspiring%20Fireman.png",
+        "colors": [
+            "R",
             "G"
         ],
         "set": "YPE",
-        "oracle_text": "Enchant creature\nIf a +1/+1 counter would be put on enchanted creature, put a +1/+1 counter on all creatures you control instead."
+        "oracle_text": "Protection from red\nAt the beginning of your upkeep, put a flame counter on target creature.\nCreatures with flame counters on them are red.\nCreatures you control get +X/+X, where X is the number of flame counters on them.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "3b0fd2ff-1507-4d19-9189-3be7fa09bdbc",
+        "name": "Elijah the Majestic",
+        "mana_cost": "{W}{W}{W}{W}",
+        "type": "Legendary Creature - God ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Elijah%20the%20Majestic.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Humans you control get +2/+2.\nAt the beginning of your upkeep, reveal cards from the top of your library until you reveal a God card. You may cast that spell without paying its mana cost. Shuffle the rest of the revealed cards into your library.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "c5cf71cc-cedf-42fc-bcac-729421289771",
+        "name": "Erica, Caster of Crap",
+        "mana_cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
+        "type": "Legendary Creature - Human Warlock ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Eminence - Bad creatures you control have +2/+2. (Bad cards have less than 0.1% inclusion in decks on EDHrec)\nWhenever you cast a Bad spell, choose one that hasn't been chosen this turn -\n\u2022 Draw a card for each Bad permanent you control.\n\u2022 Destroy up to two target lands.\n\u2022 Proliferate, Proliferate, Proliferate, Proliferate.",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "3de9324d-1395-4cd0-83a6-6bff134cec61",
+        "name": "Natascha",
+        "mana_cost": "{G}{G}",
+        "type": "Legendary Creature - Human ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Natascha.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever a creature with power 4 or greater enters the battlefield under your control, you may put a land card from your hand onto the battlefield. If you do, draw a card.",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "0a8068c7-95f0-4c63-b1fd-edeba1494c37",
+        "name": "Suspicious Schemer",
+        "mana_cost": "{U}{U}{B}{B}{B}",
+        "type": "Legendary Creature - Human Advisor ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Suspicious%20Schemer.png",
+        "colors": [
+            "U",
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever you commit a crime, Suspicious Schemer connives.\nWhenever another creature you control connives, each instant and sorcery in your hand has plot until end of turn. Its plot cost is equal to its mana cost reduced by {3}.",
+        "power": "2",
+        "toughness": "1"
     },
     {
         "id": "23a66e48-e78c-47d8-b7d4-413268ac92d5",
@@ -1435,4 +1515,17 @@
 1 Kazuya Mishima
 1 Ahtal-Neset
 1 Wide Range
+1 Annie, The Crooked One
+1 Aspiring Fireman
+1 Elijah the Majestic
+1 Erica, Caster of Crap
+1 Natascha
+1 Suspicious Schemer
+
+1 Berserkers' Onslaught
+1 Gruul War Chant
+1 Teapot Slinger
+1 Giggling Skitterspike
+1 Fiery Emancipation
+1 City on Fire
 1 Akroan Horse
