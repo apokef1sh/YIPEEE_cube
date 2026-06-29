@@ -2070,21 +2070,202 @@ Creatures you control get +X/+X, where X is the number of flame counters on them
       <text>Whenever you commit a crime, Suspicious Schemer connives.\nWhenever another creature you control connives, each instant and sorcery in your hand has plot until end of turn. Its plot cost is equal to its mana cost reduced by {3}.</text>
     </card>
     <card>
-      <name>name</name>
+      <name>Candy Kingdom</name>
       <set rarity="common"></set>
       <prop>
-        <colors>G</colors>
-        <manacost>GG</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Creature - Human </type>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Kingdom </type>
+        <maintype>Land</maintype>
+        <pt></pt>
+        <side>front</side>
+        <coloridentity></coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Candy%20Kingdom.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {W} to your mana pool.\n{W}, {T}: Create a 1/1 white Food Citizen creature token.</text>
+    </card>
+    <card>
+      <name>Donut Witch</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <side>front</side>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donut%20Witch.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks, target creature loses all abilities until your next turn.</text>
+    </card>
+    <card>
+      <name>Earl of Lemongrab</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UW</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Food Noble </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <side>front</side>
+        <coloridentity>UW</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Earl%20of%20Lemongrab.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>UNACCEPTABLE - {U}{U}, {T}: Counter target spell. Put a -1/-1 counter on Lemongrab.
+{T}, Sacrifice a Food: Put a +1/+1 counter on Lemongrab.</text>
+    </card>
+    <card>
+      <name>Egg In Me</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <pt></pt>
+        <side>front</side>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Egg%20In%20Me.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Enchant Creature
+Enchanted creature loses all abilities and is a 0/5 Egg with defender and "When this creature dies, draw a card".</text>
+    </card>
+    <card>
+      <name>Hambo, My Beloved</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact </type>
+        <maintype>Artifact</maintype>
+        <pt></pt>
+        <side>front</side>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hambo%2C%20My%20Beloved.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>If a noncreature source would deal damage to you, it deals that much damage minus 2 to you instead.</text>
+    </card>
+    <card>
+      <name>James Baxter</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>GW</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <side>front</side>
+        <coloridentity>GW</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/James%20Baxter.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Flash
+When James Baxter enters, prevent all combat damage until end of turn.
+At the beginning of each endstep, shuffle this card into its owner's library.</text>
+    </card>
+    <card>
+      <name>Makin' Bacon Pancakes</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant </type>
+        <maintype>Instant</maintype>
+        <pt></pt>
+        <side>front</side>
         <coloridentity>G</coloridentity>
       </prop>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png">YPE</set>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Makin%20Bacon%20Pancakes.png">YPE</set>
       <tablerow>2</tablerow>
-      <text></text>
+      <text>Destroy target creature. Its controller creates a 3/3 Beast creature token and a Food Token.</text>
+    </card>
+    <card>
+      <name>Marceline the Vampire Queen</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <side>front</side>
+        <coloridentity>BR</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Marceline%20the%20Vampire%20Queen.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink, protection from red
+If Marceline would be destroyed, regenerate her.
+{T}: Target red permanent becomes colorless. Add {R} to your mana pool. Put a number of +1/+1 counters on Marceline equal to that permanent's mana value.</text>
+    </card>
+    <card>
+      <name>Old Lady Destroying Gnomes</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Gnome Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <side>front</side>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Old%20Lady%20Destroying%20Gnomes.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever an opponent draws their second card each turn, choose target creature. Each player votes for either old lady or not old lady. If old lady gets more votes, destroy that creature. Otherwise, draw a card.</text>
+    </card>
+    <card>
+      <name>Slime Princess</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Ooze Noble </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <side>front</side>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slime%20Princess.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>{T}:, Add {G} to your mana pool. If you control a legendary Human, add {W}{G} to your mana pool instead.</text>
+    </card>
+    <card>
+      <name>The Curse of Simon Petrikov</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment - Aura Saga </type>
+        <maintype>Enchantment</maintype>
+        <pt></pt>
+        <side>front</side>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Curse%20of%20Simon%20Petrikov.png">YPE</set>
+      <tablerow>2</tablerow>
+      <text>Enchant creature
+I - Scry 2
+II - This card gains "Enchanted creature has no abilities" and "Enchanted creature gets +2/+2".
+III - This card gains "Whenever enchanted creature deals damage to a creature, put a stun counter on it."
+IV - This card loses the Saga type, gains "Enchanted creature is goaded" and "Enchanted creature gets +3/+3".</text>
     </card>
 
     <!-->Tokens</-->

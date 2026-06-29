@@ -1341,6 +1341,506 @@
         "toughness": "1"
     },
     {
+        "id": "c2d0a634-81f5-4782-8f36-019fa5e805c5",
+        "name": "Candy Kingdom",
+        "mana_cost": "",
+        "type": "Legendary Land - Kingdom ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Candy%20Kingdom.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {W} to your mana pool.\n{W}, {T}: Create a 1/1 white Food Citizen creature token."
+    },
+    {
+        "id": "56636278-d503-4cab-8c4b-066e711de73e",
+        "name": "Donut Witch",
+        "mana_cost": "{1}{U}{U}",
+        "type": "Creature - Warlock ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donut%20Witch.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever this creature attacks, target creature loses all abilities until your next turn.",
+        "power": "1",
+        "toughness": "2"
+    },
+    {
+        "id": "ccb9f946-ce20-4b9b-9cdc-9e4beb809d4b",
+        "name": "Earl of Lemongrab",
+        "mana_cost": "{2}{W}{U}",
+        "type": "Legendary Creature - Food Noble ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Earl%20of%20Lemongrab.png",
+        "colors": [
+            "U",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "UNACCEPTABLE - {U}{U}, {T}: Counter target spell. Put a -1/-1 counter on Lemongrab.\n{T}, Sacrifice a Food: Put a +1/+1 counter on Lemongrab.",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "e81eb152-8c92-49e9-93c4-0af61d0a32ef",
+        "name": "Egg In Me",
+        "mana_cost": "{W}{W}",
+        "type": "Enchantment - Aura ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Egg%20In%20Me.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant Creature\nEnchanted creature loses all abilities and is a 0/5 Egg with defender and \"When this creature dies, draw a card\"."
+    },
+    {
+        "id": "bad375d9-d788-4b75-94d1-b742c3da79cf",
+        "name": "Hambo, My Beloved",
+        "mana_cost": "{2}{B}",
+        "type": "Artifact ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hambo%2C%20My%20Beloved.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "If a noncreature source would deal damage to you, it deals that much damage minus 2 to you instead."
+    },
+    {
+        "id": "cb63faab-0075-4a89-9a94-f797d22fa38e",
+        "name": "James Baxter",
+        "mana_cost": "{1}{G}{W}",
+        "type": "Legendary Creature - Horse ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/James%20Baxter.png",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flash\nWhen James Baxter enters, prevent all combat damage until end of turn.\nAt the beginning of each endstep, shuffle this card into its owner's library.",
+        "power": "0",
+        "toughness": "3"
+    },
+    {
+        "id": "bbb24d6b-55f6-4c8f-bafd-3fd51176a59b",
+        "name": "Makin' Bacon Pancakes",
+        "mana_cost": "{2}{G}",
+        "type": "Instant ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Makin%20Bacon%20Pancakes.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target creature. Its controller creates a 3/3 Beast creature token and a Food Token."
+    },
+    {
+        "id": "cb63faab-0075-4a89-9a94-f797d22fa38e",
+        "name": "Marceline the Vampire Queen",
+        "mana_cost": "{3}{B}{B}",
+        "type": "Legendary Creature - Vampire ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Marceline%20the%20Vampire%20Queen.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying, lifelink, protection from red\nIf Marceline would be destroyed, regenerate her.\n{T}: Target red permanent becomes colorless. Add {R} to your mana pool. Put a number of +1/+1 counters on Marceline equal to that permanent's mana value.",
+        "power": "3",
+        "toughness": "1"
+    },
+    {
+        "id": "11e2cbb9-c1ee-4f35-9a2a-6d3f81d5a37c",
+        "name": "Old Lady Destroying Gnomes",
+        "mana_cost": "{2}{U}",
+        "type": "Creature - Gnome Faerie ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Old%20Lady%20Destroying%20Gnomes.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying\nWhenever an opponent draws their second card each turn, choose target creature. Each player votes for either old lady or not old lady. If old lady gets more votes, destroy that creature. Otherwise, draw a card.",
+        "power": "2",
+        "toughness": "1"
+    },
+    {
+        "id": "516830de-a3a2-4a46-b896-8ae510d2d812",
+        "name": "Slime Princess",
+        "mana_cost": "{G}",
+        "type": "Legendary Creature - Ooze Noble ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slime%20Princess.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}:, Add {G} to your mana pool. If you control a legendary Human, add {W}{G} to your mana pool instead.",
+        "power": "0",
+        "toughness": "1"
+    },
+    {
+        "id": "099a438b-1968-4145-b01e-7f1f806c397b",
+        "name": "The Curse of Simon Petrikov",
+        "mana_cost": "{3}{U}",
+        "type": "Legendary Enchantment - Aura Saga ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Curse%20of%20Simon%20Petrikov.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nI - Scry 2\nII - This card gains \"Enchanted creature has no abilities\" and \"Enchanted creature gets +2/+2\".\nIII - This card gains \"Whenever enchanted creature deals damage to a creature, put a stun counter on it.\"\nIV - This card loses the Saga type, gains \"Enchanted creature is goaded\" and \"Enchanted creature gets +3/+3\"."
+    },
+    {
+        "id": "45602731-9d27-4b25-89e9-2863da1d73d0",
+        "name": "Ominous Portal",
+        "mana_cost": "1R",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ominous%20Portal.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)"
+    },
+    {
+        "id": "fa1cdc31-cbd1-484b-818c-291161cc7f90",
+        "name": "Key Killer",
+        "mana_cost": "4R",
+        "type": "Creature - Bingus Human Rogue ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Key%20Killer.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When this creature deals combat damage to a player, create a treasure token.\nDash 1RR (You may cast this spell for its dash cost. If you do, it gains haste, and itâ€™s returned from the battlefield to its ownerâ€™s hand at the beginning of the next end step.)",
+        "power": "4",
+        "toughness": "3"
+    },
+    {
+        "id": "25be1d3f-161b-4738-94e7-d04e7f54053c",
+        "name": "An Intruder",
+        "mana_cost": "3BB",
+        "type": "Creature - Nightmare ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/An%20Intruder.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhen you reveal this card, you may put it onto the battlefield.",
+        "power": "3",
+        "toughness": "4"
+    },
+    {
+        "id": "e628e036-5895-446e-b145-ef3cd44b482a",
+        "name": "Speeder Troupe",
+        "mana_cost": "2R",
+        "type": "Creature - Bingus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Speeder%20Troupe.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Speeder Troupe enters, create two 1/1 Bingus creature tokens. Binguses you control gain haste until end of turn.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "e819dc93-3df3-400c-b4f9-0effe52c7dd3",
+        "name": "Bingus Chest",
+        "mana_cost": "3R",
+        "type": "Creature - Bingus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus%20Chest.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of each upkeep, roll a six-sided dice.\nWhenever you roll a 5 or higher, create a 1/1 Bingus creature token.",
+        "power": "0",
+        "toughness": "3"
+    },
+    {
+        "id": "5209912e-df9d-431a-b8c7-3217e9a9352d",
+        "name": "Spawner Room // Turret Hallway",
+        "mana_cost": "1R // 3R",
+        "type": "Enchantment - Room  // ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Spawner%20Room%20//%20Turret%20Hallway.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, roll three six-sided dice.\nWhenever you roll a 5 or higher, create a 1/1 Bingus creature token.\n--- \nWhen you unlock this door, this room deals 4 damage divided as you choose among any number of targets."
+    },
+    {
+        "id": "07dc9c36-ba21-4f4c-9746-c3150d61a0f5",
+        "name": "Bingus Shop",
+        "mana_cost": "5 // 3",
+        "type": "Enchantment - Room  // ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus%20Shop.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your upkeep, reveal the top card of your library. You may pay {1}. If you do, put it into your hand. Otherwise, put it on the bottom of your library.\n--- \nWhen you unlock this door, draw 2 cards."
+    },
+    {
+        "id": "e857dc2a-1a53-4348-b0cd-b852a4e6ce79",
+        "name": "Crack in the Chamber",
+        "mana_cost": "1RR",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Crack%20in%20the%20Chamber.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Choose one â€”\nâ€¢ Run â€” Enter the Infiniroom.\nâ€¢ Smash â€” At the beginning of your next upkeep, create a 4/4 black Bingus creature token named Eakeur with trample.\nEntwine {3} (Choose both if you pay the entwine cost.)"
+    },
+    {
+        "id": "208d6199-44cd-46cb-9049-7f4689a252d0",
+        "name": "Geoff, Conqueror of Rooms",
+        "mana_cost": "1B/R",
+        "type": "Legendary Creature - Bingus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Geoff,%20Conqueror%20of%20Rooms.png",
+        "colors": [
+            "B"
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever a Room enters under your control, Geoff explores.\nWhenever you fully unlock a Room, if Geoff attacked this turn, you may sacrifice that Room. If you do, enter the Infiniroom.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "b15b9438-37b9-4774-b7bc-42640cef5e23",
+        "name": "Steven, the First Guardian",
+        "mana_cost": "4B",
+        "type": "Legendary Creature - Homunculus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Steven,%20the%20First%20Guardian.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Vigilance, deathtouch\nWhen Steven dies, enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)",
+        "power": "3",
+        "toughness": "5"
+    },
+    {
+        "id": "103c610d-337c-4ea3-a2d5-16a9b08b038e",
+        "name": "Chamber Room",
+        "mana_cost": "1BR // 5BB",
+        "type": "Enchantment - Room  // ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chamber%20Room.png",
+        "colors": [
+            "B"
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, create a 4/4 black Bingus creature token named Eakeur with trample.\n--- \nBinguses you control get +1/+1 and have infect."
+    },
+    {
+        "id": "94dda313-47e5-4cd9-a324-d791b41fd3ef",
+        "name": "Ghastly Crypt",
+        "mana_cost": "2BB // 1R",
+        "type": "Enchantment - Room  // ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ghastly%20Crypt.png",
+        "colors": [
+            "B"
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, target creature in your graveyard gains Fading 1. Put it onto the battlefield.\n--- \nWhen you unlock this door, deal 1 damage to each creature your opponents control."
+    },
+    {
+        "id": "a81f2dbe-5447-43c8-9efb-56840c8176b9",
+        "name": "Chonk",
+        "mana_cost": "4G",
+        "type": "Creature - Bingus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chonk.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When this creature dies, create two Treasure tokens.",
+        "power": "6",
+        "toughness": "6"
+    },
+    {
+        "id": "753df27f-c309-4780-bfbc-c13d4b6f7f67",
+        "name": "Gwendolyn",
+        "mana_cost": "6B/GB/G",
+        "type": "Creature - Cat ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gwendolyn.png",
+        "colors": [
+            "B"
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Gwendolyn enters, destroy target artifact or enchantment.\nWhen Gwendolyn dies, create a 6/3 Cat Horror creature token with flying and a 0/3 Cat Zombie creature token with defender.",
+        "power": "6",
+        "toughness": "6"
+    },
+    {
+        "id": "fafdda18-a67c-4dae-8ddc-447f6f865116",
+        "name": "Well Timed Dodge",
+        "mana_cost": "1U",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Well%20Timed%20Dodge.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Counter target spell or ability that targets a permanent you control. Draw a card."
+    },
+    {
+        "id": "a54f9c8f-4f31-4fc3-be06-7a037ffed33b",
+        "name": "Laser Blasted",
+        "mana_cost": "2R",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Laser%20Blasted.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Choose one â€”\nâ€¢ Deal 6 damage to target creature.\nâ€¢ Destroy target artifact or enchantment."
+    },
+    {
+        "id": "48a70c21-6de4-4886-85e1-9ae531a15e0f",
+        "name": "Shopkeep",
+        "mana_cost": "1U",
+        "type": "Creature - Bingus Nomad ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Shopkeep.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Defender\n{T}: Draw a card, then discard a card.",
+        "power": "0",
+        "toughness": "2"
+    },
+    {
+        "id": "f38a7631-16d7-4914-933f-368901f04d73",
+        "name": "Dagabey, Burning the Tiles",
+        "mana_cost": "5RR",
+        "type": "Legendary Creature - Homunculus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dagabey,%20Burning%20the%20Tiles.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Haste\nWhen Dagabey attacks, you may sacrifice a Room. If you do, untap all attacking creatures. After this phase, there is an additional combat phase.\nWhen Dagabey dies, enter the Infiniroom.",
+        "power": "7",
+        "toughness": "4"
+    },
+    {
+        "id": "cd2b34dc-bf20-44bc-a384-ae9743031d88",
+        "name": "The Oculord, All-Seeing",
+        "mana_cost": "8UU",
+        "type": "Legendary Creature - Homunculus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Oculord,%20All-Seeing.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying, hexproof\nYour opponents play with their hands revealed.\nOn your turn, you may cast a spell from an opponentâ€™s hand without paying its mana cost.",
+        "power": "8",
+        "toughness": "8"
+    },
+    {
+        "id": "a72d088a-97ec-4f71-bf95-16d0aa515da0",
+        "name": "Amogamation",
+        "mana_cost": "4B/RB/GU/B",
+        "type": "Creature - Bingus Horror ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Amogamation.png",
+        "colors": [
+            "B"
+            "R"
+            "G"
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Devour 3\nWhen this creature attacks, create X 1/1 red Bingus creature tokens, where X is half the number of counters on The Amogamation, rounded down. ",
+        "power": "0",
+        "toughness": "0"
+    },
+    {
+        "id": "7a0cd22a-9902-43a4-aa76-d4a3147273a9",
+        "name": "Beelzebird",
+        "mana_cost": "5U",
+        "type": "Creature - Bird Horror ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Beelzebird.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Deal 2 damage to target creature.\nWhen Beelzebird deals damage to a creature, tap that creature and put 2 stun counters on it.",
+        "power": "3",
+        "toughness": "4"
+    },
+    {
+        "id": "776a46de-eccb-45bd-ba7c-66c637fa9b57",
+        "name": "Steven&apos;s Chamber",
+        "mana_cost": "1B // 4U/R",
+        "type": "Enchantment - Room  // ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Steven&apos;s%20Chamber.png",
+        "colors": [
+            "B"
+            "U"
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, search your library for a Homunculus card, reveal it, and put it into your hand.\n--- \nWhen you unlock this door, enter the Infiniroom.\n{6}: Enter the Infiniroom."
+    },
+    {
+        "id": "1f15fe4f-baba-45b8-a914-7b21c239c1e7",
+        "name": "Bingus",
+        "mana_cost": "",
+        "type": "Token Creature - Bingus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "5964f0da-c6ee-45b8-bc15-5baea189b83c",
+        "name": "Eakeur",
+        "mana_cost": "",
+        "type": "Token Creature - Bingus ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Eakeur.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "bd42f14f-539f-405c-99bf-b9afb9327f91",
+        "name": "Cat Horror",
+        "mana_cost": "",
+        "type": "Token Creature - Cat Horror ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cat%20Horror.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying",
+        "power": "6",
+        "toughness": "3"
+    },
+    {
+        "id": "3313b0b9-28cf-4cca-9173-78b8a4704a13",
+        "name": "Cat Zombie",
+        "mana_cost": "",
+        "type": "Token Creature - Cat Zombie ",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cat%20Zombie.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Defender",
+        "power": "0",
+        "toughness": "3"
+    },
+    {
         "id": "23a66e48-e78c-47d8-b7d4-413268ac92d5",
         "name": "Slime",
         "mana_cost": "",
@@ -1468,64 +1968,76 @@
     }
 ]
 [MainSlot]
-1 Hunt Rathalos
-1 Hunt Rathian
-1 Hunt Deviljho
-1 Hunt Rey Dau
-1 Hunt Espinas
-1 Hunt Kushala Daora
-1 Hunt Daimyo Hermitaur
-1 Hunt Tigrex
-1 Hunt Nargacuga
-1 Hunt Lagiacrus
-1 Hunt Zinogre
-1 Hunt Brachydios
-1 Hunt Gore Magala
-1 Hunt Seregios
-1 Hunt Glavenus
-1 Hunt Gammoth
-1 Hunt Valstrax
-1 Hunt Fatalis
-1 Hunt Dalamadur
-1 Hunt Ahtal-Ka
-1 Hunt Zorah Magdaros
-1 Hunt Guardian Arkveld
-1 Hunt Bazelgeuse
-1 Hunt Alpha Doshaguma
-1 Hunt Velocidrome
-100 Hunt Great Jagras
-1 Hunt Jin Dahaad
-1 Hunt Alatreon
-1 Hunt Poborubarumu
-1 Hunt Astalos
-1 Invasion of Lao-Shan Lung
-1 Slay (YPE)
-1 Felyne Weakener
-1 Felyne Insurance
-1 Alma's Curiosity
-1 Divine Blessing
-1 Quest Board
-1 SOS Flare
-1 Rocksteady Mantle
-1 Pick-A-Meal Voucher
-1 Paintball
-1 Palico
-1 Hunter (YPE)
-1 Chocola & Vanilla
-1 Kazuya Mishima
-1 Ahtal-Neset
-1 Wide Range
-1 Annie, The Crooked One
-1 Aspiring Fireman
-1 Elijah the Majestic
-1 Erica, Caster of Crap
-1 Natascha
-1 Suspicious Schemer
-
-1 Berserkers' Onslaught
-1 Gruul War Chant
-1 Teapot Slinger
-1 Giggling Skitterspike
-1 Fiery Emancipation
-1 City on Fire
-1 Akroan Horse
+2 Hunt Rathalos
+2 Hunt Rathian
+2 Hunt Deviljho
+2 Hunt Rey Dau
+2 Hunt Espinas
+2 Hunt Kushala Daora
+2 Hunt Daimyo Hermitaur
+2 Hunt Tigrex
+2 Hunt Nargacuga
+2 Hunt Lagiacrus
+2 Hunt Zinogre
+2 Hunt Brachydios
+2 Hunt Gore Magala
+2 Hunt Seregios
+2 Hunt Glavenus
+2 Hunt Gammoth
+2 Hunt Valstrax
+2 Hunt Fatalis
+2 Hunt Dalamadur
+2 Hunt Ahtal-Ka
+2 Hunt Zorah Magdaros
+2 Hunt Guardian Arkveld
+2 Hunt Bazelgeuse
+2 Hunt Alpha Doshaguma
+2 Hunt Velocidrome
+2 Hunt Great Jagras
+2 Hunt Jin Dahaad
+2 Hunt Alatreon
+2 Hunt Poborubarumu
+2 Hunt Astalos
+2 Invasion of Lao-Shan Lung
+2 Slay (YPE)
+2 Felyne Weakener
+2 Felyne Insurance
+2 Alma's Curiosity
+2 Divine Blessing
+2 Quest Board
+2 SOS Flare
+2 Rocksteady Mantle
+2 Pick-A-Meal Voucher
+2 Paintball
+2 Palico
+2 Hunter (YPE)
+2 Chocola & Vanilla
+2 Kazuya Mishima
+2 Ahtal-Neset
+2 Wide Range
+2 Annie, The Crooked One
+2 Aspiring Fireman
+2 Elijah the Majestic
+2 Erica, Caster of Crap
+2 Natascha
+2 Suspicious Schemer
+2 Candy Kingdom
+2 Donut Witch
+2 Earl of Lemongrab
+2 Egg In Me
+2 Hambo, My Beloved
+2 James Baxter
+2 Makin' Bacon Pancakes
+2 Marceline the Vampire Queen
+2 Old Lady Destroying Gnomes
+2 Slime Princess
+2 The Curse of Simon Petrikov
+2 Berserkers' Onslaught
+2 Gruul War Chant
+2 Teapot Slinger
+2 Giggling Skitterspike
+2 Fiery Emancipation
+2 City on Fire
+2 Akroan Horse
+2 Attempted Murder
+2 Bolas's Citadel
