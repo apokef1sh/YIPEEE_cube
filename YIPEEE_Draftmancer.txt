@@ -10,7 +10,10 @@
         "id": "c600bfcd-1c98-497e-95e2-54e6e26b758e",
         "name": "Hunt Rathalos",
         "mana_cost": "{2}{R}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathalos.png",
         "colors": [
             "R"
@@ -20,7 +23,10 @@
 		"back": {
 			"name": "Rathalos, King of the Skies",
             "mana_cost": "",
-            "type": "Legendary Creature - Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathalos%20King%20of%20the%20Skies.png",
             "oracle_text": "Flying",
             "power": "4",
@@ -31,7 +37,10 @@
         "id": "9673e408-179a-46b6-ad7b-8bce8c5115f9",
         "name": "Hunt Rathian",
         "mana_cost": "{1}{R}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathian.png",
         "colors": [
             "R",
@@ -42,7 +51,10 @@
         "back": {
             "name": "Rathian, Queen of the Land",
             "mana_cost": "",
-            "type": "Legendary Creature - Dragon",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathian%20Queen%20of%20the%20Land.png",
             "oracle_text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
             "power": "2",
@@ -53,7 +65,10 @@
         "id": "d6daae05-527f-43cc-8f85-ca4ec5b2fd53",
         "name": "Hunt Deviljho",
         "mana_cost": "{3}{B}{R}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Devijho.png",
         "colors": [
             "B",
@@ -65,7 +80,10 @@
         "back": {
             "name": "Picklejho, Endless Hunger",
             "mana_cost": "",
-            "type": "Legendary Creature - Dinosaur ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dinosaur"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Picklejho%20Endless%20Hunger.png",
             "oracle_text": "When a Creature Dies, if \u2018twas dealt damage by Picklejho this turn, put two +1/+1 counters on Picklejho.",
             "power": "5",
@@ -76,7 +94,10 @@
         "id": "9e983a1d-879b-495d-88b2-7216dcd49be7",
         "name": "Hunt Rey Dau",
         "mana_cost": "{3}{U}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rey%20Dau.png",
         "colors": [
             "U",
@@ -86,7 +107,10 @@
         "back": {
             "name": "Rey Dau, Electric Spear",
             "mana_cost": "",
-            "type": "Legendary Creature - Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rey%20Dau%20Electric%20Spear.png",
             "oracle_text": "Flying\nWhen Rey Dau attacks, it deals 3 damage to any target.",
             "power": "4",
@@ -98,7 +122,10 @@
         "id": "d821ef23-1bb6-4588-9644-52f20f0474d0",
         "name": "Hunt Espinas",
         "mana_cost": "{1}{B}{G}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Espinas.png",
         "colors": [
             "U",
@@ -109,7 +136,11 @@
         "back": {
             "name": "Espinas, Forbidden Venom",
             "mana_cost": "",
-            "type": "Legendary Creature - Drake Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Drake",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Espinas%20Forbidden%20Venom.png",
             "oracle_text": "Flying, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
             "power": "3",
@@ -121,7 +152,10 @@
         "id": "12c40335-1924-4b42-9cd6-e04649bffbc7",
         "name": "Hunt Kushala Daora",
         "mana_cost": "{4}{W}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Kushala%20Daora.png",
         "colors": [
             "W",
@@ -131,7 +165,10 @@
         "back": {
             "name": "Kushala Daora, Shadow Upon the Tempest",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kushala%20Daora%20Shadow%20Upon%20the%20Tempest.png",
             "oracle_text": "Flying\nWhen Kushala Daora attacks, return up to 2 nonland permanents defending player controls to their owners' hands.",
             "power": "5",
@@ -143,7 +180,10 @@
         "id": "f8087e30-eef9-4b17-93ed-309d6f99c201",
         "name": "Hunt Daimyo Hermitaur",
         "mana_cost": "{1}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Daimyo%20Hermitaur.png",
         "colors": [
             "U"
@@ -152,7 +192,10 @@
         "back": {
             "name": "Daimyo Hermitaur, Shelled Sovereign",
             "mana_cost": "",
-            "type": "Legendary Creature - Crab ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Crab"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Daimyo%20Hermitaur%20Shelled%20Sovereign.png",
             "oracle_text": "Hexproof",
             "power": "1",
@@ -164,7 +207,10 @@
         "id": "29e486e0-46da-4456-90c1-ef9b82d1b3ab",
         "name": "Hunt Tigrex",
         "mana_cost": "{2}{R}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Tigrex.png",
         "colors": [
             "R"
@@ -173,7 +219,11 @@
         "back": {
             "name": "Tigrex, Absolute Power",
             "mana_cost": "",
-            "type": "Legendary Creature - Dinosaur Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dinosaur",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tigrex%20Absolute%20Power.png",
             "oracle_text": "Tigrex can\u2019t be blocked.",
             "power": "4",
@@ -185,7 +235,10 @@
         "id": "da306b7c-84db-4328-9dfb-f55650b6de78",
         "name": "Hunt Nargacuga",
         "mana_cost": "{2}{B}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Nargacuga.png",
         "colors": [
             "B",
@@ -195,7 +248,12 @@
         "back": {
             "name": "Nargacuga, Pouncing Shadow",
             "mana_cost": "",
-            "type": "Legendary Creature - Cat Beast Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Cat",
+                "Beast",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nargacuga%20Pouncing%20Shadow.png",
             "oracle_text": "Haste, double strike, vigilance",
             "power": "3",
@@ -207,7 +265,10 @@
         "id": "c9f2df35-7dc2-4565-a468-954c35c91c56",
         "name": "Hunt Lagiacrus",
         "mana_cost": "{4}{U}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Lagiacrus.png",
         "colors": [
             "U"
@@ -216,7 +277,11 @@
         "back": {
             "name": "Lagiacrus, Lord of the Seas",
             "mana_cost": "",
-            "type": "Legendary Creature - Leviathan Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Leviathan",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lagiacrus%20Lord%20of%20the%20Seas.png",
             "oracle_text": "Islandwalk (This creature can\u2019t be blocked as long as defending player controls an Island.)",
             "power": "5",
@@ -228,7 +293,10 @@
         "id": "53ec3a74-8a28-4202-8bfa-f641c7181786",
         "name": "Hunt Zinogre",
         "mana_cost": "{2}{W}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zinogre.png",
         "colors": [
             "W",
@@ -238,7 +306,11 @@
         "back": {
             "name": "Zinogre, Lord of Lightning",
             "mana_cost": "",
-            "type": "Legendary Creature - Dog Beast ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dog",
+                "Beast"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zinogre%20Lord%20of%20Lightning.png",
             "oracle_text": "When Zinogre attacks, draw a card for each tapped creature defending player controls.\nWhen this creature becomes blocked, tap the blocking creature and put a stun counter on it.",
             "power": "4",
@@ -250,7 +322,10 @@
         "id": "b7cf1363-cc38-4400-8dcb-833b0309f8b1",
         "name": "Hunt Brachydios",
         "mana_cost": "{3}{G}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Brachydios.png",
         "colors": [
             "G"
@@ -259,7 +334,11 @@
         "back": {
             "name": "Brachydios, the Crushing Wyvern",
             "mana_cost": "",
-            "type": "Legendary Creature - Ooze Dinosaur ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Ooze",
+                "Dinosaur"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Brachydios%20the%20Crushing%20Wyvern.png",
             "oracle_text": "When Brachydios attacks, defending player creates a green artifact token named Slime with cumulative upkeep {1} and \u201cWhen this artifact leaves the battlefield, it deals 3 damage to its controller.\u201d (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
             "power": "3",
@@ -274,7 +353,10 @@
         "id": "20b6cb9b-5b09-4a22-8798-805ae30bb94e",
         "name": "Hunt Gore Magala",
         "mana_cost": "{5}{B}{B}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gore%20Magala.png",
         "colors": [
             "B"
@@ -284,7 +366,12 @@
             "id": "457c0a8d-eb16-4602-9549-c153910fc18d",
             "name": "Gore Magala, Dark Eclipse",
             "mana_cost": "",
-            "type": "Legendary Creature - Nightmare Dragon  // Legendary Creature - Elder Dragon ",
+            "type": "Legendary Creature - Nightmare Dragon ",
+            "subtypes": [
+                "Nightmare",
+                "Dragon",
+                "// Legendary Creature - Elder Dragon",
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gore%20Magala%20Dark%20Eclipse.png",
             "oracle_text": "When Gore Magala transforms, for each of up to three target creatures, create a colourless Frenzied Role token attached to that creature. (Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.)\n{T}: Target player gets a frenzy counter. If that player has 5 or more frenzy counters, flip Gore Magala.\n--- \nFlying, Indestructible\nIf a source would deal damage to a player with 5 or more frenzy counters, it deals double that damage instead.",
             "power": "5 // 10",
@@ -299,7 +386,10 @@
         "id": "96d64429-6b68-4be5-a22c-d505703d1e87",
         "name": "Hunt Seregios",
         "mana_cost": "{3}{W}{B}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Seregios.png",
         "colors": [
             "W",
@@ -309,7 +399,10 @@
         "back": {
             "name": "Seregios, Slicing Scales",
             "mana_cost": "",
-            "type": "Legendary Creature - Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Seregios%20Slicing%20Scales.png",
             "oracle_text": "Flying, double strike, wither (This deals damage to creatures in the form of -1/-1 counters.)",
             "power": "4",
@@ -321,7 +414,10 @@
         "id": "93d7e578-384f-4c06-978b-5539732d0dd4",
         "name": "Hunt Glavenus",
         "mana_cost": "{4}{R}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenus.png",
         "colors": [
             "R",
@@ -331,7 +427,11 @@
         "back": {
             "name": "Glavenus, Hellblade",
             "mana_cost": "",
-            "type": "Legendary Creature - Dinosaur Warrior ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dinosaur",
+                "Warrior"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenus%20Hellblade.png",
             "colors": [
                 "R",
@@ -348,7 +448,10 @@
         "id": "004d7225-b589-412c-a894-144ecb5850ee",
         "name": "Hunt Mizutsune",
         "mana_cost": "{1}{U}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Mizutsune.png",
         "colors": [
             "U"
@@ -357,7 +460,11 @@
         "back": {
             "name": "Mizutsune, Bewitching Dancer",
             "mana_cost": "",
-            "type": "Legendary Creature - Fox Leviathan ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Fox",
+                "Leviathan"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Mizutsune%20Bewitching%20Dancer.png",
             "colors": [
                 "U"
@@ -373,7 +480,10 @@
         "id": "0d4d8145-609b-4949-bac1-bd469af34030",
         "name": "Hunt Astalos",
         "mana_cost": "{3}{B}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Astalos.png",
         "colors": [
             "B",
@@ -383,7 +493,11 @@
         "back": {
             "name": "Astalos, Thunderous Rage",
             "mana_cost": "",
-            "type": "Legendary Creature - Insect  Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Insect",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Astalos%20Thunderous%20Rage.png",
             "colors": [
                 "B",
@@ -399,17 +513,21 @@
     {
         "id": "92e5d680-d78a-4a7f-8da4-063011b855a4",
         "name": "Hunt Gammoth",
-        "mana_cost": "{1}{G}{G}{G}",
+        "mana_cost": "{3}{G}{G}{G}{U}",
         "type": "Legendary Snow Battle - Hunt ",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gammoth.png",
         "colors": [
-            "G"
+            "G",
+            "U"
         ],
         "set": "YPE",
         "back": {
             "name": "Gammoth, Elderfrost",
             "mana_cost": "",
-            "type": "Legendary Snow Creature - Elephant ",
+            "type": "Legendary Snow Creature",
+            "subtypes": [
+                "Elephant"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gammoth%20Elderfrost.png",
             "colors": [
                 "G"
@@ -425,7 +543,10 @@
         "id": "a657d92a-99d6-46d8-b4dd-ff56ee84f6e7",
         "name": "Hunt Valstrax",
         "mana_cost": "{3}{R}{R}{W}{W}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Valstrax.png",
         "colors": [
             "W",
@@ -435,7 +556,10 @@
         "back": {
             "name": "Valstrax, Star of Despair",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Valstrax%20Star%20of%20Despair.png",
             "colors": [
                 "W",
@@ -452,7 +576,10 @@
         "id": "c4637286-44e6-4e3d-afa7-6e2a80da9740",
         "name": "Hunt Vaal Hazak",
         "mana_cost": "{3}{B}{B}{B}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Vaal%20Hazak.png",
         "colors": [
             "B"
@@ -461,7 +588,11 @@
         "back": {
             "name": "Vaal Hazak, Rotten Veil",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Dragon Zombie ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder Dragon",
+                "Zombie"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Vaal%20Hazak%20Rotten%20Veil.png",
             "colors": [
                 "B"
@@ -486,7 +617,10 @@
         "back": {
             "name": "Velkhana, Lord of Ice",
             "mana_cost": "",
-            "type": "Legendary Snow Creature - Elder Dragon ",
+            "type": "Legendary Snow Creature",
+            "subtypes": [
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velkhana%20Lord%20of%20Ice.png",
             "colors": [
                 "U"
@@ -502,7 +636,10 @@
         "id": "f866a9b3-4a7b-4dda-8985-9ebe1a03c9c0",
         "name": "Hunt Magnamalo",
         "mana_cost": "{3}{B}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Magnamalo.png",
         "colors": [
             "B",
@@ -512,7 +649,10 @@
         "back": {
             "name": "Magnamalo, Ultimate Malice",
             "mana_cost": "",
-            "type": "Legendary Creature - Beast ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Beast"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Magnamalo%20Ultimate%20Malice.png",
             "colors": [
                 "B",
@@ -529,7 +669,10 @@
         "id": "2f65a7e5-7728-4d1c-9f06-bd15ef154829",
         "name": "Hunt Malzeno",
         "mana_cost": "{3}{W}{W}{B}{B}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Malzeno.png",
         "colors": [
             "W",
@@ -539,7 +682,12 @@
         "back": {
             "name": "Malzeno, Scarlet Feast",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Vampire Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder",
+                "Vampire",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Malzeno%20Scarlet%20Feast.png",
             "colors": [
                 "B",
@@ -556,14 +704,22 @@
         "id": "1bccb20b-277c-4b09-b0e7-a2abb1a28299",
         "name": "Hunt Guardian Arkveld",
         "mana_cost": "{7}",
-        "type": "Legendary Artifact Battle - Hunt ",
+        "type": "Legendary Artifact Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Guardian%20Arkveld.png",
         "colors": [],
         "set": "YPE",
         "back": {
             "name": "Guardian Arkveld, Chained Construct",
             "mana_cost": "",
-            "type": "Legendary Artifact Creature - Construct Beast Dragon ",
+            "type": "Legendary Artifact Creature",
+            "subtypes": [
+                "Construct",
+                "Beast",
+                "Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Guardian%20Arkveld%20Chained%20Construct.png",
             "colors": [],
             "set": "YPE",
@@ -577,7 +733,10 @@
         "id": "bf1e6395-c893-4883-8677-1a5a572b83b6",
         "name": "Hunt Bazelgeuse",
         "mana_cost": "{4}{R}{R}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bazelgeuse.png",
         "colors": [
             "R",
@@ -587,7 +746,11 @@
         "back": {
             "name": "Bazelgeuse, Party Crasher",
             "mana_cost": "",
-            "type": "Legendary Creature - Dragon Berserker ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dragon",
+                "Berzerker"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bazelgeuse%20Party%20Crasher.png",
             "colors": [
                 "R",
@@ -604,7 +767,10 @@
         "id": "f2d11ae6-374f-4226-9145-6c472f32199c",
         "name": "Hunt Alpha Doshaguma",
         "mana_cost": "{2}{G}{W}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alpha%20Doshaguma.png",
         "colors": [
             "W",
@@ -614,7 +780,11 @@
         "back": {
             "name": "Alpha Doshaguma, Pack Leader",
             "mana_cost": "",
-            "type": "Legendary Creature - Beast Bear ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Beast",
+                "Bear"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alpha%20Doshaguma%20Pack%20Leader.png",
             "colors": [
                 "W",
@@ -634,7 +804,10 @@
         "id": "59959171-3bd7-44f8-bffa-853800665198",
         "name": "Hunt Bloodbath Diablos",
         "mana_cost": "{2}{R}{R}{R}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bloodbath%20Diablos.png",
         "colors": [
             "R"
@@ -643,7 +816,12 @@
         "back": {
             "name": "Bloodbath Diablos, Tempered Anger",
             "mana_cost": "",
-            "type": "Legendary Creature - Dinosaur Dragon Juggernaut ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dinosaur",
+                "Dragon",
+                "Juggernaut"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bloodbath%20Diablos%20Tempered%20Anger.png",
             "colors": [
                 "R"
@@ -671,7 +849,10 @@
         "id": "a48aadff-db1b-490f-b038-f428c1a475aa",
         "name": "Invasion of Lao-Shan Lung",
         "mana_cost": "{6}{R}{G}",
-        "type": "Legendary Battle - Seige ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Siege"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Invasion%20of%20Lao-Shan%20Lung.png",
         "colors": [
             "R",
@@ -681,7 +862,10 @@
         "back": {
             "name": "Lao-Shan Lung",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lao-Shan%20Lung.png",
             "colors": [
                 "R",
@@ -711,7 +895,7 @@
         "id": "a1ce03ee-893e-4b89-8886-891808e41aca",
         "name": "SOS Flare",
         "mana_cost": "{2}{R}{R}",
-        "type": "Interrupt",
+        "type": "Instant",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/SOS%20Flare.png",
         "colors": [
             "R"
@@ -743,7 +927,10 @@
         "id": "a2743d91-7e70-40cd-bdb1-1143fc17267c",
         "name": "Paintball",
         "mana_cost": "{G}{W}{U}",
-        "type": "Enchantment - Aura ",
+        "type": "Enchantment",
+        "subtypes": [
+            "Aura"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Paintball.png",
         "colors": [
             "W",
@@ -757,7 +944,10 @@
         "id": "06bc65db-0877-439c-9193-1eea8cc54bf1",
         "name": "Schrade's Demise",
         "mana_cost": "{3}{B}{B}{R}{R}",
-        "type": "Legendary Enchantment - Saga ",
+        "type": "Legendary Enchantment",
+        "subtypes": [
+            "Saga"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Schrade's%20Demise.png",
         "colors": [
             "B",
@@ -770,7 +960,10 @@
         "id": "e7cfce1a-3bd7-42a1-b13f-f3e54325bdee",
         "name": "Felyne Insurance",
         "mana_cost": "{W}",
-        "type": "Enchantment - Aura ",
+        "type": "Enchantment",
+        "subtypes": [
+            "Aura"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Insurance.png",
         "colors": [
             "W"
@@ -794,7 +987,11 @@
         "id": "2b639bbc-8790-4b3d-af13-afd41507a49f",
         "name": "Palico",
         "mana_cost": "{3}{W}{U}{B}{R}{G}",
-        "type": "Legendary Creature - Cat Ally ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Cat",
+            "Ally"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Palico.png",
         "colors": [
             "W",
@@ -812,7 +1009,11 @@
         "id": "5d496158-6d14-44fa-90a4-fa082b547260",
         "name": "Hunter (YPE)",
         "mana_cost": "{W}{U}{B}{R}{G}",
-        "type": "Legendary Creature - Human Warrior ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human",
+            "Warrior"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunter.png",
         "colors": [
             "W",
@@ -830,7 +1031,10 @@
         "id": "4685b6ba-3d39-4cfc-88fa-31b80587a2d7",
         "name": "Hunt Alatreon",
         "mana_cost": "{4}{W}{U}{B}{R}{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alatreon.png",
         "colors": [
             "W",
@@ -843,7 +1047,10 @@
         "back": {
             "name": "Alatreon, The Blazing Black Dragon",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alatreon%20The%20Blazing%20Black%20Dragon.png",
             "colors": [
                 "W",
@@ -863,7 +1070,7 @@
         "id": "18425cf6-5a26-45aa-95e2-e4ccfdcac4f3",
         "name": "Slay (YPE)",
         "mana_cost": "{U}{B} // {1}{G}{U}{R}",
-        "type": "Instant // Instant",
+        "type": "Instant",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slay%20.png",
         "colors": [
             "U",
@@ -878,7 +1085,10 @@
         "id": "13d749cc-8b99-40c3-af55-67d8dd7dce07",
         "name": "Hunt Fatalis",
         "mana_cost": "{4}{B}{B}{B}{B}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Fatalis.png",
         "colors": [
             "B"
@@ -887,7 +1097,10 @@
         "back": {
             "name": "Fatalis, The Dark Demise",
             "mana_cost": "",
-            "type": "Legendary Creature - Elder Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fatalis%20The%20Dark%20Demise.png",
             "colors": [
                 "B"
@@ -906,14 +1119,21 @@
         "id": "b28ff7fe-ae0a-4c59-9be5-9e94684facdf",
         "name": "Hunt Dalamadur",
         "mana_cost": "{10}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Dalamadur.png",
         "colors": [],
         "set": "YPE",
         "back": {
             "name": "Dalamadur, World Serpent",
             "mana_cost": "",
-            "type": "Legendary Creature - Serpent Elder Dragon ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Serpent",
+                "Elder Dragon"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dalamadur%20World%20Serpent.png",
             "colors": [],
             "set": "YPE",
@@ -930,7 +1150,10 @@
         "id": "938a4985-995d-4540-90c5-98db11233671",
         "name": "Ahtal-Neset",
         "mana_cost": "{4}{B}{R}{G}",
-        "type": "Legendary Artifact - Vehicle ",
+        "type": "Legendary Artifact",
+        "subtypes": [
+            "Vehicle"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtal-Neset.png",
         "colors": [
             "B",
@@ -946,7 +1169,10 @@
         "id": "2924230d-04d8-4499-9932-094a7fe3444f",
         "name": "Hunt Ahtal-Ka",
         "mana_cost": "{2}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Ahtal-Ka.png",
         "colors": [
             "R"
@@ -955,7 +1181,11 @@
         "back": {
             "name": "Ahtal-Ka, Palace Mantis",
             "mana_cost": "",
-            "type": "Legendary Creature - Pilot Insect ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Pilot",
+                "Insect"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtala-Ka%20Palace%20Mantis.png",
             "colors": [],
             "set": "YPE",
@@ -969,7 +1199,10 @@
         "id": "07037c56-be1e-49e0-9d6f-f6ddccd0f0ec",
         "name": "Hunt Zorah Magdaros",
         "mana_cost": "{3}{R}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zorah%20Magdaros.png",
         "colors": [
             "R"
@@ -978,7 +1211,10 @@
         "back": {
             "name": "Zorah Magdaros, Scorching Mountain Dragon",
             "mana_cost": "",
-            "type": "Legendary Land - Mountain ",
+            "type": "Legendary Land",
+            "subtypes": [
+                "Mountain"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zorah%20Magdaros%20Scorching%20Mountain%20Dragon.png",
             "colors": [],
             "set": "YPE",
@@ -1014,7 +1250,10 @@
         "id": "b5c596c7-0b8e-4c03-9c39-51e7dbf11f1c",
         "name": "Divine Blessing",
         "mana_cost": "{1}{W}",
-        "type": "Enchantment - Aura ",
+        "type": "Enchantment",
+        "subtypes": [
+            "Aura"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Divine%20Blessing.png",
         "colors": [
             "W"
@@ -1026,7 +1265,10 @@
         "id": "9a8a7674-c5ed-40ac-8a50-51cd9e1eb07d",
         "name": "Hunt Jin Dahaad",
         "mana_cost": "{3}{U}{U}",
-        "type": "Legendary Snow Battle - Hunt ",
+        "type": "Legendary Snow Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Jin%20Dahaad.png",
         "colors": [
             "U"
@@ -1035,7 +1277,10 @@
         "back": {
             "name": "Jin Dahaad, Iceshard Emperor",
             "mana_cost": "",
-            "type": "Legendary Snow Creature - Leviathan ",
+            "type": "Legendary Snow Creature",
+            "subtypes": [
+                "Leviathan"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard%20Emperor.png",
             "colors": [
                 "U"
@@ -1051,7 +1296,10 @@
         "id": "bf60e7aa-b3f2-4651-8585-4919a378b44a",
         "name": "Wide Range",
         "mana_cost": "{3}{G}{G}",
-        "type": "Enchantment - Aura ",
+        "type": "Enchantment",
+        "subtypes": [
+            "Aura"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wide%20Range.png",
         "colors": [
             "G"
@@ -1063,7 +1311,10 @@
         "id": "39b60097-2c93-4db2-a5ed-92c3defc558d",
         "name": "Hunt Poborubarumu",
         "mana_cost": "{3}{G}{W}{U}{U}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Poborubarumu.png",
         "colors": [
             "W",
@@ -1074,7 +1325,10 @@
         "back": {
             "name": "Poborubarumu",
             "mana_cost": "",
-            "type": "Legendary Creature - Whale ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Whale"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Poborubarumu.png",
             "colors": [],
             "set": "YPE",
@@ -1088,7 +1342,10 @@
         "id": "d28dfa84-5431-4ab5-ad1c-39428bed7767",
         "name": "Hunt Velocidrome",
         "mana_cost": "{G}{W}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velocidrome.png",
         "colors": [
             "W",
@@ -1098,7 +1355,10 @@
         "back": {
             "name": "Velocidrome",
             "mana_cost": "",
-            "type": "Legendary Creature - Dinosaur ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Dinosaur"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velcidrome.png",
             "colors": [
                 "W",
@@ -1118,7 +1378,10 @@
         "id": "95256e73-69a3-4851-9d7a-9aea5629b3e3",
         "name": "Hunt Great Jagras",
         "mana_cost": "{G}",
-        "type": "Legendary Battle - Hunt ",
+        "type": "Legendary Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Great%20Jagras.png",
         "colors": [
             "G"
@@ -1127,7 +1390,11 @@
         "back": {
             "name": "The Greatest Jagras",
             "mana_cost": "",
-            "type": "Legendary Creature - Lizard Beast ",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Lizard",
+                "Beast"
+            ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Greatest%20Jagras.png",
             "colors": [
                 "G"
@@ -1143,7 +1410,10 @@
         "id": "e52e3a4e-d2a8-4062-b5a3-bd3b7ead07a7",
         "name": "Nightmare (YPE)",
         "mana_cost": "{5}{B}{B}{B}{B}",
-        "type": "Legendary Creature - Nightmare ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Nightmare"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nightmare.png",
         "colors": [
             "B"
@@ -1157,7 +1427,10 @@
         "id": "7f655bfe-3350-4434-9382-aad464e8e7ca",
         "name": "Chocola & Vanilla",
         "mana_cost": "{2}{W}{B}",
-        "type": "Legendary Creature - Cat ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Cat"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%20Vanilla.png",
         "colors": [
             "W",
@@ -1172,7 +1445,10 @@
         "id": "0e794b12-aca8-48c3-bb21-8893faa833a6",
         "name": "Kazuya Mishima",
         "mana_cost": "{2}{R}{W}{B}",
-        "type": "Legendary Creature - Human ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kazuya%20Mishima.png",
         "colors": [
             "W",
@@ -1188,7 +1464,11 @@
         "id": "f6f602e1-c7e5-4979-afb9-a468e02ef15d",
         "name": "Devil Kazuya",
         "mana_cost": "",
-        "type": "Legendary Creature - Demon Human ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Demon",
+            "Human"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Devil%20Kazuya.png",
         "colors": [
             "W",
@@ -1204,7 +1484,12 @@
         "id": "b1d67d9d-7313-4141-8af9-2ed030b5c15b",
         "name": "Rider and Ratha",
         "mana_cost": "",
-        "type": "Legendary Creature - Human Dragon Ally ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human",
+            "Dragon",
+            "Ally"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider%20and%20Ratha.png",
         "colors": [],
         "set": "YPE",
@@ -1216,7 +1501,10 @@
         "id": "5a5bd2e5-9ff2-4ccc-9797-fc29a857833c",
         "name": "Rider",
         "mana_cost": "{W}{U}{B}{R}{G}",
-        "type": "Legendary Creature - Human ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider.png",
         "colors": [
             "W",
@@ -1234,7 +1522,10 @@
         "id": "aed87f74-4314-46ea-b1d8-d1aa5360a600",
         "name": "Ratha",
         "mana_cost": "{W}{U}{B}{R}{G}",
-        "type": "Legendary Creature - Dragon ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Dragon"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ratha.png",
         "colors": [
             "W",
@@ -1252,7 +1543,11 @@
         "id": "07885abb-52f9-4ea2-b50a-484f5e71aff3",
         "name": "Annie, The Crooked One",
         "mana_cost": "{1}{U}{B}{R}",
-        "type": "Legendary Creature - Human Advisor ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human",
+            "Advisor"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png",
         "colors": [
             "U",
@@ -1268,7 +1563,11 @@
         "id": "7a2509bc-fff0-4450-9598-dd3e2dfad130",
         "name": "Aspiring Fireman",
         "mana_cost": "{1}{R}{G}",
-        "type": "Legendary Creature - Human Beast ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human",
+            "Beast"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Aspiring%20Fireman.png",
         "colors": [
             "R",
@@ -1283,7 +1582,10 @@
         "id": "3b0fd2ff-1507-4d19-9189-3be7fa09bdbc",
         "name": "Elijah the Majestic",
         "mana_cost": "{W}{W}{W}{W}",
-        "type": "Legendary Creature - God ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Elijah%20the%20Majestic.png",
         "colors": [
             "W"
@@ -1297,7 +1599,11 @@
         "id": "c5cf71cc-cedf-42fc-bcac-729421289771",
         "name": "Erica, Caster of Crap",
         "mana_cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
-        "type": "Legendary Creature - Human Warlock ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human",
+            "Warlock"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png",
         "colors": [
             "W",
@@ -1315,7 +1621,10 @@
         "id": "3de9324d-1395-4cd0-83a6-6bff134cec61",
         "name": "Natascha",
         "mana_cost": "{G}{G}",
-        "type": "Legendary Creature - Human ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Natascha.png",
         "colors": [
             "G"
@@ -1329,7 +1638,11 @@
         "id": "0a8068c7-95f0-4c63-b1fd-edeba1494c37",
         "name": "Suspicious Schemer",
         "mana_cost": "{U}{U}{B}{B}{B}",
-        "type": "Legendary Creature - Human Advisor ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Human",
+            "Advisor"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Suspicious%20Schemer.png",
         "colors": [
             "U",
@@ -1344,7 +1657,10 @@
         "id": "c2d0a634-81f5-4782-8f36-019fa5e805c5",
         "name": "Candy Kingdom",
         "mana_cost": "",
-        "type": "Legendary Land - Kingdom ",
+        "type": "Legendary Land",
+        "subtypes": [
+            "Kingdom",
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Candy%20Kingdom.png",
         "colors": [
         ],
@@ -1355,7 +1671,10 @@
         "id": "56636278-d503-4cab-8c4b-066e711de73e",
         "name": "Donut Witch",
         "mana_cost": "{1}{U}{U}",
-        "type": "Creature - Warlock ",
+        "type": "Creature",
+        "subtypes": [
+            "Warlock"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donut%20Witch.png",
         "colors": [
             "U"
@@ -1369,7 +1688,11 @@
         "id": "ccb9f946-ce20-4b9b-9cdc-9e4beb809d4b",
         "name": "Earl of Lemongrab",
         "mana_cost": "{2}{W}{U}",
-        "type": "Legendary Creature - Food Noble ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Food",
+            "Noble"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Earl%20of%20Lemongrab.png",
         "colors": [
             "U",
@@ -1384,7 +1707,10 @@
         "id": "e81eb152-8c92-49e9-93c4-0af61d0a32ef",
         "name": "Egg In Me",
         "mana_cost": "{W}{W}",
-        "type": "Enchantment - Aura ",
+        "type": "Enchantment",
+        "subtypes": [
+            "Aura"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Egg%20In%20Me.png",
         "colors": [
             "W"
@@ -1408,7 +1734,10 @@
         "id": "cb63faab-0075-4a89-9a94-f797d22fa38e",
         "name": "James Baxter",
         "mana_cost": "{1}{G}{W}",
-        "type": "Legendary Creature - Horse ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Horse"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/James%20Baxter.png",
         "colors": [
             "G",
@@ -1423,7 +1752,7 @@
         "id": "bbb24d6b-55f6-4c8f-bafd-3fd51176a59b",
         "name": "Makin' Bacon Pancakes",
         "mana_cost": "{2}{G}",
-        "type": "Instant ",
+        "type": "Instant",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Makin%20Bacon%20Pancakes.png",
         "colors": [
             "G"
@@ -1435,7 +1764,10 @@
         "id": "cb63faab-0075-4a89-9a94-f797d22fa38e",
         "name": "Marceline the Vampire Queen",
         "mana_cost": "{3}{B}{B}",
-        "type": "Legendary Creature - Vampire ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Vampire"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Marceline%20the%20Vampire%20Queen.png",
         "colors": [
             "B"
@@ -1449,7 +1781,11 @@
         "id": "11e2cbb9-c1ee-4f35-9a2a-6d3f81d5a37c",
         "name": "Old Lady Destroying Gnomes",
         "mana_cost": "{2}{U}",
-        "type": "Creature - Gnome Faerie ",
+        "type": "Creature",
+        "subtypes": [
+            "Gnome",
+            "Faerie"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Old%20Lady%20Destroying%20Gnomes.png",
         "colors": [
             "U"
@@ -1463,7 +1799,11 @@
         "id": "516830de-a3a2-4a46-b896-8ae510d2d812",
         "name": "Slime Princess",
         "mana_cost": "{G}",
-        "type": "Legendary Creature - Ooze Noble ",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "Ooze",
+            "Noble"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slime%20Princess.png",
         "colors": [
             "G"
@@ -1477,13 +1817,651 @@
         "id": "099a438b-1968-4145-b01e-7f1f806c397b",
         "name": "The Curse of Simon Petrikov",
         "mana_cost": "{3}{U}",
-        "type": "Legendary Enchantment - Aura Saga ",
+        "type": "Legendary Enchantment",
+        "subtypes": [
+            "Aura",
+            "Saga"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Curse%20of%20Simon%20Petrikov.png",
         "colors": [
             "U"
         ],
         "set": "YPE",
         "oracle_text": "Enchant creature\nI - Scry 2\nII - This card gains \"Enchanted creature has no abilities\" and \"Enchanted creature gets +2/+2\".\nIII - This card gains \"Whenever enchanted creature deals damage to a creature, put a stun counter on it.\"\nIV - This card loses the Saga type, gains \"Enchanted creature is goaded\" and \"Enchanted creature gets +3/+3\"."
+    },
+    {
+        "id": "af6731ec-ec77-444f-a7e5-815be2821bd5",
+        "name": "Mannish Man, Manly Minotaur",
+        "mana_cost": "1WW",
+        "type": "Creature",
+        "subtypes": [
+             "Minotaur"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Mannish%20Man%20Manly%20Minotaur.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Exalted\nWhen Mannish Man enters, search your library for The Enchiridion, reveal it, and put it into your hand.",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "dcd61cb4-664b-4e14-9402-eaff7f74e194",
+        "name": "Lobster Soul",
+        "mana_cost": "1W",
+        "type": "Creature",
+        "subtypes": [
+             "Lobster",
+             "Spirit"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lobster%20Soul.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Sacrifice this creature: Create a Food Token.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "0cc184ff-7142-4e97-b5bd-f470a7961268",
+        "name": "Meat Prepared Sous Vide",
+        "mana_cost": "2U",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Meat%20Prepared%20Sous%20Vide.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Reveal cards from the top of your library until you reveal a nonland card. You may put it into your hand. If you donâ€™t, draw two cards. Put all revealed cards on the bottom of your library in a random order,"
+    },
+    {
+        "id": "6636c8eb-275e-4d04-8540-40328dcddb4a",
+        "name": "Bird from the Window",
+        "mana_cost": "W",
+        "type": "Creature",
+        "subtypes": [
+             "Bird"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bird%20from%20the%20Window.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Sacrifice this creature: Put a +1/+1 counter on target creature.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "ec83cb86-15dc-46d4-96fd-3546de44d39a",
+        "name": "Tears for Salt",
+        "mana_cost": "1U",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tears%20for%20Salt.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Counter target spell unless its controller pays {3}."
+    },
+    {
+        "id": "5fb66cdf-3f64-4c5d-9f52-5b7f149319ce",
+        "name": "Prismos Pickles",
+        "mana_cost": "1G",
+        "type": "Legendary Artifact",
+        "subtypes": [
+             "Food"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Prismos%20Pickles.png",
+        "colors": [
+            "G"
+        ],
+        "back":[
+            "name": "The Perfect Sandwich",
+            "mana_cost": "",
+            "type": "Legendary Artifact",
+            "subtypes": [
+                "Food"
+            ],
+            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Perfect%20Sandwich.png",
+            "colors": [],
+            "set": "YPE",
+            "oracle_text": "{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canâ€™t change and you gain protection from everything."
+        ]
+        "set": "YPE",
+        "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
+    },
+    {
+        "id": "2eb7edb5-2d6d-4f81-90a2-20e97a11d943",
+        "name": "Lemonhope",
+        "mana_cost": "1W",
+        "type": "Creature",
+        "subtypes": [
+             "Food",
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lemonhope.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": " {T}: Up to three target creatures get +1/+1 until end of turn.",
+        "power": "1",
+        "toughness": "2"
+    },
+    {
+        "id": "8f1fd7b7-4874-4862-8172-fb1e65a06041",
+        "name": "Ominous Portal",
+        "mana_cost": "1R",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ominous%20Portal.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)"
+    },
+    {
+        "id": "f3eed54d-91a7-41da-a4e5-6c3d5c5359c4",
+        "name": "Key Killer",
+        "mana_cost": "4R",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus",
+             "Human",
+             "Rogue"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Key%20Killer.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When this creature deals combat damage to a player, create a treasure token.\nDash 1RR (You may cast this spell for its dash cost. If you do, it gains haste, and itâ€™s returned from the battlefield to its ownerâ€™s hand at the beginning of the next end step.)",
+        "power": "4",
+        "toughness": "3"
+    },
+    {
+        "id": "91d691e3-cb30-40f8-933e-caf684598af0",
+        "name": "An Intruder",
+        "mana_cost": "3BB",
+        "type": "Creature",
+        "subtypes": [
+             "Nightmare"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/An%20Intruder.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhen you reveal this card, you may put it onto the battlefield.",
+        "power": "3",
+        "toughness": "4"
+    },
+    {
+        "id": "8c563e39-8972-4d23-b58a-cd0abec6b2eb",
+        "name": "Speeder Troupe",
+        "mana_cost": "2R",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Speeder%20Troupe.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Speeder Troupe enters, create two 1/1 Bingus creature tokens. Binguses you control gain haste until end of turn.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "0569ec01-f0bd-4004-98d1-248595080628",
+        "name": "Bingus Chest",
+        "mana_cost": "3R",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus%20Chest.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of each upkeep, roll a six-sided dice.\nWhenever you roll a 5 or higher, create a 1/1 Bingus creature token.",
+        "power": "0",
+        "toughness": "3"
+    },
+    {
+        "id": "6ca43292-1219-4c69-a779-e759a8f35ee2",
+        "name": "Spawner Room",
+        "mana_cost": "1R // 3R",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Spawner%20Room.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, roll three six-sided dice.\nWhenever you roll a 5 or higher, create a 1/1 Bingus creature token.\n--- \nWhen you unlock this door, this room deals 4 damage divided as you choose among any number of targets."
+    },
+    {
+        "id": "fbe04d44-de0d-45e7-a83e-2988dff14c08",
+        "name": "Bingus Shop",
+        "mana_cost": "5 // 3",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus%20Shop.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your upkeep, reveal the top card of your library. You may pay {1}. If you do, put it into your hand. Otherwise, put it on the bottom of your library.\n--- \nWhen you unlock this door, draw 2 cards."
+    },
+    {
+        "id": "7fb71e49-23ef-4910-be3b-9c1a199402e8",
+        "name": "Crack in the Chamber",
+        "mana_cost": "1RR",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Crack%20in%20the%20Chamber.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Choose one â€”\nâ€¢ Run â€” Enter the Infiniroom.\nâ€¢ Smash â€” At the beginning of your next upkeep, create a 4/4 black Bingus creature token named Eakeur with trample.\nEntwine {3} (Choose both if you pay the entwine cost.)"
+    },
+    {
+        "id": "d59989f3-dbc4-40b4-8f33-b47641afbd0c",
+        "name": "Geoff, Conqueror of Rooms",
+        "mana_cost": "1B/R",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Geoff%20Conqueror%20of%20Rooms.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever a Room enters under your control, Geoff explores.\nWhenever you fully unlock a Room, if Geoff attacked this turn, you may sacrifice that Room. If you do, enter the Infiniroom.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "7a40d6d1-58cb-4d0e-81f1-71f2cc91a2d1",
+        "name": "Steven, the First Guardian",
+        "mana_cost": "4B",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Homunculus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Steven%20the%20First%20Guardian.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Vigilance, deathtouch\nWhen Steven dies, enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)",
+        "power": "3",
+        "toughness": "5"
+    },
+    {
+        "id": "a2710628-4760-4b00-8b62-602466c003d7",
+        "name": "Chamber Room",
+        "mana_cost": "1BR // 5BB",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chamber%20Room.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, create a 4/4 black Bingus creature token named Eakeur with trample.\n--- \nBinguses you control get +1/+1 and have infect."
+    },
+    {
+        "id": "cb25b06d-5d69-47a9-aec7-57e3d2aca3e5",
+        "name": "Ghastly Crypt",
+        "mana_cost": "2BB // 1R",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ghastly%20Crypt.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, target creature in your graveyard gains Fading 1. Put it onto the battlefield.\n--- \nWhen you unlock this door, deal 1 damage to each creature your opponents control."
+    },
+    {
+        "id": "0d2fbd59-2ecb-41e5-9eb6-1705c93952fd",
+        "name": "Chonk",
+        "mana_cost": "4G",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chonk.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When this creature dies, create two Treasure tokens.",
+        "power": "6",
+        "toughness": "6"
+    },
+    {
+        "id": "ad4ddcc0-1a15-44a3-9cc8-5da00cc1065b",
+        "name": "Gwendolyn",
+        "mana_cost": "6B/GB/G",
+        "type": "Creature",
+        "subtypes": [
+             "Cat"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gwendolyn.png",
+        "colors": [
+            "B",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Gwendolyn enters, destroy target artifact or enchantment.\nWhen Gwendolyn dies, create a 6/3 Cat Horror creature token with flying and a 0/3 Cat Zombie creature token with defender.",
+        "power": "6",
+        "toughness": "6"
+    },
+    {
+        "id": "acee4d03-cace-406f-a49a-26ea2c7deb40",
+        "name": "Well Timed Dodge",
+        "mana_cost": "1U",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Well%20Timed%20Dodge.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Counter target spell or ability that targets a permanent you control. Draw a card."
+    },
+    {
+        "id": "a485bfec-5329-4921-b57e-c81519efd985",
+        "name": "Laser Blasted",
+        "mana_cost": "2R",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Laser%20Blasted.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Choose one â€”\nâ€¢ Deal 6 damage to target creature.\nâ€¢ Destroy target artifact or enchantment."
+    },
+    {
+        "id": "9062deea-fc3d-4b08-b8b9-56bfe86f7a68",
+        "name": "Shopkeep",
+        "mana_cost": "1U",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus",
+             "Nomad"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Shopkeep.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Defender\n{T}: Draw a card, then discard a card.",
+        "power": "0",
+        "toughness": "2"
+    },
+    {
+        "id": "983eaa3e-5874-467c-bf83-3329793aa44c",
+        "name": "Dagabey, Burning the Tiles",
+        "mana_cost": "5RR",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Homunculus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dagabey%20Burning%20the%20Tiles.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Haste\nWhen Dagabey attacks, you may sacrifice a Room. If you do, untap all attacking creatures. After this phase, there is an additional combat phase.\nWhen Dagabey dies, enter the Infiniroom.",
+        "power": "7",
+        "toughness": "4"
+    },
+    {
+        "id": "63f4f689-298f-411b-b9ca-5c3a9def1434",
+        "name": "The Oculord, All-Seeing",
+        "mana_cost": "8UU",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Homunculus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Oculord%20All-Seeing.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying, hexproof\nYour opponents play with their hands revealed.\nOn your turn, you may cast a spell from an opponentâ€™s hand without paying its mana cost.",
+        "power": "8",
+        "toughness": "8"
+    },
+    {
+        "id": "7b912ba0-f757-40d6-9555-3772427214a4",
+        "name": "Amogamation",
+        "mana_cost": "4B/RB/GU/B",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus",
+             "Horror"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Amogamation.png",
+        "colors": [
+            "B",
+            "R",
+            "G",
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Devour 3\nWhen this creature attacks, create X 1/1 red Bingus creature tokens, where X is half the number of counters on The Amogamation, rounded down. ",
+        "power": "0",
+        "toughness": "0"
+    },
+    {
+        "id": "28af187b-9c96-4f52-80d6-671c22c26083",
+        "name": "Beelzebird",
+        "mana_cost": "5U",
+        "type": "Creature",
+        "subtypes": [
+             "Bird",
+             "Horror"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Beelzebird.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Deal 2 damage to target creature.\nWhen Beelzebird deals damage to a creature, tap that creature and put 2 stun counters on it.",
+        "power": "3",
+        "toughness": "4"
+    },
+    {
+        "id": "52d5f97f-8cbb-4efd-8181-057d89539b7b",
+        "name": "Steven's Chamber",
+        "mana_cost": "1B // 4U/R",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Stevens%20Chamber.png",
+        "colors": [
+            "B",
+            "U",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "When you unlock this door, search your library for a Homunculus card, reveal it, and put it into your hand.\n--- \nWhen you unlock this door, enter the Infiniroom.\n{6}: Enter the Infiniroom."
+    },
+    {
+        "id": "34c2dc80-a052-4e37-a85c-33a603feefc6",
+        "name": "I Really Really Really Really Really Want Billy",
+        "mana_cost": "R",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/I%20Really%20Really%20Really%20Really%20Really%20Want%20Billy.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Spree (Choose one or more additional costs.)\n+ Get Billy â€” {1} â€” Search your library for a card named Billy, Monster Kin, reveal it, and put it into your hand.\n+ Thatâ€™s not Billy... â€” 2R â€” Create a 4/4 black Bingus creature token named Eakeur with trample.\n+ Whereâ€™s Billy? â€” {2} â€” Enter the Infiniroom."
+    },
+    {
+        "id": "aeeeaca8-d9e7-467e-b5d8-6756acb75b01",
+        "name": "Billy, Monster Kin",
+        "mana_cost": "4R/G",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Billy%20Monster%20Kin.png",
+        "colors": [
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Eerie â€” Whenever an enchantment you control enters and whenever you fully unlock a Room, creatures you control get +1/+1 until end of turn.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "eb0f000e-7aa9-4aeb-8a08-d19360140108",
+        "name": "Nekobingus, Untouchable",
+        "mana_cost": "R/WR/W",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Cat",
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nekobingus%20Untouchable.png",
+        "colors": [
+            "R",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "First strike, hexproof",
+        "power": "2",
+        "toughness": "1"
+    },
+    {
+        "id": "1b9d6364-64c1-4bae-b4f6-2ce52d6ab9ac",
+        "name": "Keynor, Collector of Keys",
+        "mana_cost": "1W/BW/B",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Keynor%20Collector%20of%20Keys.png",
+        "colors": [
+            "W",
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Eerie â€” Whenever an enchantment you control enters and whenever you fully unlock a room, create a Treasure token. (Itâ€™s an artifact with â€œ{T}, Sacrifice this artifact: Add one mana of any color.â€)",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "04205f68-f2f0-4e5e-a9ad-29f01b5c0b8d",
+        "name": "Wacky Wizard",
+        "mana_cost": "1UU",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus",
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wacky%20Wizard.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Forcefield â€” {T}: Regenerate target creature other than Wacky Wizard. (The next time this creature would be destroyed this turn, it isnâ€™t. Instead tap it, remove all damage from it, and remove it from combat.)",
+        "power": "1",
+        "toughness": "3"
+    },
+    {
+        "id": "7cb80324-bf4d-4daf-8931-4f3a7fd33871",
+        "name": "Bingus",
+        "mana_cost": "",
+        "type": "Token Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "326deb43-25b3-46db-9f01-9e23f2a6ceb1",
+        "name": "Eakeur",
+        "mana_cost": "",
+        "type": "Token Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Eakeur.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "ffd00000-31a5-47f4-8d7f-ee32aa43914e",
+        "name": "Cat Horror",
+        "mana_cost": "",
+        "type": "Token Creature",
+        "subtypes": [
+             "Cat",
+             "Horror"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cat%20Horror.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying",
+        "power": "6",
+        "toughness": "3"
+    },
+    {
+        "id": "b0968357-d443-424f-a365-eddc6f540b9e",
+        "name": "Cat Zombie",
+        "mana_cost": "",
+        "type": "Token Creature",
+        "subtypes": [
+             "Cat",
+             "Zombie"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cat%20Zombie.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Defender",
+        "power": "0",
+        "toughness": "3"
     },
     {
         "id": "23a66e48-e78c-47d8-b7d4-413268ac92d5",
@@ -1660,6 +2638,7 @@
 2 Kazuya Mishima
 2 Ahtal-Neset
 2 Wide Range
+2 Nightmare (YPE)
 2 Annie, The Crooked One
 2 Aspiring Fireman
 2 Elijah the Majestic
@@ -1677,12 +2656,75 @@
 2 Old Lady Destroying Gnomes
 2 Slime Princess
 2 The Curse of Simon Petrikov
+2 Mannish Man, Manly Minotaur
+2 Lobster Soul
+2 Meat Prepared Sous Vide
+2 Bird from the Window
+2 Tears for Salt
+2 Prismos Pickles
+2 The Perfect Sandwich
+2 Lemonhope
+3 Ominous Portal
+3 Key Killer
+3 An Intruder
+3 Speeder Troupe
+3 Bingus Chest
+3 Spawner Room
+3 Bingus Shop
+3 Crack in the Chamber
+3 Geoff, Conqueror of Rooms
+3 Steven, the First Guardian
+3 Chamber Room
+3 Ghastly Crypt
+3 Chonk
+3 Gwendolyn
+3 Well Timed Dodge
+3 Laser Blasted
+3 Shopkeep
+3 Dagabey, Burning the Tiles
+3 The Oculord, All-Seeing
+3 Amogamation
+3 Beelzebird
+3 Steven's Chamber
+3 I Really Really Really Really Really Want Billy
+3 Billy, Monster Kin
+3 Nekobingus, Untouchable
+3 Keynor, Collector of Keys
+3 Wacky Wizard
 2 Berserkers' Onslaught
 2 Gruul War Chant
 2 Teapot Slinger
 2 Giggling Skitterspike
 2 Fiery Emancipation
 2 City on Fire
+2 Abundance
+2 Chimil, the Inner Sun
+2 Roaming Throne
+2 Molten Echoes
+2 Bottomless Pool // Locker Room
+2 Dollmaker's Shop // Porcelain Gallery
+2 Funeral Room // Awakening Hall
+2 Ticket Booth // Tunnel of Hate
+2 Greenhouse // Rickety Gazebo
+2 Misty Rainforest
+2 Verdant Catacombs
+2 Marsh Flats
+2 Arid Mesa
+2 Scalding Tarn
+2 Flooded Strand
+2 Polluted Delta
+2 Bloodstained Mire
+2 Wooded Foothills
+2 Windswept Heath
+2 Prismatic Vista
+2 City of Brass
+2 Chromatic Lantern
+2 Timeless Lotus
 2 Akroan Horse
 2 Attempted Murder
 2 Bolas's Citadel
+2 Kona, Rescue Beastie
+2 Three Steps Ahead
+2 Erode
+2 Imminent Doom
+2 Secret Rendezvous

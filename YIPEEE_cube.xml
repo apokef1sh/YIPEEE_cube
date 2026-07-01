@@ -703,13 +703,13 @@ Carve 3</text>
       <name>Hunt Gammoth</name>
       <set rarity="common"></set>
       <prop>
-        <colors>G</colors>
-        <manacost>1GGG</manacost>
+        <colors>GU</colors>
+        <manacost>3GGGU</manacost>
         <cmc>4</cmc>
         <type>Legendary Snow Battle - Hunt </type>
         <maintype>Battle</maintype>
         <side>front</side>
-        <coloridentity>G</coloridentity>
+        <coloridentity>GU</coloridentity>
       <loyalty>8</loyalty>
       </prop>
       <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gammoth.png">YPE</set>

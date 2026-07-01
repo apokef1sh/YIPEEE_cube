@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype>YPE</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Mannish Man, Manly Minotaur</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Minotaur </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exalted
+When Mannish Man enters, search your library for The Enchiridion, reveal it, and put it into your hand.</text>
+    </card>
+    <card>
+      <name>Lobster Soul</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Lobster Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice this creature: Create a Food Token.</text>
+    </card>
+    <card>
+      <name>Meat Prepared Sous Vide</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal cards from the top of your library until you reveal a nonland card. You may put it into your hand. If you don’t, draw two cards. Put all revealed cards on the bottom of your library in a random order,</text>
+    </card>
+    <card>
+      <name>Bird from the Window</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice this creature: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Tears for Salt</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {3}.</text>
+    </card>
+    <card>
+      <name>Prismo&apos;s Pickles</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice Prismo’s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.
+Exile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismo’s Pickles.</text>
+    </card>
+    <card>
+      <name>The Perfect Sandwich</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total can’t change and you gain protection from everything.</text>
+    </card>
+    <card>
+      <name>Lemonhope</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Food Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> {T}: Up to three target creatures get +1/+1 until end of turn.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
