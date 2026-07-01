@@ -1,5 +1,6 @@
 import json
 while True:
+    print("Input location of XML file.")
     prompt = input(">")
     prompt.replace("  ", "")
     jsonprompt = json.loads(prompt)
@@ -15,7 +16,7 @@ while True:
     else:
         maintype = cardtypes[0]
     try:
-        pt = f"{jsonprompt["power"]}/{jsonprompt["toughness"]}"
+        pt = jsonprompt["power"]+"/"+jsonprompt["toughness"]
     except:
         pt = ""
         
