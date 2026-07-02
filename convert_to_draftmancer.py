@@ -11,7 +11,7 @@ class Card:
     def __str__(self):
         return f"name: {card.name}, manacost: {card.manacost}, type: {card.type}, subtypes: {card.subtypes}, oracle text: {card.oracle_text}"
 
-
+print("Input location of XML file")
 filepath = input(">").replace("\"", "")
 file = open(filepath, errors="ignore")
 filetext = file.read()
@@ -51,7 +51,7 @@ for card in cards:
         "toughness": \"{card.pt.split("/")[1]}\""""
     else:
         pt = ""
-    if "Room" in card.type:
+    if "Room" in card.subtypes:
         layout = f"""
         "layout": "split","""
     else:

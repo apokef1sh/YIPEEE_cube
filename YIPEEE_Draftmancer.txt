@@ -370,7 +370,7 @@
             "subtypes": [
                 "Nightmare",
                 "Dragon",
-                "// Legendary Creature - Elder Dragon",
+                "// Legendary Creature - Elder Dragon"
             ],
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gore%20Magala%20Dark%20Eclipse.png",
             "oracle_text": "When Gore Magala transforms, for each of up to three target creatures, create a colourless Frenzied Role token attached to that creature. (Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.)\n{T}: Target player gets a frenzy counter. If that player has 5 or more frenzy counters, flip Gore Magala.\n--- \nFlying, Indestructible\nIf a source would deal damage to a player with 5 or more frenzy counters, it deals double that damage instead.",
@@ -514,7 +514,10 @@
         "id": "92e5d680-d78a-4a7f-8da4-063011b855a4",
         "name": "Hunt Gammoth",
         "mana_cost": "{3}{G}{G}{G}{U}",
-        "type": "Legendary Snow Battle - Hunt ",
+        "type": "Legendary Snow Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gammoth.png",
         "colors": [
             "G",
@@ -608,7 +611,10 @@
         "id": "d3c0928a-0cdc-45a8-99ed-7297ef200373",
         "name": "Hunt Velkhana",
         "mana_cost": "{3}{U}{U}{U}",
-        "type": "Legendary Snow Battle - Hunt ",
+        "type": "Legendary Snow Battle",
+        "subtypes": [
+            "Hunt"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velkhana.png",
         "colors": [
             "U"
@@ -1186,7 +1192,7 @@
                 "Pilot",
                 "Insect"
             ],
-            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtala-Ka%20Palace%20Mantis.png",
+            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtal-Ka%20Palace%20Mantis.png",
             "colors": [],
             "set": "YPE",
             "oracle_text": "Reach\nWhen Ahtal-Ka transforms, put target artifact card from a graveyard onto the battlefield under your control.\nThis creature crews Vehicles as if its power were 2 greater. ",
@@ -1659,7 +1665,7 @@
         "mana_cost": "",
         "type": "Legendary Land",
         "subtypes": [
-            "Kingdom",
+            "Kingdom"
         ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Candy%20Kingdom.png",
         "colors": [
@@ -1917,7 +1923,7 @@
         "colors": [
             "G"
         ],
-        "back":[
+        "back": {
             "name": "The Perfect Sandwich",
             "mana_cost": "",
             "type": "Legendary Artifact",
@@ -1928,7 +1934,7 @@
             "colors": [],
             "set": "YPE",
             "oracle_text": "{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canâ€™t change and you gain protection from everything."
-        ]
+        },
         "set": "YPE",
         "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
     },
@@ -1948,6 +1954,62 @@
         "set": "YPE",
         "oracle_text": " {T}: Up to three target creatures get +1/+1 until end of turn.",
         "power": "1",
+        "toughness": "2"
+    },
+    {
+        "id": "043371bf-2652-472e-a0e0-845201123613",
+        "name": "Magic Man",
+        "mana_cost": "WUBRG",
+        "type": "Creature",
+        "subtypes": [
+             "Magic",
+             "Man"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Magic%20Man.png",
+        "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Magic Man enters the battlefield, each opponent gives you control of one permanent they own.\nPermanents you control but don't own have \"When this card leaves the battlefield, exile it. It's owner loses 3 life.\"",
+        "power": "3",
+        "toughness": "5"
+    },
+    {
+        "id": "829e5201-66bd-44ff-b65a-1bc755e5f79d",
+        "name": "Tree Trunks",
+        "mana_cost": "{1}{W}{G}",
+        "type": "Creature",
+        "subtypes": [
+             "Elephant"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tree%20Trunks.png",
+        "colors": [
+            "W",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your upkeep, create a Food Token.\n{T}, Sacrifice a Food: The next creature spell you cast this turn has riot.",
+        "power": "0",
+        "toughness": "2"
+    },
+    {
+        "id": "fc0b2267-c08b-4034-a77b-5a284790a098",
+        "name": "NEPTR",
+        "mana_cost": "3",
+        "type": "Artifact Creature",
+        "subtypes": [
+             "Robot"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/NEPTR.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of each player's upkeep, that player creates a Food Token.\nFood tokens lose the ability \"{2}, {T}, Sacrifice this artifact: Gain 3 life\"\nFood tokens have \"{2}, {T}, Sacrifice this artifact: Target opponent gains 3 life\"",
+        "power": "2",
         "toughness": "2"
     },
     {
@@ -2467,7 +2529,10 @@
         "id": "23a66e48-e78c-47d8-b7d4-413268ac92d5",
         "name": "Slime",
         "mana_cost": "",
-        "type": "Token Creature - Ooze ",
+        "type": "Token Creature",
+        "subtypes": [
+             "Ooze"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slime.png",
         "colors": [
             "G"
@@ -2481,7 +2546,10 @@
         "id": "f59182d7-3201-4856-a395-667abf386edc",
         "name": "Frenzied",
         "mana_cost": "",
-        "type": "Token Enchantment - Aura ",
+        "type": "Token Enchantment",
+        "subtypes": [
+             "Aura"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/frenzied.png",
         "colors": [],
         "set": "YPE",
@@ -2491,7 +2559,10 @@
         "id": "b88eb6f8-f018-43c1-93f4-a04c9be1f779",
         "name": "Doshaguma",
         "mana_cost": "",
-        "type": "Token Creature - Beast  ",
+        "type": "Token Creature",
+        "subtypes": [
+             "Beast"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Doshaguma.png",
         "colors": [
             "W"
@@ -2515,7 +2586,10 @@
         "id": "528620f3-6e0d-4cc6-9512-56986f01ebc7",
         "name": "Kinsect",
         "mana_cost": "",
-        "type": "Token Creature - Insect ",
+        "type": "Token Creature",
+        "subtypes": [
+             "Insect"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kinsect.png",
         "colors": [
             "W",
@@ -2533,7 +2607,10 @@
         "id": "f86ee0ac-4ee9-4840-9596-8811320c6968",
         "name": "Food",
         "mana_cost": "",
-        "type": "Token Artifact - Food ",
+        "type": "Token Artifact",
+        "subtypes": [
+             "Food"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Food.png",
         "colors": [],
         "set": "YPE",
@@ -2543,7 +2620,10 @@
         "id": "5a8662f5-dc4c-4599-9692-593022b0c7da",
         "name": "Treasure",
         "mana_cost": "",
-        "type": "Token Artifact - Treasure ",
+        "type": "Token Artifact",
+        "subtypes": [
+             "Treasure"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Treasure.png",
         "colors": [],
         "set": "YPE",
@@ -2565,7 +2645,10 @@
         "id": "a185a48f-24ff-40e0-8fa0-2868a3f33310",
         "name": "Dalamadurs Coil",
         "mana_cost": "",
-        "type": "Token Creature - Serpent ",
+        "type": "Token Creature",
+        "subtypes": [
+             "Serpent"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dalamadurs%20Coil.png",
         "colors": [
             "R"
@@ -2579,7 +2662,10 @@
         "id": "337f4f32-fc9d-4a37-b873-55cb6b535c7f",
         "name": "Velociprey",
         "mana_cost": "",
-        "type": "Creature Token - Dinosaur ",
+        "type": "Token Creature",
+        "subtypes": [
+             "Dinosaur"
+        ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velociprey.png",
         "colors": [
             "G"
@@ -2662,8 +2748,10 @@
 2 Bird from the Window
 2 Tears for Salt
 2 Prismos Pickles
-2 The Perfect Sandwich
 2 Lemonhope
+2 Magic Man
+2 Tree Trunks
+2 NEPTR
 3 Ominous Portal
 3 Key Killer
 3 An Intruder

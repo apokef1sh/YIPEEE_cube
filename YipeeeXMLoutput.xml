@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>YPE</name>
+      <longname>Yipeee Cube 1: The Beginning</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+        <card>
+          <name>Hunt Rathalos</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2RR</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathalos.png">YPE</set>
+          <related attach="transform">Rathalos, King of the Skies</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Rathalos deals 3 damage to that player.
+Carve 3 (When this battle is defeated, each player that had a source they control deal damage to it creates 3 treasure tokens.)</text>
+        </card>
+        <card>
+          <name>Rathalos, King of the Skies</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathalos%20King%20of%20the%20Skies.png">YPE</set>
+          <related attach="transform">Hunt Rathalos</related>
+          <tablerow>2</tablerow>
+          <text>Flying</text>
+        </card>
+        <card>
+          <name>Hunt Rathian</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost>1RG</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rathian.png">YPE</set>
+          <related attach="transform">Rathian, Queen of the Land</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Rathian deals 2 damage to that player.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Rathian, Queen of the Land</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>2/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rathian%20Queen%20of%20the%20Land.png">YPE</set>
+          <related attach="transform">Hunt Rathian</related>
+          <tablerow>2</tablerow>
+          <text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)</text>
+        </card>
+        <card>
+          <name>Hunt Deviljho</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BRG</colors>
+            <manacost>3BRG</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Devijho.png">YPE</set>
+          <related attach="transform">Picklejho, Endless Hunger</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Ward— Sacrifice a creature (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player  Sacrifice a creature.)
+At the beginning of each players upkeep, that player faces a villainous choice — Hunt: Deviljho deals 5 damage to that player or that player sacrifices a creature and puts 2 defense counters on Hunt: Deviljho.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Picklejho, Endless Hunger</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dinosaur</type>
+            <maintype>Creature</maintype>
+            <pt>5/6</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Picklejho%20Endless%20Hunger.png">YPE</set>
+          <related attach="transform">Hunt Deviljho</related>
+          <tablerow>2</tablerow>
+          <text>When a Creature Dies, if ‘twas dealt damage by Picklejho this turn, put two +1/+1 counters on Picklejho.</text>
+        </card>
+        <card>
+          <name>Hunt Rey Dau</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UR</colors>
+            <manacost>3UR</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>UR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Rey%20Dau.png">YPE</set>
+          <related attach="transform">Rey Dau, Electric Spear</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Rey Dau deals 3 damage to that player. Tap the creature with the highest toughness among creatures that player controls, then put a stun counter on it.
+Carve 3.</text>
+        </card>
+        <card>
+          <name>Rey Dau, Electric Spear</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rey%20Dau%20Electric%20Spear.png">YPE</set>
+          <related attach="transform">Hunt Rey Dau</related>
+          <tablerow>2</tablerow>
+          <text>Flying
+When Rey Dau attacks, it deals 3 damage to any target.</text>
+        </card>
+        <card>
+          <name>Hunt Espinas</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UBG</colors>
+            <manacost>1BGU</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>UBG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Espinas.png">YPE</set>
+          <related attach="transform">Espinas, Forbidden Venom</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Espinas deals 1 damage to that player, then that player gets a poison counter. Tap the creature with the highest mana value amongst creatures that player controls without stun counters, then put a stun counter on it.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Espinas, Forbidden Venom</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Drake Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Espinas%20Forbidden%20Venom.png">YPE</set>
+          <related attach="transform">Hunt Espinas</related>
+          <tablerow>2</tablerow>
+          <text>Flying, Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)</text>
+        </card>
+        <card>
+          <name>Hunt Kushala Daora</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WU</colors>
+            <manacost>4WU</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WU</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Kushala%20Daora.png">YPE</set>
+          <related attach="transform">Kushala Daora, Shadow Upon the Tempest</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s upkeep, Hunt: Kushala Daora deals 3 damage to that player, then they return a nonland, nontoken permanent they control to its owner’s hand.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Kushala Daora, Shadow Upon the Tempest</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>5/5</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kushala%20Daora%20Shadow%20Upon%20the%20Tempest.png">YPE</set>
+          <related attach="transform">Hunt Kushala Daora</related>
+          <tablerow>2</tablerow>
+          <text>Flying
+When Kushala Daora attacks, return up to 2 nonland permanents defending player controls to their owners' hands.</text>
+        </card>
+        <card>
+          <name>Hunt Daimyo Hermitaur</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1U</manacost>
+            <cmc>2</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Daimyo%20Hermitaur.png">YPE</set>
+          <related attach="transform">Daimyo Hermitaur, Shelled Sovereign</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s upkeep, Hunt: Daimyo Hermitaur deals 1 damage to that player.
+Carve 2</text>
+        </card>
+        <card>
+          <name>Daimyo Hermitaur, Shelled Sovereign</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Crab</type>
+            <maintype>Creature</maintype>
+            <pt>1/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Daimyo%20Hermitaur%20Shelled%20Sovereign.png">YPE</set>
+          <related attach="transform">Hunt Daimyo Hermitaur</related>
+          <tablerow>2</tablerow>
+          <text>Hexproof</text>
+        </card>
+        <card>
+          <name>Hunt Tigrex</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2RR</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Tigrex.png">YPE</set>
+          <related attach="transform">Tigrex, Absolute Power</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Tigrex deals 2 damage to that player and they discard a card.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Tigrex, Absolute Power</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dinosaur Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tigrex%20Absolute%20Power.png">YPE</set>
+          <related attach="transform">Hunt Tigrex</related>
+          <tablerow>2</tablerow>
+          <text>Tigrex can’t be blocked.</text>
+        </card>
+        <card>
+          <name>Hunt Nargacuga</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>2BR</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Nargacuga.png">YPE</set>
+          <related attach="transform">Nargacuga, Pouncing Shadow</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Nargacuga deals 2 damage to that player.
+At the beginning of each players endstep, Hunt: Nargacuga deals 2 damage to that player.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Nargacuga, Pouncing Shadow</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Cat Beast Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>3/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nargacuga%20Pouncing%20Shadow.png">YPE</set>
+          <related attach="transform">Hunt Nargacuga</related>
+          <tablerow>2</tablerow>
+          <text>Haste, double strike, vigilance</text>
+        </card>
+        <card>
+          <name>Hunt Lagiacrus</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>4UU</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Lagiacrus.png">YPE</set>
+          <related attach="transform">Lagiacrus, Lord of the Seas</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Lagiacrus deals 1+X damage to that player, where X is the number of islands on the battlefield.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Lagiacrus, Lord of the Seas</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Leviathan Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>5/5</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lagiacrus%20Lord%20of%20the%20Seas.png">YPE</set>
+          <related attach="transform">Hunt Lagiacrus</related>
+          <tablerow>2</tablerow>
+          <text>Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)</text>
+        </card>
+        <card>
+          <name>Hunt Zinogre</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WU</colors>
+            <manacost>2WU</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WU</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zinogre.png">YPE</set>
+          <related attach="transform">Zinogre, Lord of Lightning</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Zinogre deals 2 damage to that player and taps an untapped creature with the highest mana value among creatures they control, then puts a stun counter on it.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Zinogre, Lord of Lightning</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dog Beast</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zinogre%20Lord%20of%20Lightning.png">YPE</set>
+          <related attach="transform">Hunt Zinogre</related>
+          <tablerow>2</tablerow>
+          <text>When Zinogre attacks, draw a card for each tapped creature defending player controls.
+When this creature becomes blocked, tap the blocking creature and put a stun counter on it.</text>
+        </card>
+        <card>
+          <name>Hunt Brachydios</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>3GG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Brachydios.png">YPE</set>
+          <related attach="transform">Brachydios, the Crushing Wyvern</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Brachydios deals 1 damage to that player, then that player creates a green artifact token named Slime with cumulative upkeep 1 and  “When this artifact leaves the battlefield, it deals 3 damage its controller.” (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Carve 3</text>
+        </card>
+        <card>
+          <name>Brachydios, the Crushing Wyvern</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Ooze Dinosaur</type>
+            <maintype>Creature</maintype>
+            <pt>3/5</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Brachydios%20the%20Crushing%20Wyvern.png">YPE</set>
+          <related attach="transform">Hunt Brachydios</related>
+          <tablerow>2</tablerow>
+          <text>When Brachydios attacks, defending player creates a green artifact token named Slime with cumulative upkeep {1} and “When this artifact leaves the battlefield, it deals 3 damage to its controller.” (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
+        </card>
+        <card>
+          <name>Hunt Gore Magala</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>5BB</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gore%20Magala.png">YPE</set>
+          <related attach="transform">Gore Magala, Dark Eclipse</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Shroud
+At the beginning of each player’s upkeep, Hunt: Gore Magala deals 1 damage to that player, then if that player has less than 5 frenzy counters, they gain a frenzy counter unless that player pays 3 or U. (If a player deals 10 combat damage in a turn, remove all frenzy counters from that player and draw a card. If a player has 5 or more frenzy counters, combat damage dealt to them is doubled.) 
+Carve 3</text>
+        </card>
+        <card>
+          <name>Gore Magala, Dark Eclipse</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Nightmare Dragon  - Nightmare Dragon // Legendary Creature - Elder Dragon</type>
+            <maintype></maintype>
+            <pt>5 // 10/7 // 10</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gore%20Magala%20Dark%20Eclipse.png">YPE</set>
+          <related attach="transform">Hunt Gore Magala</related>
+          <tablerow>2</tablerow>
+          <text>When Gore Magala transforms, for each of up to three target creatures, create a colourless Frenzied Role token attached to that creature. (Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.)
+{T}: Target player gets a frenzy counter. If that player has 5 or more frenzy counters, flip Gore Magala.
+--- 
+Flying, Indestructible
+If a source would deal damage to a player with 5 or more frenzy counters, it deals double that damage instead.</text>
+        </card>
+        <card>
+          <name>Hunt Seregios</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WB</colors>
+            <manacost>3WB</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WB</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Seregios.png">YPE</set>
+          <related attach="transform">Seregios, Slicing Scales</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Seregios deals 3 damage to that player, and puts three -1/-1 counters divided randomly on creatures they control.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Seregios, Slicing Scales</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Seregios%20Slicing%20Scales.png">YPE</set>
+          <related attach="transform">Hunt Seregios</related>
+          <tablerow>2</tablerow>
+          <text>Flying, double strike, wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+        </card>
+        <card>
+          <name>Hunt Glavenus</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost>4RG</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Glavenus.png">YPE</set>
+          <related attach="transform">Glavenus, Hellblade</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s end step, if that player did not attack Hunt: Glavenus this turn, Hunt: Glavenus deals 6 damage to that player.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Glavenus, Hellblade</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dinosaur Warrior</type>
+            <maintype>Creature</maintype>
+            <pt>6/6</pt>
+            <side>back</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Glavenus%20Hellblade.png">YPE</set>
+          <related attach="transform">Hunt Glavenus</related>
+          <tablerow>2</tablerow>
+          <text>Trample</text>
+        </card>
+        <card>
+          <name>Hunt Mizutsune</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1UU</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Mizutsune.png">YPE</set>
+          <related attach="transform">Mizutsune, Bewitching Dancer</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s upkeep that player flips a coin. If they lose the flip that player takes 1 damage.
+At the beginning of each players upkeep, they return a non-land permanent they control to its owner’s hand.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Mizutsune, Bewitching Dancer</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Fox Leviathan</type>
+            <maintype>Creature</maintype>
+            <pt>3/5</pt>
+            <side>back</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Mizutsune%20Bewitching%20Dancer.png">YPE</set>
+          <related attach="transform">Hunt Mizutsune</related>
+          <tablerow>2</tablerow>
+          <text>Vigilance
+When Mizutsune transforms, draw a card.</text>
+        </card>
+        <card>
+          <name>Hunt Astalos</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BG</colors>
+            <manacost>3BG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Astalos.png">YPE</set>
+          <related attach="transform">Astalos, Thunderous Rage</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s upkeep, Hunt: Astalos deals X damage to that player, where X is the number of defense counters on Hunt: Astalos.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Astalos, Thunderous Rage</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Insect Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>5/3</pt>
+            <side>back</side>
+            <coloridentity>BG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Astalos%20Thunderous%20Rage.png">YPE</set>
+          <related attach="transform">Hunt Astalos</related>
+          <tablerow>2</tablerow>
+          <text>Flying</text>
+        </card>
+        <card>
+          <name>Hunt Gammoth</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>GU</colors>
+            <manacost>3GGGU</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Snow Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>GU</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Gammoth.png">YPE</set>
+          <related attach="transform">Gammoth, Elderfrost</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s upkeep, Hunt: Gammoth deals 3 damage to that player.
+When a creature becomes tapped, put a stun counter on it.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Gammoth, Elderfrost</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Snow Creature - Elephant</type>
+            <maintype>Creature</maintype>
+            <pt>8/8</pt>
+            <side>back</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gammoth%20Elderfrost.png">YPE</set>
+          <related attach="transform">Hunt Gammoth</related>
+          <tablerow>2</tablerow>
+          <text>Trample</text>
+        </card>
+        <card>
+          <name>Hunt Valstrax</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WR</colors>
+            <manacost>3RRWW</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Valstrax.png">YPE</set>
+          <related attach="transform">Valstrax, Star of Despair</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Indestructible
+At the beginning of each players upkeep, put a charge counter on Hunt: Valstrax. Then, Hunt: Valstrax deals X damage to that player, where X is the amount of charge counters on Hunt: Valstrax.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Valstrax, Star of Despair</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WR</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>6/6</pt>
+            <side>back</side>
+            <coloridentity>WR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Valstrax%20Star%20of%20Despair.png">YPE</set>
+          <related attach="transform">Hunt Valstrax</related>
+          <tablerow>2</tablerow>
+          <text>Flying, vigilance
+When Valstrax attacks, put a charge counter on it.
+Remove 10 charge counters from Valstrax: Destroy all other creatures.</text>
+        </card>
+        <card>
+          <name>Hunt Vaal Hazak</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>3BBB</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Vaal%20Hazak.png">YPE</set>
+          <related attach="transform">Vaal Hazak, Rotten Veil</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Vaal Hazak deals 4 damage to that player, and puts a random creature from that players graveyard on the battlefield under another player’s control chosen at random.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Vaal Hazak, Rotten Veil</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Dragon Zombie</type>
+            <maintype>Creature</maintype>
+            <pt>5/7</pt>
+            <side>back</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Vaal%20Hazak%20Rotten%20Veil.png">YPE</set>
+          <related attach="transform">Hunt Vaal Hazak</related>
+          <tablerow>2</tablerow>
+          <text>Deathtouch
+2UB: Exile target creature from a graveyard, create a token copy of it, except its a 4/4 black zombie.</text>
+        </card>
+        <card>
+          <name>Hunt Velkhana</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>3UUU</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Snow Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velkhana.png">YPE</set>
+          <related attach="transform">Velkhana, Lord of Ice</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Hexproof
+At the beginning of each players upkeep, Hunt: Velkhana deals 4 damage to that player. Put a stun counter on the creature with the highest toughness among creatures that player controls.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Velkhana, Lord of Ice</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Snow Creature - Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>5/5</pt>
+            <side>back</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velkhana%20Lord%20of%20Ice.png">YPE</set>
+          <related attach="transform">Hunt Velkhana</related>
+          <tablerow>2</tablerow>
+          <text>Flying
+2{S}: Tap target creature and put an ice counter on it.
+Creatures with ice counters on them don’t untap during their controllers untap steps.</text>
+        </card>
+        <card>
+          <name>Hunt Magnamalo</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>3BR</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Magnamalo.png">YPE</set>
+          <related attach="transform">Magnamalo, Ultimate Malice</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Magnamalo deals 3 damage to that player. Put a finality counter on target creature.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Magnamalo, Ultimate Malice</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Beast</type>
+            <maintype>Creature</maintype>
+            <pt>5/5</pt>
+            <side>back</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Magnamalo%20Ultimate%20Malice.png">YPE</set>
+          <related attach="transform">Hunt Magnamalo</related>
+          <tablerow>2</tablerow>
+          <text>Menace</text>
+        </card>
+        <card>
+          <name>Hunt Malzeno</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WB</colors>
+            <manacost>3WWBB</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WB</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Malzeno.png">YPE</set>
+          <related attach="transform">Malzeno, Scarlet Feast</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Indestructible
+At the beginning of each players upkeep, Hunt: Malzeno deals 4 damage to that player. Put a defense counter on Hunt: Malzeno.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Malzeno, Scarlet Feast</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Vampire Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>7/5</pt>
+            <side>back</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Malzeno%20Scarlet%20Feast.png">YPE</set>
+          <related attach="transform">Hunt Malzeno</related>
+          <tablerow>2</tablerow>
+          <text>Lifelink
+When Malzeno enters the battlefield or transforms, Melzeno deals 4 damage to any target.
+{2}, {T}: Exile Malzeno and then return it to the battlefield tapped and transformed under your control.</text>
+        </card>
+        <card>
+          <name>Hunt Guardian Arkveld</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>7</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Artifact Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Guardian%20Arkveld.png">YPE</set>
+          <related attach="transform">Guardian Arkveld, Chained Construct</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
+At the beginning of each players upkeep, Hunt: Guardian Arkveld deals 3 damage to that player. At the beginning of each player’s endstep, if that player didn’t attack Hunt: Guardian Arkveld this turn, put a defense counter on it.
+Carve 3.</text>
+        </card>
+        <card>
+          <name>Guardian Arkveld, Chained Construct</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Artifact Creature - Construct Beast Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Guardian%20Arkveld%20Chained%20Construct.png">YPE</set>
+          <related attach="transform">Hunt Guardian Arkveld</related>
+          <tablerow>2</tablerow>
+          <text>Whenever a battle enters the battlefield under your control, you may pay {2}. If you do, create a token that’s a copy of it, except its not legendary and it’s an artifact.</text>
+        </card>
+        <card>
+          <name>Hunt Bazelgeuse</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost>4RRG</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bazelgeuse.png">YPE</set>
+          <related attach="transform">Bazelgeuse, Party Crasher</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Flash
+If Hunt: Bazelgeuse was cast on another players turn, it deals 4 damage to each player.
+At the beginning of each players upkeep, deal 3 damage to each player.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Bazelgeuse, Party Crasher</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dragon Berzerker</type>
+            <maintype>Creature</maintype>
+            <pt>5/4</pt>
+            <side>back</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bazelgeuse%20Party%20Crasher.png">YPE</set>
+          <related attach="transform">Hunt Bazelgeuse</related>
+          <tablerow>2</tablerow>
+          <text>Flying
+When Bazelgeuse attacks, it deals 4 damage divided among any number of target creatures.</text>
+        </card>
+        <card>
+          <name>Hunt Alpha Doshaguma</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WG</colors>
+            <manacost>2GW</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alpha%20Doshaguma.png">YPE</set>
+          <related attach="transform">Alpha Doshaguma, Pack Leader</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Cleave GW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+At the beginning of each players upkeep, [Hunt: Doshaguma deals 1 damage to that player, then] that player creates a 2/2 white beast creature token named Doshaguma with banding and “This creature attacks each combat if able.”
+Carve 3</text>
+        </card>
+        <card>
+          <name>Alpha Doshaguma, Pack Leader</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Beast Bear</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>back</side>
+            <coloridentity>WG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alpha%20Doshaguma%20Pack%20Leader.png">YPE</set>
+          <related attach="transform">Hunt Alpha Doshaguma</related>
+          <tablerow>2</tablerow>
+          <text>When this creature transforms, put X +1/+1 counters on it where X is the number of creatures on the battlefield named Doshaguma.</text>
+        </card>
+        <card>
+          <name>Hunt Bloodbath Diablos</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2RRRR</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Bloodbath%20Diablos.png">YPE</set>
+          <related attach="transform">Bloodbath Diablos, Tempered Anger</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player’s upkeep, Hunt: Bloodbath Diablos deals 10-X damage to that player, where X is the number of defense counters on Hunt: Bloodbath Diablos. If Hunt: Bloodbath Diablos has 10 or more defense counters, it deals 1 damage instead.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Bloodbath Diablos, Tempered Anger</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dinosaur Dragon Juggernaut</type>
+            <maintype>Creature</maintype>
+            <pt>8/8</pt>
+            <side>back</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bloodbath%20Diablos%20Tempered%20Anger.png">YPE</set>
+          <related attach="transform">Hunt Bloodbath Diablos</related>
+          <tablerow>2</tablerow>
+          <text>Trample, haste</text>
+        </card>
+        <card>
+          <name>Felyne Moxie</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>W</manacost>
+            <cmc>1</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Moxie.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Split Second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
+You can’t lose the game this turn and your opponents can’t win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.</text>
+        </card>
+        <card>
+          <name>Invasion of Lao-Shan Lung</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost>6RG</manacost>
+            <cmc>8</cmc>
+            <type>Legendary Battle - Siege</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Invasion%20of%20Lao-Shan%20Lung.png">YPE</set>
+          <related attach="transform">Lao-Shan Lung</related>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Invasion of Lao-Shan Lung deals 15 damage divided as they choose among creatures that player controls. Excess damage is dealt to that player instead.
+Carve 5</text>
+        </card>
+        <card>
+          <name>Lao-Shan Lung</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>13/13</pt>
+            <side>back</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lao-Shan%20Lung.png">YPE</set>
+          <related attach="transform">Invasion of Lao-Shan Lung</related>
+          <tablerow>2</tablerow>
+          <text>Trample</text>
+        </card>
+        <card>
+          <name>Quest Board</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WR</colors>
+            <manacost>RW</manacost>
+            <cmc>2</cmc>
+            <type>Sorcery</type>
+            <maintype>Sorcery</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Quest%20Board.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Cleave 1RW (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Search your library for a battle card [reveal it] and put it in your hand and shuffle your library.</text>
+        </card>
+        <card>
+          <name>SOS Flare</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2RR</manacost>
+            <cmc>4</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/SOS%20Flare.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>This spell can only be cast during combat before the declare attackers step. Gain control of each creature target opponent controls until end of combat. Untap those creatures. Until end of turn, those creatures attack each combat if able and creatures you control cannot attack that player.</text>
+        </card>
+        <card>
+          <name>Rocksteady Mantle</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>6</manacost>
+            <cmc>6</cmc>
+            <type>Artifact</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rocksteady%20Mantle.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>If a source would deal non combat damage to you, it instead deals half that damage rounded up.</text>
+        </card>
+        <card>
+          <name>Pick-A-Meal Voucher</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <type>Artifact</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Pick-A-Meal%20Voucher.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>At the beginning of your upkeep, create two food tokens.</text>
+        </card>
+        <card>
+          <name>Paintball</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUG</colors>
+            <manacost>GWU</manacost>
+            <cmc>3</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WUG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Paintball.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature or battle
+Flash
+When Paintball enters the battlefield, put 3 defense counters on enchanted permanent.
+Enchanted permanent is a hunt battle with “At the beginning of each player’s upkeep, deal 3 damage to that player. Carve 1.” and loses all other card types and abilities. If enchanted permanent would transform, put it in its controller’s graveyard instead.</text>
+        </card>
+        <card>
+          <name>Schrade's Demise</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>3BBRR</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Enchantment - Saga</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Schrade's%20Demise.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text></text>
+        </card>
+        <card>
+          <name>Felyne Insurance</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>W</manacost>
+            <cmc>1</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Insurance.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature
+Flash
+Totem armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+        </card>
+        <card>
+          <name>Gemma's Mastery</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>2U</manacost>
+            <cmc>3</cmc>
+            <type>Enchantment</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gemmas%20Mastery.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Artifact spells you cast cost {2} less to cast.</text>
+        </card>
+        <card>
+          <name>Palico</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>3WUBRG</manacost>
+            <cmc>8</cmc>
+            <type>Legendary Creature - Cat Ally</type>
+            <maintype>Creature</maintype>
+            <pt>2/3</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Palico.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>The Hunter’s Companion - Your deck contains up to 1 creature card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+At the beginning of your end step, if you control a commander and it is tapped, gain 2 health. If it is untapped, put a +1/+1 counter on up to two target creatures.
+If you would lose the game for the first time, instead your life total becomes 5 and you lose all poison counters. Until end of turn, you have hexproof, you can’t lose the game and your opponents can’t win the game, and all damage that would reduce your life total below 1 is prevented.</text>
+        </card>
+        <card>
+          <name>Hunter (YPE)</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>WUBRG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Human Warrior</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunter.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When a battle is defeated, draw a card.
+{2}, Sacrifice a creature: Put X +1/+1 counters on this creature, where X is the sacrificed creature’s power. </text>
+        </card>
+        <card>
+          <name>Hunt Alatreon</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>4WUBRG</manacost>
+            <cmc>9</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Alatreon.png">YPE</set>
+          <related attach="transform">Alatreon, The Blazing Black Dragon</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Indestructible
+At the beginning of each players upkeep that player pays mana equal to that players devotion to white, otherwise destroy each land they control. that player also,
+• Mills cards equal to their devotion to blue.
+• Loses life equal to their devotion to black.
+• Sacrifices non-creature permanents equal to their devotion to red.
+• Sacrifices creatures equal to their devotion to green.
+Carve 3, This card can be your commander.</text>
+        </card>
+        <card>
+          <name>Alatreon, The Blazing Black Dragon</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>back</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alatreon%20The%20Blazing%20Black%20Dragon.png">YPE</set>
+          <related attach="transform">Hunt Alatreon</related>
+          <tablerow>2</tablerow>
+          <text>If you would gain life, gain that much life plus your devotion to white instead.
+If you would draw a card, draw that many cards plus your devotion to blue instead.
+Whenever you lose life, each opponent loses life equal to your devotion to black.
+Whenever you take damage, Alatreon deals damage to any target equal to your devotion to red.
+Alatreon has +X/+X where X is your devotion to green.</text>
+        </card>
+        <card>
+          <name>Slay (YPE)</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UBRG</colors>
+            <manacost>UB // 1GUR</manacost>
+            <cmc>10</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>UBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slay%20.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Choose one:
+• Remove all defense counters from target battle.
+• Destroy target creature.
+• Counter target spell.
+--- 
+Choose one:
+• Gain control of target creature.
+• Copy target spell. You may choose new targets for the copied spell.</text>
+        </card>
+        <card>
+          <name>Hunt Fatalis</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>4BBBB</manacost>
+            <cmc>8</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Fatalis.png">YPE</set>
+          <related attach="transform">Fatalis, The Dark Demise</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>This spell cant be countered.
+At the beginning of each players endstep, that player makes Omen of the Dark Demise, a legendary enchantment token that has “At the beginning of enchanted player’s upkeep, if Hunt: Fatalis is on the battlefield, that player loses the game.”
+When Hunt: Fatalis is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Fatalis, The Dark Demise</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>10/10</pt>
+            <side>back</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fatalis%20The%20Dark%20Demise.png">YPE</set>
+          <related attach="transform">Hunt Fatalis</related>
+          <tablerow>2</tablerow>
+          <text>
+Deathtouch, trample, flying, shroud, protection from deathtouch. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything deathtouch..)</text>
+        </card>
+        <card>
+          <name>Hunt Dalamadur</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>10</manacost>
+            <cmc>2</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Dalamadur.png">YPE</set>
+          <related attach="transform">Dalamadur, World Serpent</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>This spell can't be countered
+Ward 4
+On each players upkeep, that player sacrifices four non-battle permanents they control. If they can’t, that player loses the game.
+Carve 5</text>
+        </card>
+        <card>
+          <name>Dalamadur, World Serpent</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Serpent Elder Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>8/12</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dalamadur%20World%20Serpent.png">YPE</set>
+          <related attach="transform">Hunt Dalamadur</related>
+          <tablerow>2</tablerow>
+          <text>Trample, ward {4}
+Whenever Dalamadur deals combat damage to a player, create four 3/3 red serpent creature tokens, named Dalamadur’s Coil.</text>
+        </card>
+        <card>
+          <name>Ahtal-Neset</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BRG</colors>
+            <manacost>4BRG</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Artifact - Vehicle</type>
+            <maintype>Artifact</maintype>
+            <pt>6/7</pt>
+            <side>front</side>
+            <coloridentity>BRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtal-Neset.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Indestructible, reach, trample
+When Ahtal-Neset attacks, put an egg counter on another creature without an egg counter on it. When a creature with an egg counter dies, draw a card and put an egg counter on another creature without an egg counter.
+Escape—-5BRG, Exile 2 other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+        </card>
+        <card>
+          <name>Hunt Ahtal-Ka</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2R</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Ahtal-Ka.png">YPE</set>
+          <related attach="transform">Ahtal-Ka, Palace Mantis</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, exile a random artifact that player controls until Hunt: Ahtal-ka transforms. If that player has no artifacts, Ahtal-ka deals 2 damage to that player instead.
+Carve 3</text>
+        </card>
+        <card>
+          <name>Ahtal-Ka, Palace Mantis</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Pilot Insect</type>
+            <maintype>Creature</maintype>
+            <pt>3/2</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ahtal-Ka%20Palace%20Mantis.png">YPE</set>
+          <related attach="transform">Hunt Ahtal-Ka</related>
+          <tablerow>2</tablerow>
+          <text>Reach
+When Ahtal-Ka transforms, put target artifact card from a graveyard onto the battlefield under your control.
+This creature crews Vehicles as if its power were 2 greater. </text>
+        </card>
+        <card>
+          <name>Hunt Zorah Magdaros</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>3R</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Zorah%20Magdaros.png">YPE</set>
+          <related attach="transform">Zorah Magdaros, Scorching Mountain Dragon</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Permanents enter the battlefield tapped.
+Carve 5</text>
+        </card>
+        <card>
+          <name>Zorah Magdaros, Scorching Mountain Dragon</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Land - Mountain</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zorah%20Magdaros%20Scorching%20Mountain%20Dragon.png">YPE</set>
+          <related attach="transform">Hunt Zorah Magdaros</related>
+          <tablerow>2</tablerow>
+          <text>{T}: Add RR
+2RR: Until end of turn, Zorah Magdaros becomes a 2/8 red dragon creature with indestructible.</text>
+        </card>
+        <card>
+          <name>Felyne Weakener</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>2W</manacost>
+            <cmc>3</cmc>
+            <type>Enchantment</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Felyne%20Weakener.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>You may cast battle spells for {2} less. If you cast a battle spell this way, it has enters with 1 less defense counter.</text>
+        </card>
+        <card>
+          <name>Alma's Curiosity</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>2U</manacost>
+            <cmc>3</cmc>
+            <type>Enchantment</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Almas%20Curiosity.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When Alma’s Curiosity enters the battlefield, draw a card for each battle you control.
+When a battle you control enters, draw a card.</text>
+        </card>
+        <card>
+          <name>Divine Blessing</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1W</manacost>
+            <cmc>2</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Divine%20Blessing.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant Creature
+If enchanted creature would be dealt damage, flip a coin. If you win the flip, prevent that damage.</text>
+        </card>
+        <card>
+          <name>Hunt Jin Dahaad</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>3UU</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Snow Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Jin%20Dahaad.png">YPE</set>
+          <related attach="transform">Jin Dahaad, Iceshard Emperor</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Jin Dahaad deals 3 damage to that player. Put a stun counter on each nonland permanent that player controls.
+Carve 5</text>
+        </card>
+        <card>
+          <name>Jin Dahaad, Iceshard Emperor</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Snow Creature - Leviathan</type>
+            <maintype>Creature</maintype>
+            <pt>6/6</pt>
+            <side>back</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jin%20Dahaad%20Iceshard%20Emperor.png">YPE</set>
+          <related attach="transform">Hunt Jin Dahaad</related>
+          <tablerow>2</tablerow>
+          <text>{Q}, Discard 2 or pay {S}: Draw a card. </text>
+        </card>
+        <card>
+          <name>Wide Range</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>3GG</manacost>
+            <cmc>5</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wide%20Range.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature
+If a +1/+1 counter would be put on enchanted creature, put a +1/+1 counter on all creatures you control instead.</text>
+        </card>
+        <card>
+          <name>Hunt Poborubarumu</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUG</colors>
+            <manacost>3GWUU</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WUG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Poborubarumu.png">YPE</set>
+          <related attach="transform">Poborubarumu</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players precombat main phase, that player adds one mana of any colour to their mana pool then draws a card. Then Hunt: Poborubarumu deals 6 damage to that player.
+Carve 4</text>
+        </card>
+        <card>
+          <name>Poborubarumu</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Whale</type>
+            <maintype>Creature</maintype>
+            <pt>7/5</pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Poborubarumu.png">YPE</set>
+          <related attach="transform">Hunt Poborubarumu</related>
+          <tablerow>2</tablerow>
+          <text>When Poborubarumu attacks, choose one that hasn’t already been chosen:
+• All players gain 5 life.
+• Until end of turn, each creature gets +X/+X, where X is that creature’s power.
+• Remove all creatures from combat.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+        </card>
+        <card>
+          <name>Hunt Velocidrome</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WG</colors>
+            <manacost>GW</manacost>
+            <cmc>2</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>WG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Velocidrome.png">YPE</set>
+          <related attach="transform">Velocidrome</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, that player creates a 1/1 green Dinosaur creature token named Velociprey.
+Carve 2</text>
+        </card>
+        <card>
+          <name>Velocidrome</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Dinosaur</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>back</side>
+            <coloridentity>WG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velcidrome.png">YPE</set>
+          <related attach="transform">Hunt Velocidrome</related>
+          <tablerow>2</tablerow>
+          <text>First strike</text>
+        </card>
+        <card>
+          <name>Hunt Great Jagras</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>G</manacost>
+            <cmc>1</cmc>
+            <type>Legendary Battle - Hunt</type>
+            <maintype>Battle</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hunt%20Great%20Jagras.png">YPE</set>
+          <related attach="transform">The Greatest Jagras</related>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each players upkeep, Hunt: Great Jagras deals 1 damage to that player unless that player pays 2.
+Carve 1</text>
+        </card>
+        <card>
+          <name>The Greatest Jagras</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Lizard Beast</type>
+            <maintype>Creature</maintype>
+            <pt>1/2</pt>
+            <side>back</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Greatest%20Jagras.png">YPE</set>
+          <related attach="transform">Hunt Great Jagras</related>
+          <tablerow>2</tablerow>
+          <text>{T}: Target creature</text>
+        </card>
+        <card>
+          <name>Nightmare (YPE)</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>5BBBB</manacost>
+            <cmc>9</cmc>
+            <type>Legendary Creature - Nightmare</type>
+            <maintype>Creature</maintype>
+            <pt>9/9</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nightmare.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Menace, lifelink
+{T}: Choose a creature. Put that creature in its owners graveyard.
+When a creature is put into a graveyard from play, put X +1/+1 counters on Nightmare, where X is that creatures Power.</text>
+        </card>
+        <card>
+          <name>Chocola &amp; Vanilla</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WB</colors>
+            <manacost>2WB</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Creature - Cat</type>
+            <maintype>Creature</maintype>
+            <pt>0/2</pt>
+            <side>front</side>
+            <coloridentity>WB</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chocola%20%20Vanilla.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Affinity for Humans (This spell costs {1} less to cast for each Human you control.)
+When Chocola &amp; Vanilla enter the battlefield, create a Food token.
+Other Cats you control get +2/+2.
+{T}, Sacrifice a Food: Draw 2 cards.</text>
+        </card>
+        <card>
+          <name>Kazuya Mishima</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WBR</colors>
+            <manacost>2RWB</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Human</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>WBR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kazuya%20Mishima.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Kazuya Mishima fights another target creature. If that creature dies this turn and you controlled that creature, transform Kazuya. Otherwise return that creature to the battlefield under your control.
+“I... Control everything!”</text>
+        </card>
+        <card>
+          <name>Devil Kazuya</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WBR</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Demon Human</type>
+            <maintype>Creature</maintype>
+            <pt>7/7</pt>
+            <side>front</side>
+            <coloridentity>WBR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Devil%20Kazuya.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying, Deathtouch
+{T}: Devil Kazuya fights another target creature.
+When Devil Kazuya dies, return him to the battlefield tapped.</text>
+        </card>
+        <card>
+          <name>Rider and Ratha</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Human Dragon Ally</type>
+            <maintype>Creature</maintype>
+            <pt>8/8</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider%20and%20Ratha.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying, Hexproof, Vigilance
+When a battle enters the battlefield draw a card.
+When Rider &amp; Ratha attacks, destroy target creature.
+Creatures you control get +4/+4.</text>
+        </card>
+        <card>
+          <name>Rider</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>WUBRG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Human</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rider.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Partner with Ratha.  (When this permanent enters, target player may put Ratha. into their hand from their library, then shuffle.)
+When a battle enters the battlefield, draw a card.
+Meld with Ratha.</text>
+        </card>
+        <card>
+          <name>Ratha</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>WUBRG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Dragon</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ratha.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Partner with Rider. (When this permanent enters, target player may put Rider. into their hand from their library, then shuffle.)
+Commander Ninjutsu 1WUBRG.  (1WUBRG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)
+When Ratha attacks, it deals 4 damage to any target.
+Meld with Rider</text>
+        </card>
+        <card>
+          <name>Annie, The Crooked One</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UBR</colors>
+            <manacost>1UBR</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Creature - Human Advisor</type>
+            <maintype>Creature</maintype>
+            <pt>2/1</pt>
+            <side>front</side>
+            <coloridentity>UBR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Annie%20The%20Crooked%20One.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>At the beginning of your end step, each opponent faces a villainous choice - That player puts a -1/-1 counter on each creature they control, or you gain control of target non-creature permanent that player controls.</text>
+        </card>
+        <card>
+          <name>Aspiring Fireman</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost>1RG</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Creature - Human Beast</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Aspiring%20Fireman.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Protection from red
+At the beginning of your upkeep, put a flame counter on target creature.
+Creatures with flame counters on them are red.
+Creatures you control get +X/+X, where X is the number of flame counters on them.</text>
+        </card>
+        <card>
+          <name>Elijah the Majestic</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>WWWW</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Creature - God</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Elijah%20the%20Majestic.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Humans you control get +2/+2.
+At the beginning of your upkeep, reveal cards from the top of your library until you reveal a God card. You may cast that spell without paying its mana cost. Shuffle the rest of the revealed cards into your library.</text>
+        </card>
+        <card>
+          <name>Erica, Caster of Crap</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>WWUUBBRRGG</manacost>
+            <cmc>10</cmc>
+            <type>Legendary Creature - Human Warlock</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Erica%20Caster%20of%20Crap.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Eminence - Bad creatures you control have +2/+2. (Bad cards have less than 0.1% inclusion in decks on EDHrec)
+Whenever you cast a Bad spell, choose one that hasn't been chosen this turn -
+• Draw a card for each Bad permanent you control.
+• Destroy up to two target lands.
+• Proliferate, Proliferate, Proliferate, Proliferate.</text>
+        </card>
+        <card>
+          <name>Natascha</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>GG</manacost>
+            <cmc>2</cmc>
+            <type>Legendary Creature - Human</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Natascha.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever a creature with power 4 or greater enters the battlefield under your control, you may put a land card from your hand onto the battlefield. If you do, draw a card.</text>
+        </card>
+        <card>
+          <name>Suspicious Schemer</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UB</colors>
+            <manacost>UUBBB</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Human Advisor</type>
+            <maintype>Creature</maintype>
+            <pt>2/1</pt>
+            <side>front</side>
+            <coloridentity>UB</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Suspicious%20Schemer.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever you commit a crime, Suspicious Schemer connives.
+Whenever another creature you control connives, each instant and sorcery in your hand has plot until end of turn. Its plot cost is equal to its mana cost reduced by {3}.</text>
+        </card>
+        <card>
+          <name>Candy Kingdom</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Land - Kingdom</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Candy%20Kingdom.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add {W} to your mana pool.
+{W}, {T}: Create a 1/1 white Food Citizen creature token.</text>
+        </card>
+        <card>
+          <name>Donut Witch</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1UU</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Warlock</type>
+            <maintype>Creature</maintype>
+            <pt>1/2</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donut%20Witch.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever this creature attacks, target creature loses all abilities until your next turn.</text>
+        </card>
+        <card>
+          <name>Earl of Lemongrab</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UW</colors>
+            <manacost>2WU</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Creature - Food Noble</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>UW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Earl%20of%20Lemongrab.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>UNACCEPTABLE - {U}{U}, {T}: Counter target spell. Put a -1/-1 counter on Lemongrab.
+{T}, Sacrifice a Food: Put a +1/+1 counter on Lemongrab.</text>
+        </card>
+        <card>
+          <name>Egg In Me</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>WW</manacost>
+            <cmc>2</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Egg%20In%20Me.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant Creature
+Enchanted creature loses all abilities and is a 0/5 Egg with defender and "When this creature dies, draw a card".</text>
+        </card>
+        <card>
+          <name>Hambo, My Beloved</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>2B</manacost>
+            <cmc>3</cmc>
+            <type>Artifact </type>
+            <maintype></maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hambo%2C%20My%20Beloved.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>If a noncreature source would deal damage to you, it deals that much damage minus 2 to you instead.</text>
+        </card>
+        <card>
+          <name>James Baxter</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>GW</colors>
+            <manacost>1GW</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Creature - Horse</type>
+            <maintype>Creature</maintype>
+            <pt>0/3</pt>
+            <side>front</side>
+            <coloridentity>GW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/James%20Baxter.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flash
+When James Baxter enters, prevent all combat damage until end of turn.
+At the beginning of each endstep, shuffle this card into its owner's library.</text>
+        </card>
+        <card>
+          <name>Makin' Bacon Pancakes</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>2G</manacost>
+            <cmc>3</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Makin%20Bacon%20Pancakes.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Destroy target creature. Its controller creates a 3/3 Beast creature token and a Food Token.</text>
+        </card>
+        <card>
+          <name>Marceline the Vampire Queen</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>3BB</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Vampire</type>
+            <maintype>Creature</maintype>
+            <pt>3/1</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Marceline%20the%20Vampire%20Queen.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying, lifelink, protection from red
+If Marceline would be destroyed, regenerate her.
+{T}: Target red permanent becomes colorless. Add {R} to your mana pool. Put a number of +1/+1 counters on Marceline equal to that permanent's mana value.</text>
+        </card>
+        <card>
+          <name>Old Lady Destroying Gnomes</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>2U</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Gnome Faerie</type>
+            <maintype>Creature</maintype>
+            <pt>2/1</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Old%20Lady%20Destroying%20Gnomes.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying
+Whenever an opponent draws their second card each turn, choose target creature. Each player votes for either old lady or not old lady. If old lady gets more votes, destroy that creature. Otherwise, draw a card.</text>
+        </card>
+        <card>
+          <name>Slime Princess</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>G</manacost>
+            <cmc>1</cmc>
+            <type>Legendary Creature - Ooze Noble</type>
+            <maintype>Creature</maintype>
+            <pt>0/1</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slime%20Princess.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}:, Add {G} to your mana pool. If you control a legendary Human, add {W}{G} to your mana pool instead.</text>
+        </card>
+        <card>
+          <name>The Curse of Simon Petrikov</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>3U</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Enchantment - Aura Saga</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Curse%20of%20Simon%20Petrikov.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature
+I - Scry 2
+II - This card gains "Enchanted creature has no abilities" and "Enchanted creature gets +2/+2".
+III - This card gains "Whenever enchanted creature deals damage to a creature, put a stun counter on it."
+IV - This card loses the Saga type, gains "Enchanted creature is goaded" and "Enchanted creature gets +3/+3".</text>
+        </card>
+        <card>
+          <name>Mannish Man, Manly Minotaur</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1WW</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Minotaur</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Mannish%20Man%20Manly%20Minotaur.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Exalted
+When Mannish Man enters, search your library for The Enchiridion, reveal it, and put it into your hand.</text>
+        </card>
+        <card>
+          <name>Lobster Soul</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1W</manacost>
+            <cmc>2</cmc>
+            <type>Creature - Lobster Spirit</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lobster%20Soul.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Sacrifice this creature: Create a Food Token.</text>
+        </card>
+        <card>
+          <name>Meat Prepared Sous Vide</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>2U</manacost>
+            <cmc>3</cmc>
+            <type>Sorcery</type>
+            <maintype>Sorcery</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Meat%20Prepared%20Sous%20Vide.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Reveal cards from the top of your library until you reveal a nonland card. You may put it into your hand. If you donÃ¢â‚¬â„¢t, draw two cards. Put all revealed cards on the bottom of your library in a random order,</text>
+        </card>
+        <card>
+          <name>Bird from the Window</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>W</manacost>
+            <cmc>1</cmc>
+            <type>Creature - Bird</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bird%20from%20the%20Window.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Sacrifice this creature: Put a +1/+1 counter on target creature.</text>
+        </card>
+        <card>
+          <name>Tears for Salt</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1U</manacost>
+            <cmc>2</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tears%20for%20Salt.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Counter target spell unless its controller pays {3}.</text>
+        </card>
+        <card>
+          <name>Prismos Pickles</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>1G</manacost>
+            <cmc>2</cmc>
+            <type>Legendary Artifact - Food</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Prismos%20Pickles.png">YPE</set>
+          <related attach="transform">The Perfect Sandwich</related>
+          <tablerow>2</tablerow>
+          <text>{T}, Sacrifice PrismoÃ¢â‚¬â„¢s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.
+Exile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform PrismoÃ¢â‚¬â„¢s Pickles.</text>
+        </card>
+        <card>
+          <name>The Perfect Sandwich</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Artifact - Food</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>back</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Perfect%20Sandwich.png">YPE</set>
+          <related attach="transform">Prismos Pickles</related>
+          <tablerow>2</tablerow>
+          <text>{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canÃ¢â‚¬â„¢t change and you gain protection from everything.</text>
+        </card>
+        <card>
+          <name>Lemonhope</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1W</manacost>
+            <cmc>2</cmc>
+            <type>Creature - Food Citizen</type>
+            <maintype>Creature</maintype>
+            <pt>1/2</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lemonhope.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text> {T}: Up to three target creatures get +1/+1 until end of turn.</text>
+        </card>
+        <card>
+          <name>Magic Man</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WUBRG</colors>
+            <manacost>WUBRG</manacost>
+            <cmc>5</cmc>
+            <type>Creature - Magic Man</type>
+            <maintype>Creature</maintype>
+            <pt>3/5</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Magic%20Man.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When Magic Man enters the battlefield, each opponent gives you control of one permanent they own.
+Permanents you control but don't own have "When this card leaves the battlefield, exile it. It's owner loses 3 life."</text>
+        </card>
+        <card>
+          <name>Tree Trunks</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WG</colors>
+            <manacost>1WG</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Elephant</type>
+            <maintype>Creature</maintype>
+            <pt>0/2</pt>
+            <side>front</side>
+            <coloridentity>WG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tree%20Trunks.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>At the beginning of your upkeep, create a Food Token.
+{T}, Sacrifice a Food: The next creature spell you cast this turn has riot.</text>
+        </card>
+        <card>
+          <name>NEPTR</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <type>Artifact Creature - Robot</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/NEPTR.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each player's upkeep, that player creates a Food Token.
+Food tokens lose the ability "{2}, {T}, Sacrifice this artifact: Gain 3 life"
+Food tokens have "{2}, {T}, Sacrifice this artifact: Target opponent gains 3 life"</text>
+        </card>
+        <card>
+          <name>Ominous Portal</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>1R</manacost>
+            <cmc>2</cmc>
+            <type>Sorcery</type>
+            <maintype>Sorcery</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ominous%20Portal.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)</text>
+        </card>
+        <card>
+          <name>Key Killer</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>4R</manacost>
+            <cmc>5</cmc>
+            <type>Creature - Bingus Human Rogue</type>
+            <maintype>Creature</maintype>
+            <pt>4/3</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Key%20Killer.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When this creature deals combat damage to a player, create a treasure token.
+Dash 1RR (You may cast this spell for its dash cost. If you do, it gains haste, and itÃ¢â‚¬â„¢s returned from the battlefield to its ownerÃ¢â‚¬â„¢s hand at the beginning of the next end step.)</text>
+        </card>
+        <card>
+          <name>An Intruder</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>3BB</manacost>
+            <cmc>5</cmc>
+            <type>Creature - Nightmare</type>
+            <maintype>Creature</maintype>
+            <pt>3/4</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/An%20Intruder.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+When you reveal this card, you may put it onto the battlefield.</text>
+        </card>
+        <card>
+          <name>Speeder Troupe</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2R</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Speeder%20Troupe.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When Speeder Troupe enters, create two 1/1 Bingus creature tokens. Binguses you control gain haste until end of turn.</text>
+        </card>
+        <card>
+          <name>Bingus Chest</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>3R</manacost>
+            <cmc>4</cmc>
+            <type>Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>0/3</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus%20Chest.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>At the beginning of each upkeep, roll a six-sided dice.
+Whenever you roll a 5 or higher, create a 1/1 Bingus creature token.</text>
+        </card>
+        <card>
+          <name>Spawner Room</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>1R // 3R</manacost>
+            <cmc>8</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Spawner%20Room.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>When you unlock this door, roll three six-sided dice.
+Whenever you roll a 5 or higher, create a 1/1 Bingus creature token.
+--- 
+When you unlock this door, this room deals 4 damage divided as you choose among any number of targets.</text>
+        </card>
+        <card>
+          <name>Bingus Shop</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>5 // 3</manacost>
+            <cmc>10</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus%20Shop.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>At the beginning of your upkeep, reveal the top card of your library. You may pay {1}. If you do, put it into your hand. Otherwise, put it on the bottom of your library.
+--- 
+When you unlock this door, draw 2 cards.</text>
+        </card>
+        <card>
+          <name>Crack in the Chamber</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>1RR</manacost>
+            <cmc>3</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Crack%20in%20the%20Chamber.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Choose one Ã¢â‚¬â€
+Ã¢â‚¬Â¢ Run Ã¢â‚¬â€ Enter the Infiniroom.
+Ã¢â‚¬Â¢ Smash Ã¢â‚¬â€ At the beginning of your next upkeep, create a 4/4 black Bingus creature token named Eakeur with trample.
+Entwine {3} (Choose both if you pay the entwine cost.)</text>
+        </card>
+        <card>
+          <name>Geoff, Conqueror of Rooms</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>1B/R</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Geoff%20Conqueror%20of%20Rooms.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever a Room enters under your control, Geoff explores.
+Whenever you fully unlock a Room, if Geoff attacked this turn, you may sacrifice that Room. If you do, enter the Infiniroom.</text>
+        </card>
+        <card>
+          <name>Steven, the First Guardian</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>4B</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Homunculus</type>
+            <maintype>Creature</maintype>
+            <pt>3/5</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Steven%20the%20First%20Guardian.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Vigilance, deathtouch
+When Steven dies, enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)</text>
+        </card>
+        <card>
+          <name>Chamber Room</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>1BR // 5BB</manacost>
+            <cmc>10</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chamber%20Room.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>When you unlock this door, create a 4/4 black Bingus creature token named Eakeur with trample.
+--- 
+Binguses you control get +1/+1 and have infect.</text>
+        </card>
+        <card>
+          <name>Ghastly Crypt</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>2BB // 1R</manacost>
+            <cmc>10</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ghastly%20Crypt.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>When you unlock this door, target creature in your graveyard gains Fading 1. Put it onto the battlefield.
+--- 
+When you unlock this door, deal 1 damage to each creature your opponents control.</text>
+        </card>
+        <card>
+          <name>Chonk</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>4G</manacost>
+            <cmc>5</cmc>
+            <type>Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>6/6</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Chonk.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When this creature dies, create two Treasure tokens.</text>
+        </card>
+        <card>
+          <name>Gwendolyn</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BG</colors>
+            <manacost>6B/GB/G</manacost>
+            <cmc>12</cmc>
+            <type>Creature - Cat</type>
+            <maintype>Creature</maintype>
+            <pt>6/6</pt>
+            <side>front</side>
+            <coloridentity>BG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Gwendolyn.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When Gwendolyn enters, destroy target artifact or enchantment.
+When Gwendolyn dies, create a 6/3 Cat Horror creature token with flying and a 0/3 Cat Zombie creature token with defender.</text>
+        </card>
+        <card>
+          <name>Well Timed Dodge</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1U</manacost>
+            <cmc>2</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Well%20Timed%20Dodge.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Counter target spell or ability that targets a permanent you control. Draw a card.</text>
+        </card>
+        <card>
+          <name>Laser Blasted</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2R</manacost>
+            <cmc>3</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Laser%20Blasted.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Choose one Ã¢â‚¬â€
+Ã¢â‚¬Â¢ Deal 6 damage to target creature.
+Ã¢â‚¬Â¢ Destroy target artifact or enchantment.</text>
+        </card>
+        <card>
+          <name>Shopkeep</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1U</manacost>
+            <cmc>2</cmc>
+            <type>Creature - Bingus Nomad</type>
+            <maintype>Creature</maintype>
+            <pt>0/2</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Shopkeep.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Defender
+{T}: Draw a card, then discard a card.</text>
+        </card>
+        <card>
+          <name>Dagabey, Burning the Tiles</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>5RR</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Creature - Homunculus</type>
+            <maintype>Creature</maintype>
+            <pt>7/4</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dagabey%20Burning%20the%20Tiles.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Haste
+When Dagabey attacks, you may sacrifice a Room. If you do, untap all attacking creatures. After this phase, there is an additional combat phase.
+When Dagabey dies, enter the Infiniroom.</text>
+        </card>
+        <card>
+          <name>The Oculord, All-Seeing</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>8UU</manacost>
+            <cmc>10</cmc>
+            <type>Legendary Creature - Homunculus</type>
+            <maintype>Creature</maintype>
+            <pt>8/8</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Oculord%20All-Seeing.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying, hexproof
+Your opponents play with their hands revealed.
+On your turn, you may cast a spell from an opponentÃ¢â‚¬â„¢s hand without paying its mana cost.</text>
+        </card>
+        <card>
+          <name>Amogamation</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BRGU</colors>
+            <manacost>4B/RB/GU/B</manacost>
+            <cmc>13</cmc>
+            <type>Creature - Bingus Horror</type>
+            <maintype>Creature</maintype>
+            <pt>0/0</pt>
+            <side>front</side>
+            <coloridentity>BRGU</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Amogamation.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Devour 3
+When this creature attacks, create X 1/1 red Bingus creature tokens, where X is half the number of counters on The Amogamation, rounded down. </text>
+        </card>
+        <card>
+          <name>Beelzebird</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>5U</manacost>
+            <cmc>6</cmc>
+            <type>Creature - Bird Horror</type>
+            <maintype>Creature</maintype>
+            <pt>3/4</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Beelzebird.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Deal 2 damage to target creature.
+When Beelzebird deals damage to a creature, tap that creature and put 2 stun counters on it.</text>
+        </card>
+        <card>
+          <name>Steven's Chamber</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BUR</colors>
+            <manacost>1B // 4U/R</manacost>
+            <cmc>10</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BUR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Stevens%20Chamber.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>When you unlock this door, search your library for a Homunculus card, reveal it, and put it into your hand.
+--- 
+When you unlock this door, enter the Infiniroom.
+{6}: Enter the Infiniroom.</text>
+        </card>
+        <card>
+          <name>I Really Really Really Really Really Want Billy</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>R</manacost>
+            <cmc>1</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/I%20Really%20Really%20Really%20Really%20Really%20Want%20Billy.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Spree (Choose one or more additional costs.)
++ Get Billy Ã¢â‚¬â€ {1} Ã¢â‚¬â€ Search your library for a card named Billy, Monster Kin, reveal it, and put it into your hand.
++ ThatÃ¢â‚¬â„¢s not Billy... Ã¢â‚¬â€ 2R Ã¢â‚¬â€ Create a 4/4 black Bingus creature token named Eakeur with trample.
++ WhereÃ¢â‚¬â„¢s Billy? Ã¢â‚¬â€ {2} Ã¢â‚¬â€ Enter the Infiniroom.</text>
+        </card>
+        <card>
+          <name>Billy, Monster Kin</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RG</colors>
+            <manacost>4R/G</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>RG</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Billy%20Monster%20Kin.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Eerie Ã¢â‚¬â€ Whenever an enchantment you control enters and whenever you fully unlock a Room, creatures you control get +1/+1 until end of turn.</text>
+        </card>
+        <card>
+          <name>Nekobingus, Untouchable</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RW</colors>
+            <manacost>R/WR/W</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Creature - Cat Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>2/1</pt>
+            <side>front</side>
+            <coloridentity>RW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Nekobingus%20Untouchable.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>First strike, hexproof</text>
+        </card>
+        <card>
+          <name>Keynor, Collector of Keys</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WB</colors>
+            <manacost>1W/BW/B</manacost>
+            <cmc>7</cmc>
+            <type>Legendary Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>WB</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Keynor%20Collector%20of%20Keys.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Eerie Ã¢â‚¬â€ Whenever an enchantment you control enters and whenever you fully unlock a room, create a Treasure token. (ItÃ¢â‚¬â„¢s an artifact with Ã¢â‚¬Å“{T}, Sacrifice this artifact: Add one mana of any color.Ã¢â‚¬)</text>
+        </card>
+        <card>
+          <name>Wacky Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1UU</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Bingus Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>1/3</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wacky%20Wizard.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Forcefield Ã¢â‚¬â€ {T}: Regenerate target creature other than Wacky Wizard. (The next time this creature would be destroyed this turn, it isnÃ¢â‚¬â„¢t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+        </card>
+        <card>
+          <name>Bingus</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bingus.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text></text>
+        </card>
+        <card>
+          <name>Eakeur</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Eakeur.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Trample</text>
+        </card>
+        <card>
+          <name>Cat Horror</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Cat Horror</type>
+            <maintype>Creature</maintype>
+            <pt>6/3</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cat%20Horror.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Flying</text>
+        </card>
+        <card>
+          <name>Cat Zombie</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Cat Zombie</type>
+            <maintype>Creature</maintype>
+            <pt>0/3</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cat%20Zombie.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Defender</text>
+        </card>
+        <card>
+          <name>Slime</name>
+          <prop>
+            <layout>token</layout>
+            <colors>G</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Ooze</type>
+            <maintype>Creature</maintype>
+            <pt>0/1</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Slime.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When this creature dies, it deals 3 damage its controller.</text>
+        </card>
+        <card>
+          <name>Frenzied</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/frenzied.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Enchant Creature
+Enchanted creature gets +1/+1 and is goaded. When enchanted creature deals combat damage to a player, that player gets a frenzy counter.</text>
+        </card>
+        <card>
+          <name>Doshaguma</name>
+          <prop>
+            <layout>token</layout>
+            <colors>W</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Beast</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Doshaguma.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)
+This creature must attack if able</text>
+        </card>
+        <card>
+          <name>Castle Schrade</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Token Land</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Castle%20Schrade.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>{T}: Add one mana of any colour.</text>
+        </card>
+        <card>
+          <name>Kinsect</name>
+          <prop>
+            <layout>token</layout>
+            <colors>WUBRG</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Insect</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>WUBRG</coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Kinsect.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Flying.
+This Creature is all colours.</text>
+        </card>
+        <card>
+          <name>Food</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Artifact - Food</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Food.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>{2}, {T}, Sacrifice this artifact: You gain 2 life.</text>
+        </card>
+        <card>
+          <name>Treasure</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Artifact - Treasure</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Treasure.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>{T}, Sacrifice this artifact: Add one mana of any colour.</text>
+        </card>
+        <card>
+          <name>Omen of the Dark Demise</name>
+          <prop>
+            <layout>token</layout>
+            <colors>B</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Token Enchantment</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Omen%20of%20the%20dark%20Demise.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>at the beginning of enchanted player’s Upkeep, if ‘Hunt: Fatalis’ is on the battlefield, that player loses the game.</text>
+        </card>
+        <card>
+          <name>Dalamadurs Coil</name>
+          <prop>
+            <layout>token</layout>
+            <colors>R</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Serpent</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Dalamadurs%20Coil.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text></text>
+        </card>
+        <card>
+          <name>Velociprey</name>
+          <prop>
+            <layout>token</layout>
+            <colors>G</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Dinosaur</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Velociprey.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text></text>
+        </card>
+  </cards>
+</cockatrice_carddatabase>
