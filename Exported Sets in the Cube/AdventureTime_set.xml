@@ -63,7 +63,8 @@ When Mannish Man enters, search your library for The Enchiridion, reveal it, and
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sacrifice this creature: Put a +1/+1 counter on target creature.</text>
+      <text>Flying
+Sacrifice this creature: Put a +1/+1 counter on target creature.</text>
     </card>
     <card>
       <name>Tears for Salt</name>
@@ -89,7 +90,7 @@ When Mannish Man enters, search your library for The Enchiridion, reveal it, and
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice Prismo’s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.
+      <text>{T}, Sacrifice Prismo’s Pickles: You gain 3 life. Search your library for Prismo. Reveal him, and put him into your hand, then shuffle your library.
 Exile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismo’s Pickles.</text>
     </card>
     <card>

@@ -8,7 +8,7 @@
 [
 
     {
-        "id": "af6731ec-ec77-444f-a7e5-815be2821bd5",
+        "id": "3d4a8054-e05c-4837-8cfa-c5bf0b73231f",
         "name": "Mannish Man, Manly Minotaur",
         "mana_cost": "1WW",
         "type": "Creature",
@@ -25,7 +25,7 @@
         "toughness": "2"
     },
     {
-        "id": "dcd61cb4-664b-4e14-9402-eaff7f74e194",
+        "id": "13d3ae27-e18f-46d2-81d1-5a2bfffe678c",
         "name": "Lobster Soul",
         "mana_cost": "1W",
         "type": "Creature",
@@ -43,7 +43,7 @@
         "toughness": "1"
     },
     {
-        "id": "0cc184ff-7142-4e97-b5bd-f470a7961268",
+        "id": "b6a807f3-cc4f-4dc2-8516-ea1c7ee24950",
         "name": "Meat Prepared Sous Vide",
         "mana_cost": "2U",
         "type": "Sorcery",
@@ -55,7 +55,7 @@
         "oracle_text": "Reveal cards from the top of your library until you reveal a nonland card. You may put it into your hand. If you donâ€™t, draw two cards. Put all revealed cards on the bottom of your library in a random order,"
     },
     {
-        "id": "6636c8eb-275e-4d04-8540-40328dcddb4a",
+        "id": "80e9844e-81ad-4b66-8666-644b9f70ec49",
         "name": "Bird from the Window",
         "mana_cost": "W",
         "type": "Creature",
@@ -67,12 +67,12 @@
             "W"
         ],
         "set": "YPE",
-        "oracle_text": "Sacrifice this creature: Put a +1/+1 counter on target creature.",
+        "oracle_text": "Flying\nSacrifice this creature: Put a +1/+1 counter on target creature.",
         "power": "1",
         "toughness": "1"
     },
     {
-        "id": "ec83cb86-15dc-46d4-96fd-3546de44d39a",
+        "id": "b9139304-3412-4f65-9d4b-60b6be3c7390",
         "name": "Tears for Salt",
         "mana_cost": "1U",
         "type": "Instant",
@@ -84,7 +84,7 @@
         "oracle_text": "Counter target spell unless its controller pays {3}."
     },
     {
-        "id": "5fb66cdf-3f64-4c5d-9f52-5b7f149319ce",
+        "id": "e47302b7-d403-4c21-8871-8f156e7bc737",
         "name": "Prismos Pickles",
         "mana_cost": "1G",
         "type": "Legendary Artifact",
@@ -96,10 +96,10 @@
             "G"
         ],
         "set": "YPE",
-        "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
+        "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo. Reveal him, and put him into your hand, then shuffle your library.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
     },
     {
-        "id": "da7db978-f2d4-4f01-b464-aa9cbfefc016",
+        "id": "87bcdf8e-c120-4d3b-9a35-d362c139eb80",
         "name": "The Perfect Sandwich",
         "mana_cost": "",
         "type": "Legendary Artifact",
@@ -114,7 +114,7 @@
         "oracle_text": "{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canâ€™t change and you gain protection from everything."
     },
     {
-        "id": "2eb7edb5-2d6d-4f81-90a2-20e97a11d943",
+        "id": "33ad5bcf-2cc6-4126-bc7c-72c5ec99ce15",
         "name": "Lemonhope",
         "mana_cost": "1W",
         "type": "Creature",

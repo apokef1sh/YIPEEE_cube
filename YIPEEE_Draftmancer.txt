@@ -1895,7 +1895,7 @@
             "W"
         ],
         "set": "YPE",
-        "oracle_text": "Sacrifice this creature: Put a +1/+1 counter on target creature.",
+        "oracle_text": "Flying\nSacrifice this creature: Put a +1/+1 counter on target creature.",
         "power": "1",
         "toughness": "1"
     },
@@ -1936,7 +1936,15 @@
             "oracle_text": "{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canâ€™t change and you gain protection from everything."
         },
         "set": "YPE",
-        "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
+        "draft_effects": [
+            "FaceUp",
+            {
+                "type": "AddCards",
+                "cards": ["Tears for Salt", "Bird from the Window", "Meat Prepared Sous Vide", "Lobster Soul"]
+            }
+        ],
+        "related_cards": ["Tears for Salt", "Bird from the Window", "Meat Prepared Sous Vide", "Lobster Soul"],
+        "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo. Reveal him, and put him into your hand, then shuffle your library.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
     },
     {
         "id": "2eb7edb5-2d6d-4f81-90a2-20e97a11d943",
@@ -2011,6 +2019,110 @@
         "oracle_text": "At the beginning of each player's upkeep, that player creates a Food Token.\nFood tokens lose the ability \"{2}, {T}, Sacrifice this artifact: Gain 3 life\"\nFood tokens have \"{2}, {T}, Sacrifice this artifact: Target opponent gains 3 life\"",
         "power": "2",
         "toughness": "2"
+    },
+    {
+        "id": "55c73055-8dea-44e6-b227-702a31268c7b",
+        "name": "Jake The Dog",
+        "mana_cost": "GGW",
+        "type": "Creature",
+        "subtypes": [
+             "Shapeshifter",
+             "Dog"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jake%20The%20Dog.png",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\n{G}: Reveal the top card of your library. If it's an aura, you may put it into your hand. Otherwise, put it into your graveyard.\nAuras you control have \"{3}: Attach this aura to another target creature you control.\"",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "268fb542-4f4b-4cf9-8651-7a8d85d96ba0",
+        "name": "Finn The Human",
+        "mana_cost": "1UW",
+        "type": "Creature",
+        "subtypes": [
+             "Human",
+             "Hero"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Finn%20The%20Human.png",
+        "colors": [
+            "U",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Vigilance\nAt the beginning of your upkeep, if Finn is equipped, put a +1/+1 counter on him. You gain life equal to his power.\n{0}, Remove a +1/+1 counter from Finn: Attach target equipment to target creature.",
+        "power": "2",
+        "toughness": "4"
+    },
+    {
+        "id": "7c7da104-d615-480a-adea-e06ac3cc2915",
+        "name": "The Grass Sword",
+        "mana_cost": "1G",
+        "type": "Artifact",
+        "subtypes": [
+             "Equipment"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Grass%20Sword.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Equip {G}{G}\n When The Grass Sword enters the battlefield, search your library for a basic forest, put it onto the battlefield tapped, then shuffle.\nEquipped creature gets +X/+X, where X is the number of basic forests you control."
+    },
+    {
+        "id": "3d94e772-456f-433c-ad81-ce52c41452db",
+        "name": "Princess Bubblegum",
+        "mana_cost": "2UR",
+        "type": "Creature",
+        "subtypes": [
+             "Candy",
+             "Noble",
+             "Artificer"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Princess%20Bubblegum.png",
+        "colors": [
+            "R",
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Ward - Lose 3 life\nWhenever an artifact enters the battlefield under your control, Princess Bubblegum deals 1 damage to each opponent and you gain 1 life.\nArtifact spells you cast have improvise.",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "e75866b7-91a4-4f72-bfbf-e9452a007c9b",
+        "name": "Footify",
+        "mana_cost": "2W",
+        "type": "Enchantment",
+        "subtypes": [
+             "Aura"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Footify.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nEnchanted creature loses all abilities and gets -2/+X, where X is the number of creatures opponents control."
+    },
+    {
+        "id": "1ad8db7b-dcdb-4977-a3ca-9f002706a9f8",
+        "name": "Horsing Around",
+        "mana_cost": "1GW",
+        "type": "Enchantment",
+        "subtypes": [
+             "Aura"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Horsing%20Around.png",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nEnchanted creature is a horse in addition to other types.\nWhenever enchanted creature attacks, target creature you control gains horsemanship until end of turn.\nEnchanted creature gets +1/+1 and has first strike."
     },
     {
         "id": "8f1fd7b7-4874-4862-8172-fb1e65a06041",
@@ -2234,6 +2346,7 @@
             "G"
         ],
         "set": "YPE",
+        "related_cards": ["Cat Horror", "Cat Zombie"],
         "oracle_text": "When Gwendolyn enters, destroy target artifact or enchantment.\nWhen Gwendolyn dies, create a 6/3 Cat Horror creature token with flying and a 0/3 Cat Zombie creature token with defender.",
         "power": "6",
         "toughness": "6"
@@ -2455,6 +2568,7 @@
         "power": "1",
         "toughness": "3"
     },
+# tokens
     {
         "id": "7cb80324-bf4d-4daf-8931-4f3a7fd33871",
         "name": "Bingus",
@@ -2743,15 +2857,17 @@
 2 Slime Princess
 2 The Curse of Simon Petrikov
 2 Mannish Man, Manly Minotaur
-2 Lobster Soul
-2 Meat Prepared Sous Vide
-2 Bird from the Window
-2 Tears for Salt
 2 Prismos Pickles
 2 Lemonhope
 2 Magic Man
 2 Tree Trunks
 2 NEPTR
+2 Jake The Dog
+2 Finn The Human
+2 The Grass Sword
+2 Princess Bubblegum
+2 Footify
+2 Horsing Around
 3 Ominous Portal
 3 Key Killer
 3 An Intruder
@@ -2794,20 +2910,22 @@
 2 Funeral Room // Awakening Hall
 2 Ticket Booth // Tunnel of Hate
 2 Greenhouse // Rickety Gazebo
-2 Misty Rainforest
-2 Verdant Catacombs
-2 Marsh Flats
-2 Arid Mesa
-2 Scalding Tarn
-2 Flooded Strand
-2 Polluted Delta
-2 Bloodstained Mire
-2 Wooded Foothills
-2 Windswept Heath
+# og duals
+1 Badlands
+1 Bayou
+1 Plateau
+1 Savannah
+1 Scrubland
+1 Taiga
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Volcanic Island
 2 Prismatic Vista
 2 City of Brass
 2 Chromatic Lantern
 2 Timeless Lotus
+# funny category
 2 Akroan Horse
 2 Attempted Murder
 2 Bolas's Citadel
