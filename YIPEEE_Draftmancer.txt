@@ -2125,6 +2125,102 @@
         "oracle_text": "Enchant creature\nEnchanted creature is a horse in addition to other types.\nWhenever enchanted creature attacks, target creature you control gains horsemanship until end of turn.\nEnchanted creature gets +1/+1 and has first strike."
     },
     {
+        "id": "6a366ce8-4ce7-469b-a8d2-98edf317cb5a",
+        "name": "Zombie Candy People",
+        "mana_cost": "2W",
+        "type": "Creature",
+        "subtypes": [
+             "Zombie",
+             "Food",
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zombie%20Candy%20People.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Sacrifice a non-Zombie Food: Create a 1/1 Zombie Food Citizen creature token.",
+        "power": "2",
+        "toughness": "1"
+    },
+    {
+        "id": "be96ceb5-ccde-4695-b36a-d4af97f98e1b",
+        "name": "The Enchiridion",
+        "mana_cost": "5",
+        "type": "Legendary Artifact",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Enchiridion.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your main phase, exile the top three cards of each player’s libraries. Until end of turn, you may play cards from among those and you may spend mana as though it were mana of any color to cast those spells."
+    },
+    {
+        "id": "eed7a155-b229-4221-b33e-35d0f0a72641",
+        "name": "Soft People",
+        "mana_cost": "2W",
+        "type": "Creature",
+        "subtypes": [
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Soft%20People.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever one or more creatures attack you, create a Treasure token for each Kingdom you control.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "4cf38487-32f5-4964-81b4-6750344a0d5f",
+        "name": "Earldom of Lemongrab",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "subtypes": [
+            "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Earldom%20of%20Lemongrab.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {U} to your mana pool.\n{4}, {T}, Sacrifice this land: Counter target spell. You may search your library for a basic island card and put it into play tapped."
+    },
+    {
+        "id": "dbea7995-ae75-4d09-b69e-f12bb18bb856",
+        "name": "Patriotic Gunseller",
+        "mana_cost": "RRRRR",
+        "type": "Creature",
+        "subtypes": [
+             "Ranger",
+             "Advisor"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Patriotic%20Gunseller.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Defender\n{2}, {T}: Create an artifact equipment token named Gun with equip {1} and \"{T}: Gun deals 1 damage to target creature.\"\nWhen Patriotic Gunseller blocks a creature, transform Patriotic Gunseller.",
+        "back": {
+            "name": "Psychotic Gunberserker",
+            "mana_cost": "",
+            "type": "Creature",
+            "subtypes": [
+                "Ranger",
+                "Berserker"
+            ],
+            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Psychotic%20Gunberserker.png",
+            "colors": [
+                "R"
+            ],
+            "set": "YPE",
+            "oracle_text": "{1}, {T}: Psychotic Gunberserker deals 1 damage to target creature.\nPsychotic Gunberserker attacks on every combat phase.\nAfter each player's first combat phase each turn, there is an additional combat phase.",
+            "power": "5",
+            "toughness": "3"
+        },
+        "power": "0",
+        "toughness": "7"
+    },
+    {
         "id": "8f1fd7b7-4874-4862-8172-fb1e65a06041",
         "name": "Ominous Portal",
         "mana_cost": "1R",
@@ -2219,6 +2315,7 @@
             "R"
         ],
         "set": "YPE",
+        "layout": "split",
         "oracle_text": "When you unlock this door, roll three six-sided dice.\nWhenever you roll a 5 or higher, create a 1/1 Bingus creature token.\n--- \nWhen you unlock this door, this room deals 4 damage divided as you choose among any number of targets."
     },
     {
@@ -2234,6 +2331,7 @@
             ""
         ],
         "set": "YPE",
+        "layout": "split",
         "oracle_text": "At the beginning of your upkeep, reveal the top card of your library. You may pay {1}. If you do, put it into your hand. Otherwise, put it on the bottom of your library.\n--- \nWhen you unlock this door, draw 2 cards."
     },
     {
@@ -2297,6 +2395,7 @@
             "R"
         ],
         "set": "YPE",
+        "layout": "split",
         "oracle_text": "When you unlock this door, create a 4/4 black Bingus creature token named Eakeur with trample.\n--- \nBinguses you control get +1/+1 and have infect."
     },
     {
@@ -2313,6 +2412,7 @@
             "R"
         ],
         "set": "YPE",
+        "layout": "split",
         "oracle_text": "When you unlock this door, target creature in your graveyard gains Fading 1. Put it onto the battlefield.\n--- \nWhen you unlock this door, deal 1 damage to each creature your opponents control."
     },
     {
@@ -2868,6 +2968,11 @@
 2 Princess Bubblegum
 2 Footify
 2 Horsing Around
+2 Zombie Candy People
+2 The Enchiridion
+2 Soft People
+2 Earldom of Lemongrab
+2 Patriotic Gunseller
 3 Ominous Portal
 3 Key Killer
 3 An Intruder
@@ -2911,16 +3016,16 @@
 2 Ticket Booth // Tunnel of Hate
 2 Greenhouse // Rickety Gazebo
 # og duals
-1 Badlands
-1 Bayou
-1 Plateau
-1 Savannah
-1 Scrubland
-1 Taiga
-1 Tropical Island
-1 Tundra
-1 Underground Sea
-1 Volcanic Island
+2 Badlands
+2 Bayou
+2 Plateau
+2 Savannah
+2 Scrubland
+2 Taiga
+2 Tropical Island
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
 2 Prismatic Vista
 2 City of Brass
 2 Chromatic Lantern
