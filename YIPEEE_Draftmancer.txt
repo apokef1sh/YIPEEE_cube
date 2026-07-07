@@ -1,8 +1,8 @@
 [Settings]
 {
     "name": "Yipeee Cube 1: The Beginning",
-    "colorBalance": false,
-    "cardBack": "https://lh3.googleusercontent.com/d/1p6BQ9NAWpVMY8vPDJjhU2kvC98-P9joA"
+    "colorBalance": false
+#    "cardBack": "https://lh3.googleusercontent.com/d/1p6BQ9NAWpVMY8vPDJjhU2kvC98-P9joA"
 }
 [CustomCards]
 [
@@ -2184,6 +2184,40 @@
         ],
         "set": "YPE",
         "oracle_text": "{T}: Add {U} to your mana pool.\n{4}, {T}, Sacrifice this land: Counter target spell. You may search your library for a basic island card and put it into play tapped."
+    },
+    {
+        "id": "6e8c28ae-cd90-4386-a455-1b62b9bcfbe1",
+        "name": "Why-wolves",
+        "mana_cost": "2UU",
+        "type": "Creature",
+        "subtypes": [
+             "Werewolf"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Why-wolves.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Why-wolves deals combat damage to a player, draw that many cards.",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "72d6fdb6-71b1-405d-9834-e1c11c3e3bc2",
+        "name": "Donny a Jerk",
+        "mana_cost": "3GG",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Ogre"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Why-wolves.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Why-wolves deals combat damage to a player, draw that many cards.",
+        "power": "2",
+        "toughness": "2"
     },
     {
         "id": "dbea7995-ae75-4d09-b69e-f12bb18bb856",
