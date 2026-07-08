@@ -2210,14 +2210,207 @@
         "subtypes": [
              "Ogre"
         ],
-        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Why-wolves.png",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donny%20a%20Jerk.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample, riot\nObnoxygen — Creatures your opponents control get -1/-1.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "390fc17b-0b60-4c4d-9e36-f31f169bb52a",
+        "name": "Upturnoverdrive",
+        "mana_cost": "3",
+        "type": "Artifact",
+        "subtypes": [
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Upturnoverdrive.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Draw a card, Discard a card. Put a charge counter on Upturnoverdrive.\nRemove 10 charge counters from this artifact: Exchange your hand and graveyard."
+    },
+    {
+        "id": "df987c34-a8df-425d-ab05-7cedc0976212",
+        "name": "Apple of Eden, Isu Relic",
+        "mana_cost": "4",
+        "type": "Legendary Artifact",
+        "subtypes": [
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Crystal%20Gem%20Apple.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}, Pay 4 life, Sacrifice Apple of Eden: Look at target opponent's hand and exile those cards face down. You may play those cards this turn, and mana of any type can be spent to cast them. Until end of turn, whenever you play a land or cast a spell this way, its owner draws a card. At the beginning of the next end step, return the exiled cards to their owner's hand. Activate only as a sorcery."
+    },
+    {
+        "id": "147697bc-e0da-41bd-b85c-d9271335b1f6",
+        "name": "The Beneathaverse",
+        "mana_cost": "",
+        "type": "Land",
+        "subtypes": [
+            "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Beneathaverse.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add CC. This mana can only be spent to cast artifacts or to activate an ability of an artifact."
+    },
+    {
+        "id": "feb5ac21-cf02-489e-b1bc-cfe90483e5cf",
+        "name": "Soft Village",
+        "mana_cost": "",
+        "type": "Land",
+        "subtypes": [
+            "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Soft%20Village.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add W.\n{T}: Prevent the next 1 damage that would be dealt to any target."
+    },
+    {
+        "id": "92b00dc7-1527-4bb1-a5f1-8c32651c6467",
+        "name": "Cube Village",
+        "mana_cost": "",
+        "type": "Land",
+        "subtypes": [
+            "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cube%20Village.png",
+        "colors": [
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add U.\n{T}: The next instant or sorcery spell you cast this turn can’t be countered."
+    },
+    {
+        "id": "195f04fe-6158-4677-8967-b220e75518ab",
+        "name": "Fourth Dimensional Sword",
+        "mana_cost": "3",
+        "type": "Legendary Artifact",
+        "subtypes": [
+             "Equipment"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fourth%20Dimensional%20Sword.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Equipped creature gets +2/+2.\nWhenever equipped creature deals combat damage to a player, draw 2 random non-basic cards from your sideboard.\nEquip {2}"
+    },
+    {
+        "id": "64b72788-d69a-41c2-b8ef-8c242ca77b85",
+        "name": "Eat their Flesh",
+        "mana_cost": "2B",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Eat%20their%20Flesh.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target creature. Draw a card."
+    },
+    {
+        "id": "3b4dee77-65c0-4544-930d-bd1719846e10",
+        "name": "Flesh Eating Skeletons",
+        "mana_cost": "1BB",
+        "type": "Creature",
+        "subtypes": [
+             "Skeleton"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Flesh%20Eating%20Skeletons.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever this creature deals damage, put that many +1/+1 counters on it.",
+        "power": "1",
+        "toughness": "2"
+    },
+    {
+        "id": "0edf7c76-a9fd-4ec8-9b8b-11d1cc5a0aba",
+        "name": "Tricked by the River",
+        "mana_cost": "1UB",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tricked%20by%20the%20River.png",
+        "colors": [
+            "U",
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Return target spell to its ownerâ€™s hand. Its controller discards two cards."
+    },
+    {
+        "id": "5179cbeb-02b6-499f-bb17-12228f572f93",
+        "name": "Lost a Music Battle",
+        "mana_cost": "1B",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lost%20a%20Music%20Battle.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target creature unless its controller controls a Food."
+    },
+    {
+        "id": "5d46e0fe-4c89-4cca-b65b-310f196e61b6",
+        "name": "River of Forgetfulness",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/River%20of%20Forgetfulness.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {C}.\nWhenever one or more creatures attack you, you may pay {1}. If you do, target creature loses all abilities until end of turn."
+    },
+    {
+        "id": "4c3749f4-620e-448c-bc25-4a5e6b899e82",
+        "name": "Worm College",
+        "mana_cost": "XUU",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Worm%20College.png",
+        "colors": [
+            "X",
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Reveal the top X+1 cards of your library. Secretly put 1 of them into your hand, and the rest on the bottom of your library. Repeat the process X times."
+    },
+    {
+        "id": "d4b4acdf-4885-4a61-9924-00770fa3f413",
+        "name": "Theoretical Fightonomics",
+        "mana_cost": "2U",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Theoretical%20Fightonomics.png",
         "colors": [
             "U"
         ],
         "set": "YPE",
-        "oracle_text": "When Why-wolves deals combat damage to a player, draw that many cards.",
-        "power": "2",
-        "toughness": "2"
+        "oracle_text": "Choose target attacking creature and target creature blocking that creature. Put a fight counter on one of those creatures. At the end of combat, if that creature is on the battlefield, draw 3 cards."
+    },
+    {
+        "id": "27e5d707-3c2f-47f1-b3b9-5f55139daa1d",
+        "name": "Ancient Psychic Tandem War Elephant",
+        "mana_cost": "3URW",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Elephant"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ancient%20Psychic%20Tandem%20War%20Elephant.png",
+        "colors": [
+            "U",
+            "R",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\nWhen Ancient Psychic Tandem War Elephant enters, target opponent reveals their hand. Draw X cards, where X is the number of non-land cards revealed.",
+        "power": "8",
+        "toughness": "4"
     },
     {
         "id": "dbea7995-ae75-4d09-b69e-f12bb18bb856",
@@ -3006,34 +3199,50 @@
 2 The Enchiridion
 2 Soft People
 2 Earldom of Lemongrab
+2 Cube Village
+2 Soft Village
+2 The Beneathaverse
+2 Apple of Eden, Isu Relic
+2 Upturnoverdrive
+2 Donny a Jerk
+2 Why-wolves
+2 Fourth Dimensional Sword
+2 Eat their Flesh
+2 Flesh Eating Skeletons
+2 Tricked by the River
+2 Lost a Music Battle
+2 River of Forgetfulness
+2 Worm College
+2 Theoretical Fightonomics
+2 Ancient Psychic Tandem War Elephant
 2 Patriotic Gunseller
-3 Ominous Portal
-3 Key Killer
-3 An Intruder
-3 Speeder Troupe
-3 Bingus Chest
-3 Spawner Room
-3 Bingus Shop
-3 Crack in the Chamber
-3 Geoff, Conqueror of Rooms
-3 Steven, the First Guardian
-3 Chamber Room
-3 Ghastly Crypt
-3 Chonk
-3 Gwendolyn
-3 Well Timed Dodge
-3 Laser Blasted
-3 Shopkeep
-3 Dagabey, Burning the Tiles
-3 The Oculord, All-Seeing
-3 Amogamation
-3 Beelzebird
-3 Steven's Chamber
-3 I Really Really Really Really Really Want Billy
-3 Billy, Monster Kin
-3 Nekobingus, Untouchable
-3 Keynor, Collector of Keys
-3 Wacky Wizard
+2 Ominous Portal
+2 Key Killer
+2 An Intruder
+2 Speeder Troupe
+2 Bingus Chest
+2 Spawner Room
+2 Bingus Shop
+2 Crack in the Chamber
+2 Geoff, Conqueror of Rooms
+2 Steven, the First Guardian
+2 Chamber Room
+2 Ghastly Crypt
+2 Chonk
+2 Gwendolyn
+2 Well Timed Dodge
+2 Laser Blasted
+2 Shopkeep
+2 Dagabey, Burning the Tiles
+2 The Oculord, All-Seeing
+2 Amogamation
+2 Beelzebird
+2 Steven's Chamber
+2 I Really Really Really Really Really Want Billy
+2 Billy, Monster Kin
+2 Nekobingus, Untouchable
+2 Keynor, Collector of Keys
+2 Wacky Wizard
 2 Berserkers' Onslaught
 2 Gruul War Chant
 2 Teapot Slinger

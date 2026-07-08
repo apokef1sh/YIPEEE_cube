@@ -120,6 +120,267 @@ Exile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster
       <tablerow>2</tablerow>
       <text> {T}: Up to three target creatures get +1/+1 until end of turn.</text>
     </card>
+    <card>
+      <name>Zombie Candy People</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Food Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a non-Zombie Food: Create a 1/1 Zombie Food Citizen creature token.</text>
+    </card>
+    <card>
+      <name>The Enchiridion</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your main phase, exile the top three cards of each player’s libraries. Until end of turn, you may play cards from among those and you may spend mana as though it were mana of any color to cast those spells.</text>
+    </card>
+    <card>
+      <name>Soft People</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more creatures attack you, create a Treasure token for each Kingdom you control.</text>
+    </card>
+    <card>
+      <name>Why-wolves</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Why-wolves deals combat damage to a player, draw that many cards.</text>
+    </card>
+    <card>
+      <name>Donny, a Jerk</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Ogre </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, riot
+Obnoxygen — Creatures your opponents control get -1/-1.</text>
+    </card>
+    <card>
+      <name>Soft Village</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Kingdom </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.
+{T}: Prevent the next 1 damage that would be dealt to any target.</text>
+    </card>
+    <card>
+      <name>Cube Village</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Kingdom </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.
+{T}: The next instant or sorcery spell you cast this turn can’t be countered.</text>
+    </card>
+    <card>
+      <name>The Beneathaverse</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Kingdom </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add CC. This mana can only be spent to cast artifacts or to activate an ability of an artifact.</text>
+    </card>
+    <card>
+      <name>Upturnoverdrive</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Draw a card, Discard a card. Put a charge counter on Upturnoverdrive.
+Remove 10 charge counters from this artifact: Exchange your hand and graveyard.</text>
+    </card>
+    <card>
+      <name>The Crystal Gem Apple</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Pay 4 life, Sacrifice this artifact: Look at target opponent’s hand and exile those cards face down. You may play those cards this turn, and mana of any type can be spent to cast them. Until end of turn, whenever you play a land or cast a spell this way, its owner draws a card. At the beginning of the next end step, return the exiled cards to their owner’s hand. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Fourth Dimensional Sword</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage to a player, draw 2 random non-basic cards from your sideboard.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Eat their Flesh</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. Draw a card.</text>
+    </card>
+    <card>
+      <name>Flesh Eating Skeletons</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature deals damage, put that many +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Tricked by the River</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target spell to its owner’s hand. Its controller discards two cards.</text>
+    </card>
+    <card>
+      <name>Lost a Music Battle</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature unless its controller controls a Food.</text>
+    </card>
+    <card>
+      <name>River of Forgetfulness</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Whenever one or more creatures attack you, you may pay {1}. If you do, target creature loses all abilities until end of turn.</text>
+    </card>
+    <card>
+      <name>Worm College</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top X+1 cards of your library. Secretly put 1 of them into your hand, and the rest on the bottom of your library. Repeat the process X times.</text>
+    </card>
+    <card>
+      <name>Theoretical Fightonomics</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target attacking creature and target creature blocking that creature. Put a fight counter on one of those creatures. At the end of combat, if that creature is on the battlefield, draw 3 cards.</text>
+    </card>
+    <card>
+      <name>Ancient Psychic Tandem War Elephant</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>3URW</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Elephant </type>
+        <maintype>Creature</maintype>
+        <pt>8/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Ancient Psychic Tandem War Elephant enters, target opponent reveals their hand. Draw X cards, where X is the number of non-land cards revealed.</text>
+    </card>
 
     <!-->Tokens</-->
 

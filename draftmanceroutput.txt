@@ -8,7 +8,7 @@
 [
 
     {
-        "id": "3d4a8054-e05c-4837-8cfa-c5bf0b73231f",
+        "id": "e1e51b6c-a948-4a18-aa06-b4194262c7da",
         "name": "Mannish Man, Manly Minotaur",
         "mana_cost": "1WW",
         "type": "Creature",
@@ -25,7 +25,7 @@
         "toughness": "2"
     },
     {
-        "id": "13d3ae27-e18f-46d2-81d1-5a2bfffe678c",
+        "id": "870c8e32-e60f-4208-9b18-6c5d2d051447",
         "name": "Lobster Soul",
         "mana_cost": "1W",
         "type": "Creature",
@@ -43,7 +43,7 @@
         "toughness": "1"
     },
     {
-        "id": "b6a807f3-cc4f-4dc2-8516-ea1c7ee24950",
+        "id": "2dda98fc-d144-4886-bee6-2bcaf665924f",
         "name": "Meat Prepared Sous Vide",
         "mana_cost": "2U",
         "type": "Sorcery",
@@ -55,7 +55,7 @@
         "oracle_text": "Reveal cards from the top of your library until you reveal a nonland card. You may put it into your hand. If you donâ€™t, draw two cards. Put all revealed cards on the bottom of your library in a random order,"
     },
     {
-        "id": "80e9844e-81ad-4b66-8666-644b9f70ec49",
+        "id": "456edac6-57b7-4bf1-94a1-02c35d017aac",
         "name": "Bird from the Window",
         "mana_cost": "W",
         "type": "Creature",
@@ -72,7 +72,7 @@
         "toughness": "1"
     },
     {
-        "id": "b9139304-3412-4f65-9d4b-60b6be3c7390",
+        "id": "784458dd-9464-4d95-b503-b5a0ab1e1032",
         "name": "Tears for Salt",
         "mana_cost": "1U",
         "type": "Instant",
@@ -84,7 +84,7 @@
         "oracle_text": "Counter target spell unless its controller pays {3}."
     },
     {
-        "id": "e47302b7-d403-4c21-8871-8f156e7bc737",
+        "id": "0f91c2f7-a0fc-4410-8130-810b90481eaa",
         "name": "Prismos Pickles",
         "mana_cost": "1G",
         "type": "Legendary Artifact",
@@ -99,7 +99,7 @@
         "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo. Reveal him, and put him into your hand, then shuffle your library.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
     },
     {
-        "id": "87bcdf8e-c120-4d3b-9a35-d362c139eb80",
+        "id": "c5383aa1-de7d-4dc6-a2fd-34fe36925a7e",
         "name": "The Perfect Sandwich",
         "mana_cost": "",
         "type": "Legendary Artifact",
@@ -114,7 +114,7 @@
         "oracle_text": "{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canâ€™t change and you gain protection from everything."
     },
     {
-        "id": "33ad5bcf-2cc6-4126-bc7c-72c5ec99ce15",
+        "id": "c78bf099-29c5-49b2-98bb-0312cedb7f43",
         "name": "Lemonhope",
         "mana_cost": "1W",
         "type": "Creature",
@@ -130,6 +130,282 @@
         "oracle_text": " {T}: Up to three target creatures get +1/+1 until end of turn.",
         "power": "1",
         "toughness": "2"
+    },
+    {
+        "id": "e4b88f48-751f-4eca-97bd-ae04ea358ea9",
+        "name": "Zombie Candy People",
+        "mana_cost": "2W",
+        "type": "Creature",
+        "subtypes": [
+             "Zombie",
+             "Food",
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zombie%20Candy%20People.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Sacrifice a non-Zombie Food: Create a 1/1 Zombie Food Citizen creature token.",
+        "power": "2",
+        "toughness": "1"
+    },
+    {
+        "id": "0b54543f-c25c-474c-8b87-73fb21f805f2",
+        "name": "The Enchiridion",
+        "mana_cost": "5",
+        "type": "Legendary Artifact",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Enchiridion.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "At the beginning of your main phase, exile the top three cards of each playerâ€™s libraries. Until end of turn, you may play cards from among those and you may spend mana as though it were mana of any color to cast those spells."
+    },
+    {
+        "id": "8cf49845-b8de-4b51-b131-6f1695e38d4c",
+        "name": "Soft People",
+        "mana_cost": "2W",
+        "type": "Creature",
+        "subtypes": [
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Soft%20People.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever one or more creatures attack you, create a Treasure token for each Kingdom you control.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "bdf7e0e4-3128-48e8-a5b6-053641007a9c",
+        "name": "Why-wolves",
+        "mana_cost": "2UU",
+        "type": "Creature",
+        "subtypes": [
+             "Werewolf"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Why-wolves.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Why-wolves deals combat damage to a player, draw that many cards.",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "4f38fba4-c4a6-4775-a9ec-e843f3a75a5f",
+        "name": "Donny, a Jerk",
+        "mana_cost": "3GG",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Ogre"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donny%20a%20Jerk.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample, riot\nObnoxygen â€” Creatures your opponents control get -1/-1.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "7c09e290-8c75-4176-ac8b-9396d7c37109",
+        "name": "Soft Village",
+        "mana_cost": "",
+        "type": "Land",
+        "subtypes": [
+             "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Soft%20Village.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {W}.\n{T}: Prevent the next 1 damage that would be dealt to any target."
+    },
+    {
+        "id": "5ac17e41-268a-47e5-9948-2c64f876ab23",
+        "name": "Cube Village",
+        "mana_cost": "",
+        "type": "Land",
+        "subtypes": [
+             "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cube%20Village.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {U}.\n{T}: The next instant or sorcery spell you cast this turn canâ€™t be countered."
+    },
+    {
+        "id": "726b5e18-72e3-4c8b-8e6f-e799ef4d0dbd",
+        "name": "The Beneathaverse",
+        "mana_cost": "",
+        "type": "Land",
+        "subtypes": [
+             "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Beneathaverse.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add CC. This mana can only be spent to cast artifacts or to activate an ability of an artifact."
+    },
+    {
+        "id": "fce94109-4e6e-4a8e-a72e-591c4b707a15",
+        "name": "Upturnoverdrive",
+        "mana_cost": "3",
+        "type": "Artifact",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Upturnoverdrive.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Draw a card, Discard a card. Put a charge counter on Upturnoverdrive.\nRemove 10 charge counters from this artifact: Exchange your hand and graveyard."
+    },
+    {
+        "id": "ff0831b0-b17f-462f-9a67-2b95e9b8dead",
+        "name": "The Crystal Gem Apple",
+        "mana_cost": "4",
+        "type": "Legendary Artifact",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Crystal%20Gem%20Apple.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}, Pay 4 life, Sacrifice this artifact: Look at target opponentâ€™s hand and exile those cards face down. You may play those cards this turn, and mana of any type can be spent to cast them. Until end of turn, whenever you play a land or cast a spell this way, its owner draws a card. At the beginning of the next end step, return the exiled cards to their ownerâ€™s hand. Activate only as a sorcery."
+    },
+    {
+        "id": "195f04fe-6158-4677-8967-b220e75518ab",
+        "name": "Fourth Dimensional Sword",
+        "mana_cost": "3",
+        "type": "Legendary Artifact",
+        "subtypes": [
+             "Equipment"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fourth%20Dimensional%20Sword.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Equipped creature gets +2/+2.\nWhenever equipped creature deals combat damage to a player, draw 2 random non-basic cards from your sideboard.\nEquip {2}"
+    },
+    {
+        "id": "64b72788-d69a-41c2-b8ef-8c242ca77b85",
+        "name": "Eat their Flesh",
+        "mana_cost": "2B",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Eat%20their%20Flesh.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target creature. Draw a card."
+    },
+    {
+        "id": "3b4dee77-65c0-4544-930d-bd1719846e10",
+        "name": "Flesh Eating Skeletons",
+        "mana_cost": "1BB",
+        "type": "Creature",
+        "subtypes": [
+             "Skeleton"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Flesh%20Eating%20Skeletons.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever this creature deals damage, put that many +1/+1 counters on it.",
+        "power": "1",
+        "toughness": "2"
+    },
+    {
+        "id": "0edf7c76-a9fd-4ec8-9b8b-11d1cc5a0aba",
+        "name": "Tricked by the River",
+        "mana_cost": "1UB",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tricked%20by%20the%20River.png",
+        "colors": [
+            "U",
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Return target spell to its ownerâ€™s hand. Its controller discards two cards."
+    },
+    {
+        "id": "5179cbeb-02b6-499f-bb17-12228f572f93",
+        "name": "Lost a Music Battle",
+        "mana_cost": "1B",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lost%20a%20Music%20Battle.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target creature unless its controller controls a Food."
+    },
+    {
+        "id": "5d46e0fe-4c89-4cca-b65b-310f196e61b6",
+        "name": "River of Forgetfulness",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/River%20of%20Forgetfulness.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {C}.\nWhenever one or more creatures attack you, you may pay {1}. If you do, target creature loses all abilities until end of turn."
+    },
+    {
+        "id": "4c3749f4-620e-448c-bc25-4a5e6b899e82",
+        "name": "Worm College",
+        "mana_cost": "XUU",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Worm%20College.png",
+        "colors": [
+            "X",
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Reveal the top X+1 cards of your library. Secretly put 1 of them into your hand, and the rest on the bottom of your library. Repeat the process X times."
+    },
+    {
+        "id": "d4b4acdf-4885-4a61-9924-00770fa3f413",
+        "name": "Theoretical Fightonomics",
+        "mana_cost": "2U",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Theoretical%20Fightonomics.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Choose target attacking creature and target creature blocking that creature. Put a fight counter on one of those creatures. At the end of combat, if that creature is on the battlefield, draw 3 cards."
+    },
+    {
+        "id": "27e5d707-3c2f-47f1-b3b9-5f55139daa1d",
+        "name": "Ancient Psychic Tandem War Elephant",
+        "mana_cost": "3URW",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Elephant"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ancient%20Psychic%20Tandem%20War%20Elephant.png",
+        "colors": [
+            "U",
+            "R",
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\nWhen Ancient Psychic Tandem War Elephant enters, target opponent reveals their hand. Draw X cards, where X is the number of non-land cards revealed.",
+        "power": "8",
+        "toughness": "4"
     }
 ]
 [MainSlot]
@@ -141,3 +417,22 @@
 4 Prismos Pickles
 4 The Perfect Sandwich
 4 Lemonhope
+4 Zombie Candy People
+4 The Enchiridion
+4 Soft People
+4 Why-wolves
+4 Donny, a Jerk
+4 Soft Village
+4 Cube Village
+4 The Beneathaverse
+4 Upturnoverdrive
+4 The Crystal Gem Apple
+4 Fourth Dimensional Sword
+4 Eat their Flesh
+4 Flesh Eating Skeletons
+4 Tricked by the River
+4 Lost a Music Battle
+4 River of Forgetfulness
+4 Worm College
+4 Theoretical Fightonomics
+4 Ancient Psychic Tandem War Elephant
