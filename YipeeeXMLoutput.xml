@@ -9,6 +9,23 @@
   </sets>
   <cards>
         <card>
+          <name>Evan, Gluttonous Gulper</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>2B</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Creature - Human</type>
+            <maintype>Creature</maintype>
+            <pt>1/2</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Evan%20Gluttonous%20Gulper.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever you sacrifice a Food, put two +1/+1 counters on Evan.</text>
+        </card>
+        <card>
           <name>Hunt Rathalos</name>
           <prop>
             <layout>normal</layout>
@@ -2160,9 +2177,9 @@ At the beginning of each endstep, shuffle this card into its owner's library.</t
           </prop>
           <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Marceline%20the%20Vampire%20Queen.png">YPE</set>
           <tablerow>2</tablerow>
-          <text>Flying, lifelink, protection from red
+          <text>Flying, Lifelink, Protection from red.
 If Marceline would be destroyed, regenerate her.
-{T}: Target red permanent becomes colorless. Add {R} to your mana pool. Put a number of +1/+1 counters on Marceline equal to that permanent's mana value.</text>
+{T}: Target red permanent becomes colorless. Add {R}.</text>
         </card>
         <card>
           <name>Old Lady Destroying Gnomes</name>
@@ -2287,7 +2304,8 @@ When Mannish Man enters, search your library for The Enchiridion, reveal it, and
           </prop>
           <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bird%20from%20the%20Window.png">YPE</set>
           <tablerow>2</tablerow>
-          <text>Sacrifice this creature: Put a +1/+1 counter on target creature.</text>
+          <text>Flying
+Sacrifice this creature: Put a +1/+1 counter on target creature.</text>
         </card>
         <card>
           <name>Tears for Salt</name>
@@ -2322,7 +2340,7 @@ When Mannish Man enters, search your library for The Enchiridion, reveal it, and
           <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Prismos%20Pickles.png">YPE</set>
           <related attach="transform">The Perfect Sandwich</related>
           <tablerow>2</tablerow>
-          <text>{T}, Sacrifice PrismoÃ¢â‚¬â„¢s Pickles: You gain 3 life. Search your library for Prismo and put him into your hand.
+          <text>{T}, Sacrifice PrismoÃ¢â‚¬â„¢s Pickles: You gain 3 life. Search your library for Prismo. Reveal him, and put him into your hand, then shuffle your library.
 Exile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform PrismoÃ¢â‚¬â„¢s Pickles.</text>
         </card>
         <card>
@@ -2414,6 +2432,509 @@ Permanents you control but don't own have "When this card leaves the battlefield
           <text>At the beginning of each player's upkeep, that player creates a Food Token.
 Food tokens lose the ability "{2}, {T}, Sacrifice this artifact: Gain 3 life"
 Food tokens have "{2}, {T}, Sacrifice this artifact: Target opponent gains 3 life"</text>
+        </card>
+        <card>
+          <name>Jake The Dog</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>GW</colors>
+            <manacost>GGW</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Shapeshifter Dog</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>GW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Jake%20The%20Dog.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Trample
+{G}: Reveal the top card of your library. If it's an aura, you may put it into your hand. Otherwise, put it into your graveyard.
+Auras you control have "{3}: Attach this aura to another target creature you control."</text>
+        </card>
+        <card>
+          <name>Finn The Human</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UW</colors>
+            <manacost>1UW</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Human Hero</type>
+            <maintype>Creature</maintype>
+            <pt>2/4</pt>
+            <side>front</side>
+            <coloridentity>UW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Finn%20The%20Human.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Vigilance
+At the beginning of your upkeep, if Finn is equipped, put a +1/+1 counter on him. You gain life equal to his power.
+{0}, Remove a +1/+1 counter from Finn: Attach target equipment to target creature.</text>
+        </card>
+        <card>
+          <name>The Grass Sword</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>1G</manacost>
+            <cmc>2</cmc>
+            <type>Artifact - Equipment</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Grass%20Sword.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Equip {G}{G}
+ When The Grass Sword enters the battlefield, search your library for a basic forest, put it onto the battlefield tapped, then shuffle.
+Equipped creature gets +X/+X, where X is the number of basic forests you control.</text>
+        </card>
+        <card>
+          <name>Princess Bubblegum</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>RU</colors>
+            <manacost>2UR</manacost>
+            <cmc>4</cmc>
+            <type>Creature - Candy Noble Artificer</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity>RU</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Princess%20Bubblegum.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Ward - Lose 3 life
+Whenever an artifact enters the battlefield under your control, Princess Bubblegum deals 1 damage to each opponent and you gain 1 life.
+Artifact spells you cast have improvise.</text>
+        </card>
+        <card>
+          <name>Footify</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>2W</manacost>
+            <cmc>3</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Footify.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature
+Enchanted creature loses all abilities and gets -2/+X, where X is the number of creatures opponents control.</text>
+        </card>
+        <card>
+          <name>Horsing Around</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>GW</colors>
+            <manacost>1GW</manacost>
+            <cmc>3</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>GW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Horsing%20Around.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature
+Enchanted creature is a horse in addition to other types.
+Whenever enchanted creature attacks, target creature you control gains horsemanship until end of turn.
+Enchanted creature gets +1/+1 and has first strike.</text>
+        </card>
+        <card>
+          <name>Zombie Candy People</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>2W</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Zombie Food Citizen</type>
+            <maintype>Creature</maintype>
+            <pt>2/1</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Zombie%20Candy%20People.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Sacrifice a non-Zombie Food: Create a 1/1 Zombie Food Citizen creature token.</text>
+        </card>
+        <card>
+          <name>The Enchiridion</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>5</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Artifact</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Enchiridion.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>At the beginning of your main phase, exile the top three cards of each playerâ€™s libraries. Until end of turn, you may play cards from among those and you may spend mana as though it were mana of any color to cast those spells.</text>
+        </card>
+        <card>
+          <name>Soft People</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>2W</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Citizen</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Soft%20People.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever one or more creatures attack you, create a Treasure token for each Kingdom you control.</text>
+        </card>
+        <card>
+          <name>Earldom of Lemongrab</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Land - Kingdom</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Earldom%20of%20Lemongrab.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add {U} to your mana pool.
+{4}, {T}, Sacrifice this land: Counter target spell. You may search your library for a basic island card and put it into play tapped.</text>
+        </card>
+        <card>
+          <name>Why-wolves</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>2UU</manacost>
+            <cmc>4</cmc>
+            <type>Creature - Werewolf</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Why-wolves.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When Why-wolves deals combat damage to a player, draw that many cards.</text>
+        </card>
+        <card>
+          <name>Donny a Jerk</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>3GG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Ogre</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Donny%20a%20Jerk.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Trample, riot
+Obnoxygen â€” Creatures your opponents control get -1/-1.</text>
+        </card>
+        <card>
+          <name>Upturnoverdrive</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <type>Artifact - </type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Upturnoverdrive.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Draw a card, Discard a card. Put a charge counter on Upturnoverdrive.
+Remove 10 charge counters from this artifact: Exchange your hand and graveyard.</text>
+        </card>
+        <card>
+          <name>Apple of Eden, Isu Relic</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>4</manacost>
+            <cmc>4</cmc>
+            <type>Legendary Artifact - </type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Crystal%20Gem%20Apple.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}, Pay 4 life, Sacrifice Apple of Eden: Look at target opponent's hand and exile those cards face down. You may play those cards this turn, and mana of any type can be spent to cast them. Until end of turn, whenever you play a land or cast a spell this way, its owner draws a card. At the beginning of the next end step, return the exiled cards to their owner's hand. Activate only as a sorcery.</text>
+        </card>
+        <card>
+          <name>The Beneathaverse</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Land - Kingdom</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Beneathaverse.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add CC. This mana can only be spent to cast artifacts or to activate an ability of an artifact.</text>
+        </card>
+        <card>
+          <name>Soft Village</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Land - Kingdom</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Soft%20Village.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add W.
+{T}: Prevent the next 1 damage that would be dealt to any target.</text>
+        </card>
+        <card>
+          <name>Cube Village</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Land - Kingdom</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cube%20Village.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add U.
+{T}: The next instant or sorcery spell you cast this turn canâ€™t be countered.</text>
+        </card>
+        <card>
+          <name>Fourth Dimensional Sword</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>3</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Artifact - Equipment</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fourth%20Dimensional%20Sword.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage to a player, draw 2 random non-basic cards from your sideboard.
+Equip {2}</text>
+        </card>
+        <card>
+          <name>Eat their Flesh</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>2B</manacost>
+            <cmc>3</cmc>
+            <type>Sorcery</type>
+            <maintype>Sorcery</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Eat%20their%20Flesh.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Destroy target creature. Draw a card.</text>
+        </card>
+        <card>
+          <name>Flesh Eating Skeletons</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>1BB</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Skeleton</type>
+            <maintype>Creature</maintype>
+            <pt>1/2</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Flesh%20Eating%20Skeletons.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Whenever this creature deals damage, put that many +1/+1 counters on it.</text>
+        </card>
+        <card>
+          <name>Tricked by the River</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>UB</colors>
+            <manacost>1UB</manacost>
+            <cmc>3</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>UB</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tricked%20by%20the%20River.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Return target spell to its ownerÃ¢â‚¬â„¢s hand. Its controller discards two cards.</text>
+        </card>
+        <card>
+          <name>Lost a Music Battle</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>1B</manacost>
+            <cmc>2</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lost%20a%20Music%20Battle.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Destroy target creature unless its controller controls a Food.</text>
+        </card>
+        <card>
+          <name>River of Forgetfulness</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Land</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/River%20of%20Forgetfulness.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add {C}.
+Whenever one or more creatures attack you, you may pay {1}. If you do, target creature loses all abilities until end of turn.</text>
+        </card>
+        <card>
+          <name>Worm College</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>XUU</manacost>
+            <cmc>3</cmc>
+            <type>Sorcery</type>
+            <maintype>Sorcery</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Worm%20College.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Reveal the top X+1 cards of your library. Secretly put 1 of them into your hand, and the rest on the bottom of your library. Repeat the process X times.</text>
+        </card>
+        <card>
+          <name>Theoretical Fightonomics</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>2U</manacost>
+            <cmc>3</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Theoretical%20Fightonomics.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Choose target attacking creature and target creature blocking that creature. Put a fight counter on one of those creatures. At the end of combat, if that creature is on the battlefield, draw 3 cards.</text>
+        </card>
+        <card>
+          <name>Ancient Psychic Tandem War Elephant</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>URW</colors>
+            <manacost>3URW</manacost>
+            <cmc>6</cmc>
+            <type>Legendary Creature - Elephant</type>
+            <maintype>Creature</maintype>
+            <pt>8/4</pt>
+            <side>front</side>
+            <coloridentity>URW</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ancient%20Psychic%20Tandem%20War%20Elephant.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Trample
+When Ancient Psychic Tandem War Elephant enters, target opponent reveals their hand. Draw X cards, where X is the number of non-land cards revealed.</text>
+        </card>
+        <card>
+          <name>Patriotic Gunseller</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>RRRRR</manacost>
+            <cmc>5</cmc>
+            <type>Creature - Ranger Advisor</type>
+            <maintype>Creature</maintype>
+            <pt>0/7</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Patriotic%20Gunseller.png">YPE</set>
+          <related attach="transform">Psychotic Gunberserker</related>
+          <tablerow>2</tablerow>
+          <text>Defender
+{2}, {T}: Create an artifact equipment token named Gun with equip {1} and "{T}: Gun deals 1 damage to target creature."
+When Patriotic Gunseller blocks a creature, transform Patriotic Gunseller.</text>
+        </card>
+        <card>
+          <name>Psychotic Gunberserker</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Creature - Ranger Berserker</type>
+            <maintype>Creature</maintype>
+            <pt>5/3</pt>
+            <side>back</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Psychotic%20Gunberserker.png">YPE</set>
+          <related attach="transform">Patriotic Gunseller</related>
+          <tablerow>2</tablerow>
+          <text>{1}, {T}: Psychotic Gunberserker deals 1 damage to target creature.
+Psychotic Gunberserker attacks on every combat phase.
+After each player's first combat phase each turn, there is an additional combat phase.</text>
         </card>
         <card>
           <name>Ominous Portal</name>

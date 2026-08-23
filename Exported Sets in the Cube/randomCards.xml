@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype>YPE</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Evan, Gluttonous Gulper</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human  </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a Food, put two +1/+1 counters on Evan.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

@@ -7,6 +7,23 @@
 [CustomCards]
 [
     {
+        "id": "aed6b9a6-a0d9-411a-bce2-ce4ffd7876c2",
+        "name": "Evan, Gluttonous Gulper",
+        "mana_cost": "2B",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Human"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Evan%20Gluttonous%20Gulper.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever you sacrifice a Food, put two +1/+1 counters on Evan.",
+        "power": "1",
+        "toughness": "2"
+    },
+    {
         "id": "c600bfcd-1c98-497e-95e2-54e6e26b758e",
         "name": "Hunt Rathalos",
         "mana_cost": "{2}{R}{R}",
@@ -1767,19 +1784,19 @@
         "oracle_text": "Destroy target creature. Its controller creates a 3/3 Beast creature token and a Food Token."
     },
     {
-        "id": "cb63faab-0075-4a89-9a94-f797d22fa38e",
+        "id": "70cee831-428d-42b4-a14e-de34e0558ca2",
         "name": "Marceline the Vampire Queen",
-        "mana_cost": "{3}{B}{B}",
+        "mana_cost": "3BB",
         "type": "Legendary Creature",
         "subtypes": [
-            "Vampire"
+             "Vampire"
         ],
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Marceline%20the%20Vampire%20Queen.png",
         "colors": [
             "B"
         ],
         "set": "YPE",
-        "oracle_text": "Flying, lifelink, protection from red\nIf Marceline would be destroyed, regenerate her.\n{T}: Target red permanent becomes colorless. Add {R} to your mana pool. Put a number of +1/+1 counters on Marceline equal to that permanent's mana value.",
+        "oracle_text": "Flying, Lifelink, Protection from red.\nIf Marceline would be destroyed, regenerate her.\n{T}: Target red permanent becomes colorless. Add {R}.",
         "power": "3",
         "toughness": "1"
     },
@@ -2375,7 +2392,6 @@
         "type": "Sorcery",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Worm%20College.png",
         "colors": [
-            "X",
             "U"
         ],
         "set": "YPE",
@@ -2895,7 +2911,9 @@
         "power": "1",
         "toughness": "3"
     },
-# tokens
+
+
+
     {
         "id": "7cb80324-bf4d-4daf-8931-4f3a7fd33871",
         "name": "Bingus",

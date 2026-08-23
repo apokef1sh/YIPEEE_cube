@@ -381,6 +381,22 @@ Whenever one or more creatures attack you, you may pay {1}. If you do, target cr
       <text>Trample
 When Ancient Psychic Tandem War Elephant enters, target opponent reveals their hand. Draw X cards, where X is the number of non-land cards revealed.</text>
     </card>
+    <card>
+      <name>Marceline the Vampire Queen</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Lifelink, Protection from red.
+If Marceline would be destroyed, regenerate her.
+{T}: Target red permanent becomes colorless. Add {R}.</text>
+    </card>
 
     <!-->Tokens</-->
 
