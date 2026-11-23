@@ -1950,7 +1950,7 @@
             "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Perfect%20Sandwich.png",
             "colors": [],
             "set": "YPE",
-            "oracle_text": "{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canâ€™t change and you gain protection from everything."
+            "oracle_text": "{2}, {T}, Sacrifice this artifact: Gain 3 life.\nWhen you sacrifice this artifact, you win the game."
         },
         "set": "YPE",
         "draft_effects": [
@@ -2388,7 +2388,7 @@
     {
         "id": "4c3749f4-620e-448c-bc25-4a5e6b899e82",
         "name": "Worm College",
-        "mana_cost": "XUU",
+        "mana_cost": "XXUU",
         "type": "Sorcery",
         "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Worm%20College.png",
         "colors": [
@@ -3190,6 +3190,7 @@
 2 Erica, Caster of Crap
 2 Natascha
 2 Suspicious Schemer
+2 Evan, Gluttonous Gulper
 2 Candy Kingdom
 2 Donut Witch
 2 Earl of Lemongrab
