@@ -2473,7 +2473,7 @@
             "oracle_text": "As long as Ice King is equipped, he gets +3/+1 and has flying.\nWhenever you cast an instant or sorcery spell, deal 3 damage to target opponent. Then, tap target nonland permanent that player controls and put a stun counter on it.",
             "power": "3",
             "toughness": "2"
-        }
+        },
         "set": "YPE",
         "oracle_text": "When Simon enters, search your library for a legendary artifact card, reveal it, put it into your hand, then shuffle.\n2UUU: Transform Simon Petrikov. Activate only as a sorcery and only if Simon is equipped.",
         "power": "1",
@@ -3387,7 +3387,9 @@
             ""
         ],
         "set": "YPE",
-        "oracle_text": "Flying"
+        "oracle_text": "Flying",
+        "power": "1",
+        "toughness": "1"
     }
 ]
 [MainSlot]
