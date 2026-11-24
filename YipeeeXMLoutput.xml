@@ -2359,7 +2359,8 @@ Exile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster
           <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/The%20Perfect%20Sandwich.png">YPE</set>
           <related attach="transform">Prismos Pickles</related>
           <tablerow>2</tablerow>
-          <text>{T}, Sacrifice this artifact: You gain 10 life. Until your next turn, your life total canÃ¢â‚¬â„¢t change and you gain protection from everything.</text>
+          <text>{2}, {T}, Sacrifice this artifact: Gain 3 life.
+When you sacrifice this artifact, you win the game.</text>
         </card>
         <card>
           <name>Lemonhope</name>
@@ -2849,8 +2850,8 @@ Whenever one or more creatures attack you, you may pay {1}. If you do, target cr
           <prop>
             <layout>normal</layout>
             <colors>U</colors>
-            <manacost>XUU</manacost>
-            <cmc>3</cmc>
+            <manacost>XXUU</manacost>
+            <cmc>4</cmc>
             <type>Sorcery</type>
             <maintype>Sorcery</maintype>
             <pt></pt>

@@ -8,7 +8,7 @@
 [
 
     {
-        "id": "c6074d56-3df6-405b-85e2-3b49a703eab3",
+        "id": "0bd62e08-588e-42ed-96a0-b3a17e30decb",
         "name": "Mannish Man, Manly Minotaur",
         "mana_cost": "1WW",
         "type": "Creature",
@@ -25,7 +25,7 @@
         "toughness": "2"
     },
     {
-        "id": "66362c2b-afc0-4e7b-bb03-2feb888dddd1",
+        "id": "3fa5dc81-82b9-4ad0-b0c8-29942f6ecf5b",
         "name": "Lobster Soul",
         "mana_cost": "1W",
         "type": "Creature",
@@ -43,7 +43,7 @@
         "toughness": "1"
     },
     {
-        "id": "b37a755f-09c1-4156-aaf7-cc64b8024854",
+        "id": "85288d52-ac8b-47a2-bb6a-a268a7f594d0",
         "name": "Meat Prepared Sous Vide",
         "mana_cost": "2U",
         "type": "Sorcery",
@@ -55,7 +55,7 @@
         "oracle_text": "Reveal cards from the top of your library until you reveal a nonland card. You may put it into your hand. If you donâ€™t, draw two cards. Put all revealed cards on the bottom of your library in a random order,"
     },
     {
-        "id": "f52a0342-f07c-4448-a155-21d6e6eaa8e9",
+        "id": "94a16e6b-9090-4b5d-b6e4-f0865b620dbd",
         "name": "Bird from the Window",
         "mana_cost": "W",
         "type": "Creature",
@@ -72,7 +72,7 @@
         "toughness": "1"
     },
     {
-        "id": "1e6d384b-c1fb-478d-8a06-84604c954767",
+        "id": "40fd36db-1bb1-4edf-b7fa-a243448d2973",
         "name": "Tears for Salt",
         "mana_cost": "1U",
         "type": "Instant",
@@ -84,7 +84,7 @@
         "oracle_text": "Counter target spell unless its controller pays {3}."
     },
     {
-        "id": "d1fe9ec4-2192-443f-ad5e-b3e51aefa61a",
+        "id": "7a2231fd-4f44-49d0-916e-786a504a657f",
         "name": "Prismos Pickles",
         "mana_cost": "1G",
         "type": "Legendary Artifact",
@@ -99,7 +99,7 @@
         "oracle_text": "{T}, Sacrifice Prismoâ€™s Pickles: You gain 3 life. Search your library for Prismo. Reveal him, and put him into your hand, then shuffle your library.\nExile Bird from the Window, Tears for Salt, Meat Prepared Sous Vide, and Lobster Soul from your graveyard: Transform Prismoâ€™s Pickles."
     },
     {
-        "id": "c29f6c39-32fd-4054-ad73-51482cac5ea3",
+        "id": "98f4cb67-b96a-454c-88f1-b6756ea98f68",
         "name": "The Perfect Sandwich",
         "mana_cost": "",
         "type": "Legendary Artifact",
@@ -114,7 +114,7 @@
         "oracle_text": "{2}, {T}, Sacrifice this artifact: Gain 3 life.\nWhen you sacrifice this artifact, you win the game."
     },
     {
-        "id": "66ac7699-3ff7-4660-ad8b-eabf87aa7745",
+        "id": "4ecefe81-b4e9-401b-b38e-3e17d540f886",
         "name": "Lemonhope",
         "mana_cost": "1W",
         "type": "Creature",
@@ -132,7 +132,7 @@
         "toughness": "2"
     },
     {
-        "id": "568103e7-5106-41c4-830a-5b11cab5da45",
+        "id": "784359b0-157d-4249-a555-51ac60589b92",
         "name": "Zombie Candy People",
         "mana_cost": "2W",
         "type": "Creature",
@@ -151,7 +151,7 @@
         "toughness": "1"
     },
     {
-        "id": "e7802466-b4b8-4185-96de-d07003b7ee5e",
+        "id": "80143db9-9d30-4ddd-85c0-d66a9b798c39",
         "name": "The Enchiridion",
         "mana_cost": "5",
         "type": "Legendary Artifact",
@@ -163,7 +163,7 @@
         "oracle_text": "At the beginning of your main phase, exile the top three cards of each playerâ€™s libraries. Until end of turn, you may play cards from among those and you may spend mana as though it were mana of any color to cast those spells."
     },
     {
-        "id": "27bacaa3-667f-41bf-bd65-159aa2ce42d1",
+        "id": "68398e86-0beb-4fd7-9145-6e29a08d6c58",
         "name": "Soft People",
         "mana_cost": "2W",
         "type": "Creature",
@@ -180,7 +180,7 @@
         "toughness": "1"
     },
     {
-        "id": "e6ccc8a2-b888-4043-9778-0c123f516104",
+        "id": "d495b6b9-09dc-4309-858e-6a9333cd84c3",
         "name": "Why-wolves",
         "mana_cost": "2UU",
         "type": "Creature",
@@ -197,7 +197,7 @@
         "toughness": "2"
     },
     {
-        "id": "1caa7b2f-0006-496c-aa53-5bd6a2e33710",
+        "id": "1925fa1b-09c5-4f84-93ab-d74a2fa5c7d3",
         "name": "Donny, a Jerk",
         "mana_cost": "3GG",
         "type": "Legendary Creature",
@@ -214,7 +214,7 @@
         "toughness": "3"
     },
     {
-        "id": "3caa7e02-9ceb-427f-a83f-fa159832df00",
+        "id": "01bfe002-aa34-4f9d-acb5-a62f7e6db98f",
         "name": "Soft Village",
         "mana_cost": "",
         "type": "Land",
@@ -229,7 +229,7 @@
         "oracle_text": "{T}: Add {W}.\n{T}: Prevent the next 1 damage that would be dealt to any target."
     },
     {
-        "id": "973c3cfa-e669-498e-942a-1720c8bce52a",
+        "id": "726cbb7b-bdba-4eae-96fa-d6d93eb62e28",
         "name": "Cube Village",
         "mana_cost": "",
         "type": "Land",
@@ -244,7 +244,7 @@
         "oracle_text": "{T}: Add {U}.\n{T}: The next instant or sorcery spell you cast this turn canâ€™t be countered."
     },
     {
-        "id": "d3bd6139-3fa2-4799-bb3b-da41aa4826da",
+        "id": "00a3b707-e34d-49c4-8290-7c915dcd929d",
         "name": "The Beneathaverse",
         "mana_cost": "",
         "type": "Land",
@@ -259,7 +259,7 @@
         "oracle_text": "{T}: Add CC. This mana can only be spent to cast artifacts or to activate an ability of an artifact."
     },
     {
-        "id": "04e606f8-789f-48ed-a022-c95c4f6b54f5",
+        "id": "3fab87ac-d282-41ed-ab57-f94e4f44149b",
         "name": "Upturnoverdrive",
         "mana_cost": "3",
         "type": "Artifact",
@@ -271,7 +271,7 @@
         "oracle_text": "{T}: Draw a card, Discard a card. Put a charge counter on Upturnoverdrive.\nRemove 10 charge counters from this artifact: Exchange your hand and graveyard."
     },
     {
-        "id": "82503724-cf74-4ae5-b355-0afed75f57c9",
+        "id": "c05ea8de-e26e-435c-9975-ad7a0ee2849a",
         "name": "The Crystal Gem Apple",
         "mana_cost": "4",
         "type": "Legendary Artifact",
@@ -283,7 +283,7 @@
         "oracle_text": "{T}, Pay 4 life, Sacrifice this artifact: Look at target opponentâ€™s hand and exile those cards face down. You may play those cards this turn, and mana of any type can be spent to cast them. Until end of turn, whenever you play a land or cast a spell this way, its owner draws a card. At the beginning of the next end step, return the exiled cards to their ownerâ€™s hand. Activate only as a sorcery."
     },
     {
-        "id": "95dd60f9-1ab7-497f-87eb-c8a02ac39009",
+        "id": "1849fc83-ace3-459b-b3ed-6804d315f2af",
         "name": "Fourth Dimensional Sword",
         "mana_cost": "3",
         "type": "Legendary Artifact",
@@ -298,7 +298,7 @@
         "oracle_text": "Equipped creature gets +2/+2.\nWhenever equipped creature deals combat damage to a player, draw 2 random non-basic cards from your sideboard.\nEquip {2}"
     },
     {
-        "id": "4bfb5b2a-d1ec-4d4a-b81f-07872d4aae5b",
+        "id": "4f4a406d-419e-4f30-9818-c7eee77af506",
         "name": "Eat their Flesh",
         "mana_cost": "2B",
         "type": "Sorcery",
@@ -310,7 +310,7 @@
         "oracle_text": "Destroy target creature. Draw a card."
     },
     {
-        "id": "fad1a4b0-70f4-4708-bea7-d4d4a079489b",
+        "id": "c549d29b-4f8e-42b9-8354-650f459ec604",
         "name": "Flesh Eating Skeletons",
         "mana_cost": "1BB",
         "type": "Creature",
@@ -327,7 +327,7 @@
         "toughness": "2"
     },
     {
-        "id": "bdb36960-4837-4ecf-abbe-4fcf6a9521bc",
+        "id": "b2becdb3-b9d4-4fdb-9461-06157fa9720c",
         "name": "Tricked by the River",
         "mana_cost": "1UB",
         "type": "Instant",
@@ -340,7 +340,7 @@
         "oracle_text": "Return target spell to its ownerâ€™s hand. Its controller discards two cards."
     },
     {
-        "id": "dacc361e-321d-4a5e-90d0-5c0a12faa4e3",
+        "id": "3c001716-9bad-4acb-a188-59a1887821e5",
         "name": "Lost a Music Battle",
         "mana_cost": "1B",
         "type": "Instant",
@@ -352,7 +352,7 @@
         "oracle_text": "Destroy target creature unless its controller controls a Food."
     },
     {
-        "id": "4ac310a5-2ee3-4cea-8dfa-9b45e7b7ccf9",
+        "id": "36004820-9298-493c-835e-6213c1217678",
         "name": "River of Forgetfulness",
         "mana_cost": "",
         "type": "Land",
@@ -364,7 +364,7 @@
         "oracle_text": "{T}: Add {C}.\nWhenever one or more creatures attack you, you may pay {1}. If you do, target creature loses all abilities until end of turn."
     },
     {
-        "id": "e76924b4-0e7e-4f3a-80c3-b53a1d8ff1a0",
+        "id": "fa3e4123-4452-4b3c-a1be-4837c0852200",
         "name": "Worm College",
         "mana_cost": "XXUU",
         "type": "Sorcery",
@@ -377,7 +377,7 @@
         "oracle_text": "Reveal the top X+1 cards of your library. Secretly put 1 of them into your hand, and the rest on the bottom of your library. Repeat the process X times."
     },
     {
-        "id": "889d155f-d674-4774-93a1-f7a8b058177f",
+        "id": "8a916ecc-af46-4e4f-a251-633eba8edfc5",
         "name": "Theoretical Fightonomics",
         "mana_cost": "2U",
         "type": "Instant",
@@ -389,7 +389,7 @@
         "oracle_text": "Choose target attacking creature and target creature blocking that creature. Put a fight counter on one of those creatures. At the end of combat, if that creature is on the battlefield, draw 3 cards."
     },
     {
-        "id": "be721e75-8767-4ae1-9100-d740d32e730d",
+        "id": "bea8901e-53bf-4f6a-ba8e-7b810f795026",
         "name": "Ancient Psychic Tandem War Elephant",
         "mana_cost": "3URW",
         "type": "Legendary Creature",
@@ -408,7 +408,7 @@
         "toughness": "4"
     },
     {
-        "id": "07db92aa-239b-4ff6-8cb8-a93c8bda4e93",
+        "id": "9e43e89a-eef0-4d60-8818-9332edee68a8",
         "name": "Marceline the Vampire Queen",
         "mana_cost": "3BB",
         "type": "Legendary Creature",
@@ -423,6 +423,261 @@
         "oracle_text": "Flying, Lifelink, Protection from red.\nIf Marceline would be destroyed, regenerate her.\n{T}: Target red permanent becomes colorless. Add {R}.",
         "power": "3",
         "toughness": "1"
+    },
+    {
+        "id": "b4cc6791-08a8-495f-af4b-9ad30a1cf69b",
+        "name": "Prismo, the Wishmaster",
+        "mana_cost": "1WW",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Avatar"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Prismo%20the%20Wishmaster.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Indestructible\nPrismo canâ€™t block.\nWhen Prismo enters, reveal a card from your sideboard. Put it into your hand.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "bfe2cdca-d997-42c7-beec-67e37cb49930",
+        "name": "Simon Petrikov, Antiquarian",
+        "mana_cost": "1U",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Human",
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Simon%20Petrikov%20Antiquarian.png",
+        "colors": [
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Simon enters, search your library for a legendary artifact card, reveal it, put it into your hand, then shuffle.\n2UUU: Transform Simon Petrikov. Activate only as a sorcery and only if Simon is equipped.",
+        "power": "1",
+        "toughness": "2"
+    },
+    {
+        "id": "eccf1eb6-6380-41ec-a8da-ba0a287c9e31",
+        "name": "Ice King, Erratic Wizard",
+        "mana_cost": "",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ice%20King%20Erratic%20Wizard.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "As long as Ice King is equipped, he gets +3/+1 and has flying.\nWhenever you cast an instant or sorcery spell, deal 3 damage to target opponent. Then, tap target nonland permanent that player controls and put a stun counter on it.",
+        "power": "3",
+        "toughness": "2"
+    },
+    {
+        "id": "64214225-d2ac-4402-a1b2-3290450dcee6",
+        "name": "Huntress Wizard",
+        "mana_cost": "3GG",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Treefolk",
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Huntress%20Wizard.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Ninjutsu 2G\nWhen Huntress Wizard deals combat damage to a player, search your library for a land card, put it on the battlefield tapped, then shuffle.",
+        "power": "4",
+        "toughness": "2"
+    },
+    {
+        "id": "d8fcd394-e00c-4013-8f06-7011a951a210",
+        "name": "Grand Master Wizard",
+        "mana_cost": "3WU",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Grand%20Master%20Wizard.png",
+        "colors": [
+            "W",
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Wizards can only be blocked by Wizards.\nInstant and sorcery spells you cast cost {2} less.",
+        "power": "3",
+        "toughness": "6"
+    },
+    {
+        "id": "2a9e4262-fc55-4f65-8a89-6c273eb61728",
+        "name": "Abracadaniel, Amateur Wizard",
+        "mana_cost": "1WW",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Abracadaniel%20Amateur%20Wizard.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Abracadaniel dies, return him from the graveyard to the battlefield at the beginning of your next end step.",
+        "power": "0",
+        "toughness": "1"
+    },
+    {
+        "id": "929d6bce-7aeb-45de-8d9b-b06bcfc49960",
+        "name": "Butterflyify",
+        "mana_cost": "1W",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Butterflyify.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target artifact or enchantment. Its controller creates a 1/1 Butterfly creature token with flying."
+    },
+    {
+        "id": "0238e83d-7bd3-49f5-9e07-b083c6e6b228",
+        "name": "Rock Wizard",
+        "mana_cost": "6",
+        "type": "Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rock%20Wizard.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\nDisguise {3} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "a442f6ad-9661-48ba-8f18-4a20596e1cf9",
+        "name": "Summon an Astral Beast",
+        "mana_cost": "1GG",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Summon%20an%20Astral%20Beast.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library. Add GG to your mana pool."
+    },
+    {
+        "id": "2d79d6dd-91ac-4d67-8803-267bccd9be7f",
+        "name": "Wizard Sky Barrier",
+        "mana_cost": "3W",
+        "type": "Enchantment",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wizard%20Sky%20Barrier.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Wizards have prowess.\nUnless they are destroyed, creatures canâ€™t leave the battlefield."
+    },
+    {
+        "id": "7f5fab8c-4aaf-42b3-8c61-a5d0fc033516",
+        "name": "Lub Glub",
+        "mana_cost": "1BBB",
+        "type": "Creature",
+        "subtypes": [
+             "Elemental"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lub%20Glub.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Deathtouch\nDisguise 1B (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+        "power": "1",
+        "toughness": "3"
+    },
+    {
+        "id": "4b4d27ed-4e47-495e-a80c-ecfc54840f73",
+        "name": "Naked Wizard",
+        "mana_cost": "3W",
+        "type": "Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Naked%20Wizard.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flash\nWhen Naked Wizard enters, target creature loses all abilities and has base power 0/1 until end of turn.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "1ac7d996-81fe-4d91-8b38-5fe6a467dd03",
+        "name": "Cheetah Form",
+        "mana_cost": "1W",
+        "type": "Enchantment",
+        "subtypes": [
+             "Aura"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cheetah%20Form.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and has haste and lifelink."
+    },
+    {
+        "id": "dc784ae1-f47b-4101-bd96-da757d457a15",
+        "name": "Fire Kingdom",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "subtypes": [
+             "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fire%20Kingdom.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {R}.\n2RR: Fire Kingdom deals 2 damage to any target."
+    },
+    {
+        "id": "4e8b3c1d-1265-4586-94d3-281174ee5789",
+        "name": "Flame Princess",
+        "mana_cost": "2RRR",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Elemental",
+             "Noble"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Flame%20Princess.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flame Princessâ€™s power and toughness are each equal to the number of red permanents on the battlefield.\nWhen Flame Princess attacks, put a flame counter on target permanent. That permanent becomes red.",
+        "power": "*",
+        "toughness": "*"
+    },
+    {
+        "id": "80b288b2-87da-40ab-8b27-ce0c36ecc708",
+        "name": "Butterfly",
+        "mana_cost": "",
+        "type": "Token Creature",
+        "subtypes": [
+             "Butterfly"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Butterfly.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying"
     }
 ]
 [MainSlot]
@@ -454,3 +709,18 @@
 4 Theoretical Fightonomics
 4 Ancient Psychic Tandem War Elephant
 4 Marceline the Vampire Queen
+4 Prismo, the Wishmaster
+4 Simon Petrikov, Antiquarian
+4 Ice King, Erratic Wizard
+4 Huntress Wizard
+4 Grand Master Wizard
+4 Abracadaniel, Amateur Wizard
+4 Butterflyify
+4 Rock Wizard
+4 Summon an Astral Beast
+4 Wizard Sky Barrier
+4 Lub Glub
+4 Naked Wizard
+4 Cheetah Form
+4 Fire Kingdom
+4 Flame Princess

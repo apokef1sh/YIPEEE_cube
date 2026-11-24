@@ -2429,6 +2429,246 @@
         "toughness": "4"
     },
     {
+        "id": "b4cc6791-08a8-495f-af4b-9ad30a1cf69b",
+        "name": "Prismo, the Wishmaster",
+        "mana_cost": "1WW",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Avatar"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Prismo%20the%20Wishmaster.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Indestructible\nPrismo canâ€™t block.\nWhen Prismo enters, reveal a card from your sideboard. Put it into your hand.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "bfe2cdca-d997-42c7-beec-67e37cb49930",
+        "name": "Simon Petrikov, Antiquarian",
+        "mana_cost": "1U",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Human",
+             "Citizen"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Simon%20Petrikov%20Antiquarian.png",
+        "colors": [
+            "U"
+        ],
+        "back": {
+            "name": "Ice King, Erratic Wizard",
+            "mana_cost": "",
+            "type": "Legendary Creature",
+            "subtypes": [
+                "Wizard"
+            ],
+            "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ice%20King%20Erratic%20Wizard.png",
+            "colors": [
+                "U"
+            ],
+            "set": "YPE",
+            "oracle_text": "As long as Ice King is equipped, he gets +3/+1 and has flying.\nWhenever you cast an instant or sorcery spell, deal 3 damage to target opponent. Then, tap target nonland permanent that player controls and put a stun counter on it.",
+            "power": "3",
+            "toughness": "2"
+        }
+        "set": "YPE",
+        "oracle_text": "When Simon enters, search your library for a legendary artifact card, reveal it, put it into your hand, then shuffle.\n2UUU: Transform Simon Petrikov. Activate only as a sorcery and only if Simon is equipped.",
+        "power": "1",
+        "toughness": "2"
+    },
+    ,
+    {
+        "id": "64214225-d2ac-4402-a1b2-3290450dcee6",
+        "name": "Huntress Wizard",
+        "mana_cost": "3GG",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Treefolk",
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Huntress%20Wizard.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Ninjutsu 2G\nWhen Huntress Wizard deals combat damage to a player, search your library for a land card, put it on the battlefield tapped, then shuffle.",
+        "power": "4",
+        "toughness": "2"
+    },
+    {
+        "id": "d8fcd394-e00c-4013-8f06-7011a951a210",
+        "name": "Grand Master Wizard",
+        "mana_cost": "3WU",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Grand%20Master%20Wizard.png",
+        "colors": [
+            "W",
+            "U"
+        ],
+        "set": "YPE",
+        "oracle_text": "Wizards can only be blocked by Wizards.\nInstant and sorcery spells you cast cost {2} less.",
+        "power": "3",
+        "toughness": "6"
+    },
+    {
+        "id": "2a9e4262-fc55-4f65-8a89-6c273eb61728",
+        "name": "Abracadaniel, Amateur Wizard",
+        "mana_cost": "1WW",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Abracadaniel%20Amateur%20Wizard.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Abracadaniel dies, return him from the graveyard to the battlefield at the beginning of your next end step.",
+        "power": "0",
+        "toughness": "1"
+    },
+    {
+        "id": "929d6bce-7aeb-45de-8d9b-b06bcfc49960",
+        "name": "Butterflyify",
+        "mana_cost": "1W",
+        "type": "Instant",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Butterflyify.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Destroy target artifact or enchantment. Its controller creates a 1/1 Butterfly creature token with flying."
+    },
+    {
+        "id": "0238e83d-7bd3-49f5-9e07-b083c6e6b228",
+        "name": "Rock Wizard",
+        "mana_cost": "6",
+        "type": "Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rock%20Wizard.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\nDisguise {3} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
+        "id": "a442f6ad-9661-48ba-8f18-4a20596e1cf9",
+        "name": "Summon an Astral Beast",
+        "mana_cost": "1GG",
+        "type": "Sorcery",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Summon%20an%20Astral%20Beast.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library. Add GG to your mana pool."
+    },
+    {
+        "id": "2d79d6dd-91ac-4d67-8803-267bccd9be7f",
+        "name": "Wizard Sky Barrier",
+        "mana_cost": "3W",
+        "type": "Enchantment",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wizard%20Sky%20Barrier.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Wizards have prowess.\nUnless they are destroyed, creatures canâ€™t leave the battlefield."
+    },
+    {
+        "id": "7f5fab8c-4aaf-42b3-8c61-a5d0fc033516",
+        "name": "Lub Glub",
+        "mana_cost": "1BBB",
+        "type": "Creature",
+        "subtypes": [
+             "Elemental"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lub%20Glub.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Deathtouch\nDisguise 1B (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+        "power": "1",
+        "toughness": "3"
+    },
+    {
+        "id": "4b4d27ed-4e47-495e-a80c-ecfc54840f73",
+        "name": "Naked Wizard",
+        "mana_cost": "3W",
+        "type": "Creature",
+        "subtypes": [
+             "Wizard"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Naked%20Wizard.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flash\nWhen Naked Wizard enters, target creature loses all abilities and has base power 0/1 until end of turn.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
+        "id": "1ac7d996-81fe-4d91-8b38-5fe6a467dd03",
+        "name": "Cheetah Form",
+        "mana_cost": "1W",
+        "type": "Enchantment",
+        "subtypes": [
+             "Aura"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cheetah%20Form.png",
+        "colors": [
+            "W"
+        ],
+        "set": "YPE",
+        "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and has haste and lifelink."
+    },
+    {
+        "id": "dc784ae1-f47b-4101-bd96-da757d457a15",
+        "name": "Fire Kingdom",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "subtypes": [
+             "Kingdom"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fire%20Kingdom.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "{T}: Add {R}.\n2RR: Fire Kingdom deals 2 damage to any target."
+    },
+    {
+        "id": "4e8b3c1d-1265-4586-94d3-281174ee5789",
+        "name": "Flame Princess",
+        "mana_cost": "2RRR",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Elemental",
+             "Noble"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Flame%20Princess.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flame Princessâ€™s power and toughness are each equal to the number of red permanents on the battlefield.\nWhen Flame Princess attacks, put a flame counter on target permanent. That permanent becomes red.",
+        "power": "*",
+        "toughness": "*"
+    },
+    {
         "id": "dbea7995-ae75-4d09-b69e-f12bb18bb856",
         "name": "Patriotic Gunseller",
         "mana_cost": "RRRRR",
@@ -3133,6 +3373,21 @@
         "oracle_text": "",
         "power": "1",
         "toughness": "1"
+    },
+    {
+        "id": "80b288b2-87da-40ab-8b27-ce0c36ecc708",
+        "name": "Butterfly",
+        "mana_cost": "",
+        "type": "Token Creature",
+        "subtypes": [
+             "Butterfly"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Butterfly.png",
+        "colors": [
+            ""
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying"
     }
 ]
 [MainSlot]

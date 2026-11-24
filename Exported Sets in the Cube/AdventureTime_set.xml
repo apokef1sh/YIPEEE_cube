@@ -398,9 +398,240 @@ When Ancient Psychic Tandem War Elephant enters, target opponent reveals their h
 If Marceline would be destroyed, regenerate her.
 {T}: Target red permanent becomes colorless. Add {R}.</text>
     </card>
+    <card>
+      <name>Prismo, the Wishmaster</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+Prismo can’t block.
+When Prismo enters, reveal a card from your sideboard. Put it into your hand.</text>
+    </card>
+    <card>
+      <name>Simon Petrikov, Antiquarian</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Simon enters, search your library for a legendary artifact card, reveal it, put it into your hand, then shuffle.
+2UUU: Transform Simon Petrikov. Activate only as a sorcery and only if Simon is equipped.</text>
+    </card>
+    <card>
+      <name>Ice King, Erratic Wizard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Ice King is equipped, he gets +3/+1 and has flying.
+Whenever you cast an instant or sorcery spell, deal 3 damage to target opponent. Then, tap target nonland permanent that player controls and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Huntress Wizard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Treefolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ninjutsu 2G
+When Huntress Wizard deals combat damage to a player, search your library for a land card, put it on the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Grand Master Wizard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wizards can only be blocked by Wizards.
+Instant and sorcery spells you cast cost {2} less.</text>
+    </card>
+    <card>
+      <name>Abracadaniel, Amateur Wizard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Abracadaniel dies, return him from the graveyard to the battlefield at the beginning of your next end step.</text>
+    </card>
+    <card>
+      <name>Butterflyify</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. Its controller creates a 1/1 Butterfly creature token with flying.</text>
+    </card>
+    <card>
+      <name>Rock Wizard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Disguise {3} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
+    </card>
+    <card>
+      <name>Summon an Astral Beast</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library. Add GG to your mana pool.</text>
+    </card>
+    <card>
+      <name>Wizard Sky Barrier</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Wizards have prowess.
+Unless they are destroyed, creatures can’t leave the battlefield.</text>
+    </card>
+    <card>
+      <name>Lub Glub</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BBB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Disguise 1B (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
+    </card>
+    <card>
+      <name>Naked Wizard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Naked Wizard enters, target creature loses all abilities and has base power 0/1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Cheetah Form</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has haste and lifelink.</text>
+    </card>
+    <card>
+      <name>Fire Kingdom</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Kingdom </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.
+2RR: Fire Kingdom deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Flame Princess</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elemental Noble </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flame Princess’s power and toughness are each equal to the number of red permanents on the battlefield.
+When Flame Princess attacks, put a flame counter on target permanent. That permanent becomes red.</text>
+    </card>
 
     <!-->Tokens</-->
 
+    <card>
+      <name>Butterfly</name>
+      <set></set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Butterfly </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
 
   </cards>
 </cockatrice_carddatabase>
