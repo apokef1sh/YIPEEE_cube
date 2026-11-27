@@ -24,6 +24,16 @@
         "toughness": "2"
     },
     {
+        "id": "b82c05a8-87d1-485d-9442-77e44baebaee",
+        "name": "Billions of Fans",
+        "mana_cost": "6",
+        "type": "Artifact",
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Billions%20of%20Fans.png",
+        "colors": [],
+        "set": "YPE",
+        "oracle_text": "Fading 5 (This permanent enters with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)\nCumulative Upkeep—Each opponent loses 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+    },
+    {
         "id": "c600bfcd-1c98-497e-95e2-54e6e26b758e",
         "name": "Hunt Rathalos",
         "mana_cost": "{2}{R}{R}",
@@ -2479,7 +2489,6 @@
         "power": "1",
         "toughness": "2"
     },
-    ,
     {
         "id": "64214225-d2ac-4402-a1b2-3290450dcee6",
         "name": "Huntress Wizard",
@@ -3448,6 +3457,9 @@
 2 Natascha
 2 Suspicious Schemer
 2 Evan, Gluttonous Gulper
+2 Billions of Fans
+
+# ADVENTURE TIME
 2 Candy Kingdom
 2 Donut Witch
 2 Earl of Lemongrab
@@ -3491,6 +3503,21 @@
 2 Worm College
 2 Theoretical Fightonomics
 2 Ancient Psychic Tandem War Elephant
+2 Simon Petrikov, Antiquarian
+2 Huntress Wizard
+2 Grand Master Wizard
+2 Abracadaniel, Amateur Wizard
+2 Butterflyify
+2 Rock Wizard
+2 Summon an Astral Beast
+2 Wizard Sky Barrier
+2 Lub Glub
+2 Naked Wizard
+2 Cheetah Form
+2 Fire Kingdom
+2 Flame Princess
+
+# infiniroom
 2 Patriotic Gunseller
 2 Ominous Portal
 2 Key Killer
@@ -3534,6 +3561,7 @@
 2 Funeral Room // Awakening Hall
 2 Ticket Booth // Tunnel of Hate
 2 Greenhouse // Rickety Gazebo
+
 # og duals
 2 Badlands
 2 Bayou
