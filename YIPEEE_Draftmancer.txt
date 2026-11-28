@@ -24,6 +24,26 @@
         "toughness": "2"
     },
     {
+        "id": "9e1a2a3a-6dcd-47af-853e-beb7efc1570a",
+        "name": "Lannen, No1 Infiniroom Fan",
+        "mana_cost": "1UBR",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Human",
+             "Gamer"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lannen%20No1%20Infiniroom%20Fan.png",
+        "colors": [
+            "U",
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Whenever you sacrifice one or more Binguses for the first time each turn, roll a six-sided dice, then create that many treasure tokens.\nSacrifice five Binguses: Enter the Infiniroom.",
+        "power": "3",
+        "toughness": "3"
+    },
+    {
         "id": "b82c05a8-87d1-485d-9442-77e44baebaee",
         "name": "Billions of Fans",
         "mana_cost": "6",
@@ -2678,6 +2698,40 @@
         "toughness": "*"
     },
     {
+        "id": "61c6b801-30d4-4cd4-baf2-ac3726c006bb",
+        "name": "Alpha Hug Wolf",
+        "mana_cost": "4GG",
+        "type": "Creature",
+        "subtypes": [
+             "Werewolf"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Alpha%20Hug%20Wolf.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\nAt the beginning of combat on your turn, Alpha Hug Wolf fights another target creature.\nWhen Hug Wolf deals damage to a creature, that creature becomes a 4/4 Werewolf with trample and loses all other abilities, then goad that creature for the rest of the game.",
+        "power": "6",
+        "toughness": "6"
+    },
+    {
+        "id": "fa3a3dcf-55f9-4179-b761-312102a30703",
+        "name": "Hug Wolf",
+        "mana_cost": "2GG",
+        "type": "Creature",
+        "subtypes": [
+             "Werewolf"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Hug%20Wolf.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample\nAt the beginning of combat on your turn, Hug Wolf fights another target creature.",
+        "power": "4",
+        "toughness": "4"
+    },
+    {
         "id": "dbea7995-ae75-4d09-b69e-f12bb18bb856",
         "name": "Patriotic Gunseller",
         "mana_cost": "RRRRR",
@@ -3160,9 +3214,142 @@
         "power": "1",
         "toughness": "3"
     },
-
-
-
+    {
+        "id": "28bab856-7431-4fc2-b56b-f7dc449a727c",
+        "name": "Bonus Room",
+        "mana_cost": "3RR // 2R",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bonus%20Room.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "layout": "split",
+        "oracle_text": "When you unlock this door, create five 1/1 Bingus creature tokens.\n--- \nWhen you unlock this door, creatures you control get +2/+0 and gain haste until end of turn."
+    },
+    {
+        "id": "052edbe4-6cba-4294-82f6-3294007fedbc",
+        "name": "Tentacle Room",
+        "mana_cost": "2B // 3B/RB/R",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tentacle%20Room.png",
+        "colors": [
+            "B",
+            "R"
+        ],
+        "set": "YPE",
+        "layout": "split",
+        "oracle_text": "Whenever one or more creatures enter the battlefield for the first time each turn, put a -1/-1 counter on each of those creatures, then draw a card.\n--- \nIf a Room would create one or more Bingus tokens under your control, create that many 4/4 black Bingus creature tokens named Eakeur with trample instead."
+    },
+    {
+        "id": "547b13ed-4169-4426-a34f-75801e6fa0a1",
+        "name": "Josh, Cult Leader",
+        "mana_cost": "BBBBB",
+        "type": "Legendary Creature",
+        "subtypes": [
+             "Nightmare"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Josh%20Cult%20Leader.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying\nWhen Josh attacks, shuffle your graveyard into your library, then reveal the top ten cards of your library. Each opponent loses X life and you gain X life, where X is the greatest mana value among cards revealed this way.        ",
+        "power": "6",
+        "toughness": "6"
+    },
+    {
+        "id": "3b515c97-efae-4a99-a9f2-40178432897e",
+        "name": "Venting Bingus",
+        "mana_cost": "2R",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Venting%20Bingus.png",
+        "colors": [
+            "R"
+        ],
+        "set": "YPE",
+        "oracle_text": "Haste\nWhen you reveal this card, you may put it onto the battlefield.\nWhen Venting Bingus dies, shuffle it into your library.",
+        "power": "2",
+        "toughness": "2"
+    },
+    {
+        "id": "2d40bf90-b6fb-4b5b-b222-e0ffa3bed1a4",
+        "name": "Amorphous Ooze",
+        "mana_cost": "3GG",
+        "type": "Creature",
+        "subtypes": [
+             "Ooze"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Amorphous%20Ooze.png",
+        "colors": [
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "Trample, Vigilance\nAmorphous Ooze has base power and toughness equal to the number of creatures you control.",
+        "power": "*",
+        "toughness": "*"
+    },
+    {
+        "id": "ee35b6b4-23ec-4461-8b45-4fc66638c4d5",
+        "name": "Ambush of Ghosts",
+        "mana_cost": "1BB",
+        "type": "Creature",
+        "subtypes": [
+             "Spirit"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ambush%20of%20Ghosts.png",
+        "colors": [
+            "B"
+        ],
+        "set": "YPE",
+        "oracle_text": "Flying, deathtouch\nWhen you reveal this card, each opponent loses 2 life. You gain life equal to the life lost this way.",
+        "power": "1",
+        "toughness": "1"
+    },
+    {
+        "id": "26799d40-4daf-4840-b7d6-c883ebfca630",
+        "name": "Music Box",
+        "mana_cost": "3R // 1W",
+        "type": "Enchantment",
+        "subtypes": [
+             "Room"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Music%20Box.png",
+        "colors": [
+            "W",
+            "R"
+        ],
+        "set": "YPE",
+        "layout": "split",
+        "oracle_text": "When this door is unlocked, each creature your opponents control get +1/-1 and are goaded until your next turn.\n--- \nSacrifice a Treasure: Create a colorless equipment artifact token named Gun with \"Equipped creature gets +2/+0 and first strike\" and equip {1}"
+    },
+    {
+        "id": "3d24b0aa-a0d5-40ff-9633-2d8ea3557fac",
+        "name": "Splitter",
+        "mana_cost": "2R/G",
+        "type": "Creature",
+        "subtypes": [
+             "Bingus"
+        ],
+        "image": "https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Splitter.png",
+        "colors": [
+            "R",
+            "G"
+        ],
+        "set": "YPE",
+        "oracle_text": "When Splitter dies, create three 1/1 Bingus creature tokens with haste.",
+        "power": "3",
+        "toughness": "3"
+    },
     {
         "id": "7cb80324-bf4d-4daf-8931-4f3a7fd33871",
         "name": "Bingus",
@@ -3458,6 +3645,7 @@
 2 Suspicious Schemer
 2 Evan, Gluttonous Gulper
 2 Billions of Fans
+2 Lannen, No1 Infiniroom Fan
 
 # ADVENTURE TIME
 2 Candy Kingdom
@@ -3516,6 +3704,8 @@
 2 Cheetah Form
 2 Fire Kingdom
 2 Flame Princess
+2 Alpha Hug Wolf
+2 Hug Wolf
 
 # infiniroom
 2 Patriotic Gunseller
@@ -3546,6 +3736,15 @@
 2 Nekobingus, Untouchable
 2 Keynor, Collector of Keys
 2 Wacky Wizard
+2 Bonus Room
+2 Tentacle Room
+2 Josh, Cult Leader
+2 Venting Bingus
+2 Amorphous Ooze
+2 Ambush of Ghosts
+2 Music Box
+2 Splitter
+
 2 Berserkers' Onslaught
 2 Gruul War Chant
 2 Teapot Slinger

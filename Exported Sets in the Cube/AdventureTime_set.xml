@@ -616,6 +616,37 @@ Enchanted creature gets +2/+2 and has haste and lifelink.</text>
       <text>Flame Princess’s power and toughness are each equal to the number of red permanents on the battlefield.
 When Flame Princess attacks, put a flame counter on target permanent. That permanent becomes red.</text>
     </card>
+    <card>
+      <name>Alpha Hug Wolf</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of combat on your turn, Alpha Hug Wolf fights another target creature.
+When Hug Wolf deals damage to a creature, that creature becomes a 4/4 Werewolf with trample and loses all other abilities, then goad that creature for the rest of the game.</text>
+    </card>
+    <card>
+      <name>Hug Wolf</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of combat on your turn, Hug Wolf fights another target creature.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -626,7 +657,7 @@ When Flame Princess attacks, put a flame counter on target permanent. That perma
         <colors></colors>
         <type>Token Creature - Butterfly </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>

@@ -26,6 +26,24 @@
           <text>Whenever you sacrifice a Food, put two +1/+1 counters on Evan.</text>
         </card>
         <card>
+          <name>Billions of Fans</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>6</manacost>
+            <cmc>6</cmc>
+            <type>Artifact</type>
+            <maintype>Artifact</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Billions%20of%20Fans.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Fading 5 (This permanent enters with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you canâ€™t, sacrifice it.)
+Cumulative Upkeepâ€”Each opponent loses 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
+        </card>
+        <card>
           <name>Hunt Rathalos</name>
           <prop>
             <layout>normal</layout>
@@ -2898,6 +2916,276 @@ Whenever one or more creatures attack you, you may pay {1}. If you do, target cr
 When Ancient Psychic Tandem War Elephant enters, target opponent reveals their hand. Draw X cards, where X is the number of non-land cards revealed.</text>
         </card>
         <card>
+          <name>Prismo, the Wishmaster</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1WW</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Creature - Avatar</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Prismo%20the%20Wishmaster.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Indestructible
+Prismo canÃ¢â‚¬â„¢t block.
+When Prismo enters, reveal a card from your sideboard. Put it into your hand.</text>
+        </card>
+        <card>
+          <name>Simon Petrikov, Antiquarian</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost>1U</manacost>
+            <cmc>2</cmc>
+            <type>Legendary Creature - Human Citizen</type>
+            <maintype>Creature</maintype>
+            <pt>1/2</pt>
+            <side>front</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Simon%20Petrikov%20Antiquarian.png">YPE</set>
+          <related attach="transform">Ice King, Erratic Wizard</related>
+          <tablerow>2</tablerow>
+          <text>When Simon enters, search your library for a legendary artifact card, reveal it, put it into your hand, then shuffle.
+2UUU: Transform Simon Petrikov. Activate only as a sorcery and only if Simon is equipped.</text>
+        </card>
+        <card>
+          <name>Ice King, Erratic Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>U</colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Creature - Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>3/2</pt>
+            <side>back</side>
+            <coloridentity>U</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ice%20King%20Erratic%20Wizard.png">YPE</set>
+          <related attach="transform">Simon Petrikov, Antiquarian</related>
+          <tablerow>2</tablerow>
+          <text>As long as Ice King is equipped, he gets +3/+1 and has flying.
+Whenever you cast an instant or sorcery spell, deal 3 damage to target opponent. Then, tap target nonland permanent that player controls and put a stun counter on it.</text>
+        </card>
+        <card>
+          <name>Huntress Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>3GG</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Treefolk Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>4/2</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Huntress%20Wizard.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Ninjutsu 2G
+When Huntress Wizard deals combat damage to a player, search your library for a land card, put it on the battlefield tapped, then shuffle.</text>
+        </card>
+        <card>
+          <name>Grand Master Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>WU</colors>
+            <manacost>3WU</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>3/6</pt>
+            <side>front</side>
+            <coloridentity>WU</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Grand%20Master%20Wizard.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Wizards can only be blocked by Wizards.
+Instant and sorcery spells you cast cost {2} less.</text>
+        </card>
+        <card>
+          <name>Abracadaniel, Amateur Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1WW</manacost>
+            <cmc>3</cmc>
+            <type>Legendary Creature - Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>0/1</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Abracadaniel%20Amateur%20Wizard.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>When Abracadaniel dies, return him from the graveyard to the battlefield at the beginning of your next end step.</text>
+        </card>
+        <card>
+          <name>Butterflyify</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1W</manacost>
+            <cmc>2</cmc>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Butterflyify.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Destroy target artifact or enchantment. Its controller creates a 1/1 Butterfly creature token with flying.</text>
+        </card>
+        <card>
+          <name>Rock Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost>6</manacost>
+            <cmc>6</cmc>
+            <type>Creature - Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>4/4</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Rock%20Wizard.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Trample
+Disguise {3} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
+        </card>
+        <card>
+          <name>Summon an Astral Beast</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>1GG</manacost>
+            <cmc>3</cmc>
+            <type>Sorcery</type>
+            <maintype>Sorcery</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Summon%20an%20Astral%20Beast.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library. Add GG to your mana pool.</text>
+        </card>
+        <card>
+          <name>Wizard Sky Barrier</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>3W</manacost>
+            <cmc>4</cmc>
+            <type>Enchantment</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Wizard%20Sky%20Barrier.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Wizards have prowess.
+Unless they are destroyed, creatures canÃ¢â‚¬â„¢t leave the battlefield.</text>
+        </card>
+        <card>
+          <name>Lub Glub</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>1BBB</manacost>
+            <cmc>4</cmc>
+            <type>Creature - Elemental</type>
+            <maintype>Creature</maintype>
+            <pt>1/3</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Lub%20Glub.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Deathtouch
+Disguise 1B (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</text>
+        </card>
+        <card>
+          <name>Naked Wizard</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>3W</manacost>
+            <cmc>4</cmc>
+            <type>Creature - Wizard</type>
+            <maintype>Creature</maintype>
+            <pt>3/3</pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Naked%20Wizard.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flash
+When Naked Wizard enters, target creature loses all abilities and has base power 0/1 until end of turn.</text>
+        </card>
+        <card>
+          <name>Cheetah Form</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>W</colors>
+            <manacost>1W</manacost>
+            <cmc>2</cmc>
+            <type>Enchantment - Aura</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>W</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Cheetah%20Form.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Enchant creature
+Enchanted creature gets +2/+2 and has haste and lifelink.</text>
+        </card>
+        <card>
+          <name>Fire Kingdom</name>
+          <prop>
+            <layout>normal</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Legendary Land - Kingdom</type>
+            <maintype>Land</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Fire%20Kingdom.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>{T}: Add {R}.
+2RR: Fire Kingdom deals 2 damage to any target.</text>
+        </card>
+        <card>
+          <name>Flame Princess</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2RRR</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Elemental Noble</type>
+            <maintype>Creature</maintype>
+            <pt>*/*</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Flame%20Princess.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flame PrincessÃ¢â‚¬â„¢s power and toughness are each equal to the number of red permanents on the battlefield.
+When Flame Princess attacks, put a flame counter on target permanent. That permanent becomes red.</text>
+        </card>
+        <card>
           <name>Patriotic Gunseller</name>
           <prop>
             <layout>normal</layout>
@@ -3435,6 +3723,119 @@ When you unlock this door, enter the Infiniroom.
           <text>Forcefield Ã¢â‚¬â€ {T}: Regenerate target creature other than Wacky Wizard. (The next time this creature would be destroyed this turn, it isnÃ¢â‚¬â„¢t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
         </card>
         <card>
+          <name>Bonus Room</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>3RR // 2R</manacost>
+            <cmc>11</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Bonus%20Room.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>When you unlock this door, create five 1/1 Bingus creature tokens.
+--- 
+When you unlock this door, creatures you control get +2/+0 and gain haste until end of turn.</text>
+        </card>
+        <card>
+          <name>Tentacle Room</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>BR</colors>
+            <manacost>2B // 3B/RB/R</manacost>
+            <cmc>14</cmc>
+            <type>Enchantment - Room</type>
+            <maintype>Enchantment</maintype>
+            <pt></pt>
+            <side>front</side>
+            <coloridentity>BR</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Tentacle%20Room.png">YPE</set>
+          <landscapeOrientation>1</landscapeOrientation>
+          <tablerow>2</tablerow>
+          <text>Whenever one or more creatures enter the battlefield for the first time each turn, put a -1/-1 counter on each of those creatures, then draw a card.
+--- 
+If a Room would create one or more Bingus tokens under your control, create that many 4/4 black Bingus creature tokens named Eakeur with trample instead.</text>
+        </card>
+        <card>
+          <name>Josh, Cult Leader</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>BBBBB</manacost>
+            <cmc>5</cmc>
+            <type>Legendary Creature - Nightmare</type>
+            <maintype>Creature</maintype>
+            <pt>6/6</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Josh%20Cult%20Leader.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying
+When Josh attacks, shuffle your graveyard into your library, then reveal the top ten cards of your library. Each opponent loses X life and you gain X life, where X is the greatest mana value among cards revealed this way.        </text>
+        </card>
+        <card>
+          <name>Venting Bingus</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>R</colors>
+            <manacost>2R</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Bingus</type>
+            <maintype>Creature</maintype>
+            <pt>2/2</pt>
+            <side>front</side>
+            <coloridentity>R</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Venting%20Bingus.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Haste
+When you reveal this card, you may put it onto the battlefield.
+When Venting Bingus dies, shuffle it into your library.</text>
+        </card>
+        <card>
+          <name>Amorphous Ooze</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>G</colors>
+            <manacost>3GG</manacost>
+            <cmc>5</cmc>
+            <type>Creature - Ooze</type>
+            <maintype>Creature</maintype>
+            <pt>*/*</pt>
+            <side>front</side>
+            <coloridentity>G</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Amorphous%20Ooze.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Trample, Vigilance
+Amorphous Ooze has base power and toughness equal to the number of creatures you control.</text>
+        </card>
+        <card>
+          <name>Ambush of Ghosts</name>
+          <prop>
+            <layout>normal</layout>
+            <colors>B</colors>
+            <manacost>1BB</manacost>
+            <cmc>3</cmc>
+            <type>Creature - Spirit</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity>B</coloridentity>
+          </prop>
+          <set rarity="common" picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Ambush%20of%20Ghosts.png">YPE</set>
+          <tablerow>2</tablerow>
+          <text>Flying, deathtouch
+When you reveal this card, each opponent loses 2 life. You gain life equal to the life lost this way.</text>
+        </card>
+        <card>
           <name>Bingus</name>
           <prop>
             <layout>token</layout>
@@ -3689,6 +4090,24 @@ This Creature is all colours.</text>
           <token>1</token>
           <tablerow>2</tablerow>
           <text></text>
+        </card>
+        <card>
+          <name>Butterfly</name>
+          <prop>
+            <layout>token</layout>
+            <colors></colors>
+            <manacost></manacost>
+            <cmc>0</cmc>
+            <type>Token Creature - Butterfly</type>
+            <maintype>Creature</maintype>
+            <pt>1/1</pt>
+            <side>front</side>
+            <coloridentity></coloridentity>
+          </prop>
+          <set picURL="https://raw.githubusercontent.com/apokef1sh/YIPEEE_cube/main/Images/Butterfly.png">YPE</set>
+          <token>1</token>
+          <tablerow>2</tablerow>
+          <text>Flying</text>
         </card>
   </cards>
 </cockatrice_carddatabase>

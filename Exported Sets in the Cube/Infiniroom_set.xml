@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>YPE</name>
+      <longname></longname>
+      <settype>YPE</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Ominous Portal</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)</text>
+    </card>
+    <card>
+      <name>Key Killer</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bingus Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature deals combat damage to a player, create a treasure token.
+Dash 1RR (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</text>
+    </card>
+    <card>
+      <name>An Intruder</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+When you reveal this card, you may put it onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Speeder Troupe</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Speeder Troupe enters, create two 1/1 Bingus creature tokens. Binguses you control gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Bingus Chest</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, roll a six-sided dice.
+Whenever you roll a 5 or higher, create a 1/1 Bingus creature token.</text>
+    </card>
+    <card>
+      <name>Spawner Room</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R // 3R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you unlock this door, roll three six-sided dice.
+Whenever you roll a 5 or higher, create a 1/1 Bingus creature token.
+--- 
+When you unlock this door, this room deals 4 damage divided as you choose among any number of targets.</text>
+    </card>
+    <card>
+      <name>Bingus Shop</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors></colors>
+        <manacost>5 // 3</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, reveal the top card of your library. You may pay {1}. If you do, put it into your hand. Otherwise, put it on the bottom of your library.
+--- 
+When you unlock this door, draw 2 cards.</text>
+    </card>
+    <card>
+      <name>Crack in the Chamber</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Run — Enter the Infiniroom.
+• Smash — At the beginning of your next upkeep, create a 4/4 black Bingus creature token named Eakeur with trample.
+Entwine {3} (Choose both if you pay the entwine cost.)</text>
+    </card>
+    <card>
+      <name>Geoff, Conqueror of Rooms</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Room enters under your control, Geoff explores.
+Whenever you fully unlock a Room, if Geoff attacked this turn, you may sacrifice that Room. If you do, enter the Infiniroom.</text>
+    </card>
+    <card>
+      <name>Steven, the First Guardian</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, deathtouch
+When Steven dies, enter the Infiniroom. (Reveal cards from the top of your library until you reveal a Room card. Put that card on the battlefield and the rest on the bottom of your library in a random order. When a door of that room is unlocked, create a 1/1 red Bingus creature token.)</text>
+    </card>
+    <card>
+      <name>Chamber Room</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1BR // 5BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you unlock this door, create a 4/4 black Bingus creature token named Eakeur with trample.
+--- 
+Binguses you control get +1/+1 and have infect.</text>
+    </card>
+    <card>
+      <name>Ghastly Crypt</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2BB // 1R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you unlock this door, target creature in your graveyard gains Fading 1. Put it onto the battlefield.
+--- 
+When you unlock this door, deal 1 damage to each creature your opponents control.</text>
+    </card>
+    <card>
+      <name>Chonk</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Gwendolyn</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>4B/GB/G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gwendolyn enters, destroy target artifact or enchantment.
+When Gwendolyn dies, create a 6/3 Cat Horror creature token with flying and a 0/3 Cat Zombie creature token with defender.</text>
+    </card>
+    <card>
+      <name>Well Timed Dodge</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell or ability that targets a permanent you control. Draw a card.</text>
+    </card>
+    <card>
+      <name>Laser Blasted</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Deal 6 damage to target creature.
+• Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Shopkeep</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bingus Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Dagabey, Burning the Tiles</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Dagabey attacks, you may sacrifice a Room. If you do, untap all attacking creatures. After this phase, there is an additional combat phase.
+When Dagabey dies, enter the Infiniroom.</text>
+    </card>
+    <card>
+      <name>The Oculord, All-Seeing</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6UU</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, hexproof
+Your opponents play with their hands revealed.
+On your turn, you may cast spells from your opponent’s hands without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Amogamation</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>UBRG</colors>
+        <manacost>4B/RB/GU/B</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Bingus Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Devour 3
+When this creature attacks, create X 1/1 red Bingus creature tokens, where X is half the number of counters on The Amogamation, rounded down. </text>
+    </card>
+    <card>
+      <name>Beelzebird</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Deal 2 damage to target creature.
+When Beelzebird deals damage to a creature, tap that creature and put 2 stun counters on it.</text>
+    </card>
+    <card>
+      <name>Steven&apos;s Chamber</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1B // 2U/R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you unlock this door, search your library for a Homunculus card, reveal it, and put it into your hand.
+--- 
+When you unlock this door, enter the Infiniroom.
+{6}: Enter the Infiniroom.</text>
+    </card>
+    <card>
+      <name>I Really Really Really Really Really Want Billy</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spree (Choose one or more additional costs.)
++ Get Billy — {1} — Search your library for a card named Billy, Monster Kin, reveal it, and put it into your hand.
++ That’s not Billy... — 2R — Create a 4/4 black Bingus creature token named Eakeur with trample.
++ Where’s Billy? — {2} — Enter the Infiniroom.</text>
+    </card>
+    <card>
+      <name>Billy, Monster Kin</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4R/G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Nekobingus, Untouchable</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>R/WR/W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Cat Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, hexproof</text>
+    </card>
+    <card>
+      <name>Keynor, Collector of Keys</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1W/BW/B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eerie — Whenever an enchantment you control enters and whenever you fully unlock a room, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Wacky Wizard</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bingus Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Forcefield — {T}: Regenerate target creature other than Wacky Wizard. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    </card>
+    <card>
+      <name>Bonus Room</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR // 2R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you unlock this door, create five 1/1 Bingus creature tokens.
+--- 
+When you unlock this door, creatures you control get +2/+0 and gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Tentacle Room</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2B // 3B/RB/R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Room  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures enter the battlefield for the first time each turn, put a -1/-1 counter on each of those creatures, then draw a card.
+--- 
+If a Room would create one or more Bingus tokens under your control, create that many 4/4 black Bingus creature tokens named Eakeur with trample instead.</text>
+    </card>
+    <card>
+      <name>Josh, Cult Leader</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BBBBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Josh attacks, shuffle your graveyard into your library, then reveal the top ten cards of your library. Each opponent loses X life and you gain X life, where X is the greatest mana value among cards revealed this way.        </text>
+    </card>
+    <card>
+      <name>Venting Bingus</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When you reveal this card, you may put it onto the battlefield.
+When Venting Bingus dies, shuffle it into your library.</text>
+    </card>
+    <card>
+      <name>Amorphous Ooze</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Vigilance
+Amorphous Ooze has base power and toughness equal to the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Ambush of Ghosts</name>
+      <set rarity="common">YPE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+When you reveal this card, each opponent loses 2 life. You gain life equal to the life lost this way.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Bingus</name>
+      <set>YPE</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Eakeur</name>
+      <set>YPE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Bingus </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cat Horror</name>
+      <set>YPE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Cat Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cat Zombie</name>
+      <set>YPE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Cat Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

@@ -10,6 +10,111 @@
   <cards>
 
     <card>
+      <name>Jared Hirt</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Jared </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>+1: Create a 3/3 Kavu creature token with trample that’s all colors.-3: -6: </text>
+    </card>
+    <card>
+      <name>Erica, the Beguiler</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>1WUB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+
+Whenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura’s mana value, gain control of that permanent for as long as that Aura is attached to it.</text>
+    </card>
+    <card>
+      <name>Aspiring Fireman</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from red
+At the beginning of your upkeep, put a flame counter on target creature.
+Creatures with flame counters on them are red.
+Creatures you control get +X/+X, where X is the number of flame counters on them.               </text>
+    </card>
+    <card>
+      <name>Suspicious Schemer</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUBBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you commit a crime, Suspicious Schemer connives.
+Whenever another creature you control connives, each instant and sorcery in your hand has plot until end of turn. Its plot cost is equal to its mana cost reduced by {3}.</text>
+    </card>
+    <card>
+      <name>Tung Tung Tung Tung Tung Tung Tung Tung Tung Sahur</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tung Tung Tung Tung Tung Tung Tung Tung Tung Sahur is put into a graveyard from play, put a 1/1 green Saproling creature token named Boneca Ambalabu into play.</text>
+    </card>
+    <card>
+      <name>Hunt Glavenus</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Battle - Hunt </type>
+        <maintype>Battle</maintype>
+      <loyalty>8</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s end step, if that player did not attack Hunt: Glavenous this turn, Hunt: Glavenous deals 6 damage to that player.
+When Hunt: Glavenous leaves the battlefield, each player that had a source they control deal       damage to it this turn creates 3 Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Glavenus</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Creature - Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
       <name>Evan, Gluttonous Gulper</name>
       <set rarity="common"></set>
       <prop>
@@ -23,9 +128,51 @@
       <tablerow>2</tablerow>
       <text>Whenever you sacrifice a Food, put two +1/+1 counters on Evan.</text>
     </card>
+    <card>
+      <name>Billions of Fans</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Fading 5 (This permanent enters with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)
+Cumulative Upkeep—Each opponent loses 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
+    </card>
+    <card>
+      <name>Lannen, No1 Infiniroom Fan</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Gamer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice one or more Binguses for the first time each turn, roll a six-sided dice, then create that many treasure tokens.
+Sacrifice five Binguses: Enter the Infiniroom.</text>
+    </card>
 
     <!-->Tokens</-->
 
+    <card>
+      <name>Boneca Ambalabu</name>
+      <set></set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Saproling </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
 
   </cards>
 </cockatrice_carddatabase>
